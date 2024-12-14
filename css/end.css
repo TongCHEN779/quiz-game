@@ -1,7 +1,15 @@
+#end {
+    max-height: 100%;
+    justify-content: flex-start;
+    align-items: center;
+}
+
 .button-replay {
-    background: rgb(203, 67, 53);
+    margin-top: 40px;
+    background: rgb(26, 82, 118);
 }
 
 .button-home {
-    background: rgb(26, 82, 118);
+    background: rgb(203, 67, 53);
+    margin-bottom: 40px;
 }
