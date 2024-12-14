@@ -1,8 +1,3 @@
-// const displayScore = localStorage.getItem('saveScore')
-
-// finalScore.innerText = displayScore
-
-
 document.addEventListener('DOMContentLoaded', () => {
     const wrongAnswersContainer = document.querySelector('#wrongAnswer');
     const wrongAnswers = JSON.parse(localStorage.getItem('wrongAnswers')) || [];

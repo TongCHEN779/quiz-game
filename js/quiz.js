@@ -5,15 +5,18 @@ const progressText = document.querySelector('#progressText');
 const scoreText = document.querySelector('#score');
 
 // constants
-const SCORE_POINT = 1;
-const MAX_QUESTION = 10;
+const NUM_QUESTION = 10;
+const SWITCH_QUESTION = localStorage.getItem('switchQuestion')
+
+// variables
+var typeQuestion = "english";
+var typeChoice = "chinese";
 
 
 class QuizGame {
-  constructor(questions, maxQuestions, scorePoint) {
+  constructor(questions, maxQuestions) {
     this.questions = questions;
     this.maxQuestions = maxQuestions;
-    this.scorePoint = scorePoint;
     this.questionCounter = 0;
     this.score = 0;
     this.currentQuestion = null;
@@ -68,15 +71,11 @@ class QuizGame {
     }
 
     if (isCorrect) {
-        this.incrementScore(this.scorePoint);
+        this.score ++;
+        scoreText.innerText = ((this.score / this.maxQuestions) * 100);
     }
 
     return isCorrect ? 'correct' : 'incorrect';
-  }
-
-  incrementScore(points) {
-    this.score += points;
-    scoreText.innerText = ((this.score / this.maxQuestions) * 100);
   }
 }
 
@@ -86,7 +85,17 @@ const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) +
 const shuffleArray = (array) => array.sort(() => Math.random() - 0.5);
 
 // Generate Quiz
-const generateQuiz = (data, numQuestions) => {
+const generateQuiz = (data, numQuestions, switchQuestion) => {
+
+  if (switchQuestion === "switchEnglish") {
+    typeQuestion = "english";
+    typeChoice = "chinese";
+  } 
+  if (switchQuestion === "switchChinese") {
+    typeQuestion = "chinese";
+    typeChoice = "english";
+  }
+
   if (data.length < numQuestions) {
     throw new Error('Not enough data to generate the quiz');
   }
@@ -95,14 +104,14 @@ const generateQuiz = (data, numQuestions) => {
   return shuffledQuestions.map((questionData) => {
     const correctAnswerIndex = getRandomInt(1, 4); // Randomly assign correct answer to 1-4
     const choices = Array(4).fill(null);
-    choices[correctAnswerIndex - 1] = questionData['chinese'];
+    choices[correctAnswerIndex - 1] = questionData[typeChoice];
 
-    const usedChoices = new Set([questionData['chinese']]);
+    const usedChoices = new Set([questionData[typeChoice]]);
     for (let i = 0; i < 4; i++) {
       if (choices[i] === null) {
         let randomChoice;
         do {
-          randomChoice = data[getRandomInt(0, data.length - 1)]['chinese'];
+          randomChoice = data[getRandomInt(0, data.length - 1)][typeChoice];
         } while (usedChoices.has(randomChoice));
         choices[i] = randomChoice;
         usedChoices.add(randomChoice);
@@ -110,7 +119,7 @@ const generateQuiz = (data, numQuestions) => {
     }
 
     return {
-      question: questionData['english'],
+      question: questionData[typeQuestion],
       choice1: choices[0],
       choice2: choices[1],
       choice3: choices[2],
@@ -134,8 +143,8 @@ const loadJson = async (url) => {
 };
 
 loadJson('docs/toefl.json').then((data) => {
-  const questionList = generateQuiz(data, MAX_QUESTION);
-  const quizGame = new QuizGame(questionList, MAX_QUESTION, SCORE_POINT);
+  const questionList = generateQuiz(data, NUM_QUESTION, SWITCH_QUESTION);
+  const quizGame = new QuizGame(questionList, NUM_QUESTION);
 
   choices.forEach((choice) => {
     choice.addEventListener('click', (e) => {
