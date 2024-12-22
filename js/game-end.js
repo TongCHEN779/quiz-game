@@ -3,6 +3,9 @@ let saveScore = localStorage.getItem('saveScore') || 0;
 const finalScore = document.querySelector('#finalScore');
 finalScore.innerText = saveScore;
 
+// display text
+const displayText = document.querySelector('#displayText');
+
 
 // display wrong answers
 let storedAnswers = localStorage.getItem("wrongAnswers");
@@ -14,6 +17,7 @@ let tableBody = table.querySelector("tbody");
 if (wrongAnswers.length === 0) {
   table.style.display = "none";
 } else {
+  displayText.innerText = "Wrong answers"
   wrongAnswers.forEach(answer => {
       let row = document.createElement("tr");
       

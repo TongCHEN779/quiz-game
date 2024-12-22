@@ -142,7 +142,7 @@ const loadJson = async (url) => {
 };
 
 
-loadJson('docs/toefl_d1.json').then((data) => {
+loadJson('docs/toefl_d2.json').then((data) => {
   const questionList = generateQuiz(data, NUM_QUESTION, SWITCH_QUESTION);
   const quizGame = new QuizGame(questionList, NUM_QUESTION);
 
