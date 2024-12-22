@@ -1,7 +1,7 @@
 import os
 import json
 
-FILE_NAME = "toefl_d1"
+FILE_NAME = "toefl_d2"
 
 # load data
 data_path = os.path.join("docs", FILE_NAME + ".json")
@@ -33,8 +33,8 @@ def add_word_to_data(dict_word, list_data):
 # modify dataset
 # fmt: off
 dict_word = {  
-    "english": "crust",
-    "chinese": "地殼、外殼",
+    "english": "hominid",
+    "chinese": "人類、人科",
 }
 # fmt: on
 

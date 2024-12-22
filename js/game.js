@@ -35,7 +35,7 @@ class QuizGame {
     if (this.questionCounter >= this.maxQuestions) {
       localStorage.setItem('saveScore', (this.score / this.maxQuestions) * 100);
       localStorage.setItem('wrongAnswers', JSON.stringify(this.wrongAnswers));
-      return window.location.assign('end.html');
+      return window.location.assign('game-end.html');
     }
 
     this.currentQuestion = this.questions[this.questionCounter];
@@ -66,7 +66,6 @@ class QuizGame {
         this.wrongAnswers.push({
             question: this.currentQuestion.question,
             correctAnswer: this.currentQuestion[`choice${this.currentQuestion.answer}`],
-            selectedAnswer: this.currentQuestion[`choice${selectedAnswer}`],
         });
     }
 
@@ -129,7 +128,7 @@ const generateQuiz = (data, numQuestions, switchQuestion) => {
   });
 };
 
-// Load JSON and Start Game
+// Load JSON 
 const loadJson = async (url) => {
   try {
     const response = await fetch(url);
@@ -141,6 +140,7 @@ const loadJson = async (url) => {
     console.error('Error fetching or parsing JSON:', error);
   }
 };
+
 
 loadJson('docs/toefl_d1.json').then((data) => {
   const questionList = generateQuiz(data, NUM_QUESTION, SWITCH_QUESTION);

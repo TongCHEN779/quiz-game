@@ -59,8 +59,16 @@ h2 {
     margin-bottom: 1rem;
     text-decoration: none;
     color: white;
-    background: rgb(203, 67, 53);
     border-radius: 8px;
+}
+
+.button-list {
+    background: rgb(17, 122, 101);
+    margin-bottom: 20px;
+}
+
+.button-start {
+    background: rgb(203, 67, 53);
 }
 
 .button:hover {
