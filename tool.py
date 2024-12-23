@@ -33,8 +33,8 @@ def add_word_to_data(dict_word, list_data):
 # modify dataset
 # fmt: off
 dict_word = {  
-    "english": "hominid",
-    "chinese": "人類、人科",
+    "english": "extent",
+    "chinese": "程度、範圍",
 }
 # fmt: on
 

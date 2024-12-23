@@ -7,11 +7,15 @@ body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    flex-direction: column;
+    height: 100vh;
+    display: flex;
 }
 
 h1 {
     font-size: 48px;
     color: rgb(26, 82, 118);
+    margin-top: 4.8rem;
     margin-bottom: 3.2rem;
 }
 
@@ -21,12 +25,11 @@ h2 {
 }
 
 .container {
-    width: 100vw;
-    height: 100vh;
-    display: flex;
+    /* width: 100vw; */
     justify-content: center;
     align-items: center;
-    /* max-width: 800px; */
+    display: flex;
+    flex: 1;
     margin: 0 auto;
 }
 
@@ -64,7 +67,7 @@ h2 {
 
 .button-list {
     background: rgb(17, 122, 101);
-    margin-bottom: 20px;
+    margin-bottom: 24px;
 }
 
 .button-start {
@@ -75,4 +78,33 @@ h2 {
     cursor: pointer;
     transition: 120ms;
     transform: scale(1.02);
+}
+
+
+footer {
+    padding: 20px 0;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer-icons img {
+    width: 36px;
+    height: 36px;
+    padding: 4px;
+}
+
+.icon-home {
+    opacity: 0.72;
+}
+
+.icon-github {
+    opacity: 0.6;
+}
+
+.footer-icons img:hover {
+    cursor: pointer;
+    transition: 120ms;
+    transform: scale(1.04);
 }
