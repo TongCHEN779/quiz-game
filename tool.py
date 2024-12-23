@@ -1,7 +1,7 @@
 import os
 import json
 
-FILE_NAME = "toefl_d2"
+FILE_NAME = "toefl"
 
 # load data
 data_path = os.path.join("docs", FILE_NAME + ".json")

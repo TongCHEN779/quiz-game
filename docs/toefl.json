@@ -1,0 +1,690 @@
+[
+  {
+    "english": "statement",
+    "chinese": "陳述"
+  },
+  {
+    "english": "deformed",
+    "chinese": "使變形"
+  },
+  {
+    "english": "reform",
+    "chinese": "改造、改革"
+  },
+  {
+    "english": "plant",
+    "chinese": "植物、工廠"
+  },
+  {
+    "english": "plantation",
+    "chinese": "農場"
+  },
+  {
+    "english": "transplant",
+    "chinese": "移居、遷移"
+  },
+  {
+    "english": "authority",
+    "chinese": "專家、威信"
+  },
+  {
+    "english": "reproduce",
+    "chinese": "繁殖、複製"
+  },
+  {
+    "english": "term",
+    "chinese": "把...稱為、學期"
+  },
+  {
+    "english": "period",
+    "chinese": "時期、週期"
+  },
+  {
+    "english": "organic",
+    "chinese": "器官、生物"
+  },
+  {
+    "english": "process",
+    "chinese": "過程、加工"
+  },
+  {
+    "english": "inclusion",
+    "chinese": "內涵"
+  },
+  {
+    "english": "indicate",
+    "chinese": "指出"
+  },
+  {
+    "english": "sediment",
+    "chinese": "沈澱物、沈積"
+  },
+  {
+    "english": "gasoline",
+    "chinese": "汽油"
+  },
+  {
+    "english": "cavern",
+    "chinese": "巨穴"
+  },
+  {
+    "english": "rapid",
+    "chinese": "迅速的、急流"
+  },
+  {
+    "english": "glacier",
+    "chinese": "冰河"
+  },
+  {
+    "english": "involve",
+    "chinese": "包含、涉及"
+  },
+  {
+    "english": "atmosphere",
+    "chinese": "大氣、氣氛"
+  },
+  {
+    "english": "manufacture",
+    "chinese": "製造"
+  },
+  {
+    "english": "mammal",
+    "chinese": "哺乳類"
+  },
+  {
+    "english": "establishment",
+    "chinese": "確立、設施"
+  },
+  {
+    "english": "extinction",
+    "chinese": "消失"
+  },
+  {
+    "english": "erosion",
+    "chinese": "侵蝕"
+  },
+  {
+    "english": "erode",
+    "chinese": "侵蝕"
+  },
+  {
+    "english": "colony",
+    "chinese": "殖民地"
+  },
+  {
+    "english": "meteorite",
+    "chinese": "隕石"
+  },
+  {
+    "english": "desertification",
+    "chinese": "沙漠化"
+  },
+  {
+    "english": "store",
+    "chinese": "儲存、商店"
+  },
+  {
+    "english": "exposition",
+    "chinese": "講解、展覽會"
+  },
+  {
+    "english": "complement",
+    "chinese": "補充"
+  },
+  {
+    "english": "pheromone",
+    "chinese": "費洛蒙"
+  },
+  {
+    "english": "substance",
+    "chinese": "物質、主旨"
+  },
+  {
+    "english": "aspect",
+    "chinese": "方面、外觀"
+  },
+  {
+    "english": "approach",
+    "chinese": "方法、接近"
+  },
+  {
+    "english": "carbon",
+    "chinese": "碳"
+  },
+  {
+    "english": "whigs",
+    "chinese": "輝格黨（英國）"
+  },
+  {
+    "english": "predator",
+    "chinese": "掠奪者"
+  },
+  {
+    "english": "particle",
+    "chinese": "粒子"
+  },
+  {
+    "english": "democrat",
+    "chinese": "民主"
+  },
+  {
+    "english": "diverse",
+    "chinese": "不同的、多樣的"
+  },
+  {
+    "english": "significant",
+    "chinese": "重要的"
+  },
+  {
+    "english": "project",
+    "chinese": "計劃、發射、投影"
+  },
+  {
+    "english": "preserve",
+    "chinese": "保存、保護"
+  },
+  {
+    "english": "grain",
+    "chinese": "穀物、小顆粒"
+  },
+  {
+    "english": "laborious",
+    "chinese": "費力的"
+  },
+  {
+    "english": "crater",
+    "chinese": "火山口"
+  },
+  {
+    "english": "sculpture",
+    "chinese": "雕刻"
+  },
+  {
+    "english": "rural",
+    "chinese": "鄉村的"
+  },
+  {
+    "english": "dioxide",
+    "chinese": "二氧化碳"
+  },
+  {
+    "english": "cetacean",
+    "chinese": "鯨"
+  },
+  {
+    "english": "current",
+    "chinese": "當前的、氣流"
+  },
+  {
+    "english": "adapt",
+    "chinese": "適應、改寫"
+  },
+  {
+    "english": "fiber",
+    "chinese": "纖維"
+  },
+  {
+    "english": "impulse",
+    "chinese": "衝動、刺激"
+  },
+  {
+    "english": "settler",
+    "chinese": "移民者"
+  },
+  {
+    "english": "paleolithic",
+    "chinese": "舊石器時代"
+  },
+  {
+    "english": "plain",
+    "chinese": "清楚、簡單、草原"
+  },
+  {
+    "english": "deposit",
+    "chinese": "存款、儲存、沈積"
+  },
+  {
+    "english": "deposition",
+    "chinese": "罷免、作證、沈積"
+  },
+  {
+    "english": "dye",
+    "chinese": "染色、染料"
+  },
+  {
+    "english": "decline",
+    "chinese": "下降、衰退、拒絕"
+  },
+  {
+    "english": "consist",
+    "chinese": "組成、構成"
+  },
+  {
+    "english": "promote",
+    "chinese": "促進、升遷"
+  },
+  {
+    "english": "acorn",
+    "chinese": "橡實"
+  },
+  {
+    "english": "nitrogen",
+    "chinese": "氮"
+  },
+  {
+    "english": "distinguish",
+    "chinese": "區別、辨認出"
+  },
+  {
+    "english": "compose",
+    "chinese": "組成、作曲"
+  },
+  {
+    "english": "vast",
+    "chinese": "巨大的、非常的"
+  },
+  {
+    "english": "trail",
+    "chinese": "痕跡、足跡"
+  },
+  {
+    "english": "renaissance",
+    "chinese": "文藝復興、復活"
+  },
+  {
+    "english": "religious",
+    "chinese": "宗教的"
+  },
+  {
+    "english": "petroleum",
+    "chinese": "石油"
+  },
+  {
+    "english": "crust",
+    "chinese": "地殼、外殼"
+  },
+  {
+    "english": "ritual",
+    "chinese": "宗教、儀式的"
+  },
+  {
+    "english": "hydrogen",
+    "chinese": "氫"
+  },
+  {
+    "english": "biology",
+    "chinese": "生物學"
+  },
+  {
+    "english": "aquifer",
+    "chinese": "含水層"
+  },
+  {
+    "english": "revolution",
+    "chinese": "革命、旋轉"
+  },
+  {
+    "english": "prey",
+    "chinese": "獵物、捕食"
+  },
+  {
+    "english": "helium",
+    "chinese": "氦"
+  },
+  {
+    "english": "continent",
+    "chinese": "大陸、洲"
+  },
+  {
+    "english": "contemporary",
+    "chinese": "當代的"
+  },
+  {
+    "english": "tension",
+    "chinese": "緊張、拉緊"
+  },
+  {
+    "english": "stimulate",
+    "chinese": "刺激、鼓舞"
+  },
+  {
+    "english": "presence",
+    "chinese": "存在、出席"
+  },
+  {
+    "english": "irrigate",
+    "chinese": "灌溉"
+  },
+  {
+    "english": "intense",
+    "chinese": "激烈的、非常的"
+  },
+  {
+    "english": "shelter",
+    "chinese": "遮蔽物、避難所"
+  },
+  {
+    "english": "resemble",
+    "chinese": "類似、像"
+  },
+  {
+    "english": "fungi",
+    "chinese": "菌類"
+  },
+  {
+    "english": "lichens",
+    "chinese": "苔蘚"
+  },
+  {
+    "english": "emerge",
+    "chinese": "出現、源於"
+  },
+  {
+    "english": "arch",
+    "chinese": "拱門、弧形"
+  },
+  {
+    "english": "texture",
+    "chinese": "質地、紋理"
+  },
+  {
+    "english": "subsurface",
+    "chinese": "表面下的、地下的"
+  },
+  {
+    "english": "exhibit",
+    "chinese": "展覽、展現"
+  },
+  {
+    "english": "depress",
+    "chinese": "壓抑、憂鬱"
+  },
+  {
+    "english": "belief",
+    "chinese": "相信、信念"
+  },
+  {
+    "english": "basin",
+    "chinese": "盆地、水池"
+  },
+  {
+    "english": "adopt",
+    "chinese": "採取、收養"
+  },
+  {
+    "english": "vapor",
+    "chinese": "水氣、蒸汽"
+  },
+  {
+    "english": "evaporate",
+    "chinese": "蒸發"
+  },
+  {
+    "english": "turbine",
+    "chinese": "渦輪"
+  },
+  {
+    "english": "property",
+    "chinese": "財產、性質"
+  },
+  {
+    "english": "canal",
+    "chinese": "水道"
+  },
+  {
+    "english": "inhabit",
+    "chinese": "居住於、棲息"
+  },
+  {
+    "english": "solution",
+    "chinese": "解決、溶解、溶液"
+  },
+  {
+    "english": "parlor",
+    "chinese": "客廳、店"
+  },
+  {
+    "english": "merchant",
+    "chinese": "商人、商業的"
+  },
+  {
+    "english": "distinct",
+    "chinese": "清楚的、區別、（有特色的）"
+  },
+  {
+    "english": "comet",
+    "chinese": "彗星"
+  },
+  {
+    "english": "tulip",
+    "chinese": "鬱金香"
+  },
+  {
+    "english": "textile",
+    "chinese": "紡織的、紡織品"
+  },
+  {
+    "english": "terrestrial",
+    "chinese": "陸地的、地球的"
+  },
+  {
+    "english": "surge",
+    "chinese": "洶湧、蜂擁而至"
+  },
+  {
+    "english": "readily",
+    "chinese": "容易的、樂意的"
+  },
+  {
+    "english": "migrate",
+    "chinese": "遷移"
+  },
+  {
+    "english": "immigration",
+    "chinese": "移民"
+  },
+  {
+    "english": "habitat",
+    "chinese": "棲息地、居留地"
+  },
+  {
+    "english": "cattle",
+    "chinese": "牛"
+  },
+  {
+    "english": "timber",
+    "chinese": "木材"
+  },
+  {
+    "english": "pueblo",
+    "chinese": "印地安人村落"
+  },
+  {
+    "english": "novel",
+    "chinese": "小說、新穎"
+  },
+  {
+    "english": "vessel",
+    "chinese": "容器、血管、船"
+  },
+  {
+    "english": "consequence",
+    "chinese": "結果、推論"
+  },
+  {
+    "english": "ware",
+    "chinese": "陶器、製品、貨物"
+  },
+  {
+    "english": "pottery",
+    "chinese": "陶器"
+  },
+  {
+    "english": "potash",
+    "chinese": "碳酸鉀"
+  },
+  {
+    "english": "geologic",
+    "chinese": "地質學"
+  },
+  {
+    "english": "fragment",
+    "chinese": "碎片"
+  },
+  {
+    "english": "destructive",
+    "chinese": "破壞的、消極的"
+  },
+  {
+    "english": "cretaceous",
+    "chinese": "白堊紀"
+  },
+  {
+    "english": "capitalist",
+    "chinese": "資本家"
+  },
+  {
+    "english": "component",
+    "chinese": "成分、零件、構成要素"
+  },
+  {
+    "english": "sumerian",
+    "chinese": "蘇美人"
+  },
+  {
+    "english": "tropical",
+    "chinese": "熱帶的"
+  },
+  {
+    "english": "tissue",
+    "chinese": "組織、衛生紙"
+  },
+  {
+    "english": "permanent",
+    "chinese": "永久"
+  },
+  {
+    "english": "vertebrate",
+    "chinese": "有脊椎的、脊椎動物"
+  },
+  {
+    "english": "depict",
+    "chinese": "描繪"
+  },
+  {
+    "english": "aurora",
+    "chinese": "極光"
+  },
+  {
+    "english": "vent",
+    "chinese": "出口、發洩"
+  },
+  {
+    "english": "rite",
+    "chinese": "儀式"
+  },
+  {
+    "english": "primitive",
+    "chinese": "原始人、原始的"
+  },
+  {
+    "english": "mineral",
+    "chinese": "礦物"
+  },
+  {
+    "english": "ecology",
+    "chinese": "生態"
+  },
+  {
+    "english": "canopy",
+    "chinese": "帳篷、天篷、垂幕"
+  },
+  {
+    "english": "conduct",
+    "chinese": "執行、指導"
+  },
+  {
+    "english": "appeal",
+    "chinese": "吸引、呼籲、上訴"
+  },
+  {
+    "english": "sanctuary",
+    "chinese": "教堂"
+  },
+  {
+    "english": "retain",
+    "chinese": "保持"
+  },
+  {
+    "english": "reduction",
+    "chinese": "減少"
+  },
+  {
+    "english": "erode",
+    "chinese": "侵蝕"
+  },
+  {
+    "english": "compound",
+    "chinese": "混合物、合成的"
+  },
+  {
+    "english": "ancestor",
+    "chinese": "祖先、原型"
+  },
+  {
+    "english": "resist",
+    "chinese": "抵抗"
+  },
+  {
+    "english": "hominid",
+    "chinese": "人類、人科"
+  },
+  {
+    "english": "dissolve",
+    "chinese": "分解、溶解"
+  },
+  {
+    "english": "conscious",
+    "chinese": "有意識的"
+  },
+  {
+    "english": "concentrate",
+    "chinese": "集中"
+  },
+  {
+    "english": "apprentice",
+    "chinese": "學徒"
+  },
+  {
+    "english": "acquire",
+    "chinese": "獲得、取得"
+  },
+  {
+    "english": "temperate",
+    "chinese": "溫帶、適中的"
+  },
+  {
+    "english": "pores",
+    "chinese": "毛孔"
+  },
+  {
+    "english": "occasion",
+    "chinese": "場合、偶爾"
+  },
+  {
+    "english": "hind",
+    "chinese": "後面"
+  },
+  {
+    "english": "gill",
+    "chinese": "鰓"
+  },
+  {
+    "english": "fort",
+    "chinese": "堡壘、要塞"
+  },
+  {
+    "english": "emit",
+    "chinese": "發射、散播"
+  }
+]
