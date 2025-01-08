@@ -986,5 +986,553 @@
   {
     "english": "extent",
     "chinese": "程度、範圍"
+  },
+  {
+    "english": "dispersal",
+    "chinese": "擴散、散播"
+  },
+  {
+    "english": "delicate",
+    "chinese": "精巧的、易碎的"
+  },
+  {
+    "english": "conserve",
+    "chinese": "保存"
+  },
+  {
+    "english": "cease",
+    "chinese": "停止"
+  },
+  {
+    "english": "altitude",
+    "chinese": "高度、海拔"
+  },
+  {
+    "english": "adequate",
+    "chinese": "充足的、適當的"
+  },
+  {
+    "english": "sympton",
+    "chinese": "症狀、徵兆"
+  },
+  {
+    "english": "substain",
+    "chinese": "維持、支撐"
+  },
+  {
+    "english": "spin",
+    "chinese": "旋轉、紡織"
+  },
+  {
+    "english": "scarce",
+    "chinese": "缺乏的、稀有的"
+  },
+  {
+    "english": "rigid",
+    "chinese": "堅硬的、嚴格的"
+  },
+  {
+    "english": "odor",
+    "chinese": "氣味"
+  },
+  {
+    "english": "occupation",
+    "chinese": "佔據、職業"
+  },
+  {
+    "english": "legislation",
+    "chinese": "立法"
+  },
+  {
+    "english": "immune",
+    "chinese": "免疫"
+  },
+  {
+    "english": "hinterland",
+    "chinese": "腹地"
+  },
+  {
+    "english": "freight",
+    "chinese": "貨運、貨船"
+  },
+  {
+    "english": "forage",
+    "chinese": "覓食、飼料"
+  },
+  {
+    "english": "finch",
+    "chinese": "雀"
+  },
+  {
+    "english": "embryo",
+    "chinese": "胚胎"
+  },
+  {
+    "english": "confine",
+    "chinese": "限制"
+  },
+  {
+    "english": "collide",
+    "chinese": "碰撞"
+  },
+  {
+    "english": "attain",
+    "chinese": "獲得、達到"
+  },
+  {
+    "english": "withstand",
+    "chinese": "耐受"
+  },
+  {
+    "english": "turnpike",
+    "chinese": "收費道路"
+  },
+  {
+    "english": "termite",
+    "chinese": "白蟻"
+  },
+  {
+    "english": "strain",
+    "chinese": "壓力、拉力"
+  },
+  {
+    "english": "roost",
+    "chinese": "棲息、鳥窩"
+  },
+  {
+    "english": "reptile",
+    "chinese": "爬蟲類"
+  },
+  {
+    "english": "prosperity",
+    "chinese": "繁榮"
+  },
+  {
+    "english": "probe",
+    "chinese": "探針"
+  },
+  {
+    "english": "prevail",
+    "chinese": "佔優勢、流行"
+  },
+  {
+    "english": "motifs",
+    "chinese": "主題"
+  },
+  {
+    "english": "lime",
+    "chinese": "石灰"
+  },
+  {
+    "english": "larva",
+    "chinese": "幼蟲"
+  },
+  {
+    "english": "kiln",
+    "chinese": "窯"
+  },
+  {
+    "english": "inscription",
+    "chinese": "題詞、碑文"
+  },
+  {
+    "english": "infant",
+    "chinese": "嬰兒"
+  },
+  {
+    "english": "incubate",
+    "chinese": "孵化"
+  },
+  {
+    "english": "granite",
+    "chinese": "花崗岩"
+  },
+  {
+    "english": "frost",
+    "chinese": "冰霜"
+  },
+  {
+    "english": "flock",
+    "chinese": "鳥群"
+  },
+  {
+    "english": "fertile",
+    "chinese": "肥沃的、肥料"
+  },
+  {
+    "english": "excess",
+    "chinese": "過度的、多餘的"
+  },
+  {
+    "english": "elaborate",
+    "chinese": "精細的"
+  },
+  {
+    "english": "devise",
+    "chinese": "設計"
+  },
+  {
+    "english": "census",
+    "chinese": "人口普查"
+  },
+  {
+    "english": "capillary",
+    "chinese": "毛孔"
+  },
+  {
+    "english": "advent",
+    "chinese": "到來、出現"
+  },
+  {
+    "english": "wage",
+    "chinese": "薪水"
+  },
+  {
+    "english": "vital",
+    "chinese": "重要的"
+  },
+  {
+    "english": "tundra",
+    "chinese": "凍土帶、苔原帶"
+  },
+  {
+    "english": "tile",
+    "chinese": "瓦礫"
+  },
+  {
+    "english": "susceptible",
+    "chinese": "易受影響的"
+  },
+  {
+    "english": "surplus",
+    "chinese": "多餘的、剩餘的"
+  },
+  {
+    "english": "scrub",
+    "chinese": "搓洗、灌木叢"
+  },
+  {
+    "english": "resilience",
+    "chinese": "彈性"
+  },
+  {
+    "english": "radically",
+    "chinese": "根本的、完全的"
+  },
+  {
+    "english": "propulsion",
+    "chinese": "推進力、動力"
+  },
+  {
+    "english": "pent",
+    "chinese": "被壓抑的、被幽禁的"
+  },
+  {
+    "english": "paleontology",
+    "chinese": "古生物學"
+  },
+  {
+    "english": "inhibit",
+    "chinese": "抑制、禁止"
+  },
+  {
+    "english": "impart",
+    "chinese": "傳授、告知"
+  },
+  {
+    "english": "gratify",
+    "chinese": "滿足"
+  },
+  {
+    "english": "furnace",
+    "chinese": "火爐"
+  },
+  {
+    "english": "fungus",
+    "chinese": "菌類"
+  },
+  {
+    "english": "expedition",
+    "chinese": "考察、探險"
+  },
+  {
+    "english": "exert",
+    "chinese": "發揮、運用"
+  },
+  {
+    "english": "enzyme",
+    "chinese": "酵素"
+  },
+  {
+    "english": "eddy",
+    "chinese": "漩渦"
+  },
+  {
+    "english": "cuneiform",
+    "chinese": "楔形文字"
+  },
+  {
+    "english": "constituent",
+    "chinese": "成分、構成"
+  },
+  {
+    "english": "conservation",
+    "chinese": "保存、保守"
+  },
+  {
+    "english": "congress",
+    "chinese": "會議、國會"
+  },
+  {
+    "english": "concur",
+    "chinese": "同意"
+  },
+  {
+    "english": "advocate",
+    "chinese": "提倡、擁護者"
+  },
+  {
+    "english": "adverse",
+    "chinese": "不利的、敵對的"
+  },
+  {
+    "english": "ultraviolet",
+    "chinese": "紫外線"
+  },
+  {
+    "english": "strand",
+    "chinese": "繩線、海岸"
+  },
+  {
+    "english": "staple",
+    "chinese": "主要的、釘書針"
+  },
+  {
+    "english": "relic",
+    "chinese": "遺跡"
+  },
+  {
+    "english": "prominent",
+    "chinese": "卓越的、著名的"
+  },
+  {
+    "english": "prevalent",
+    "chinese": "普遍的、流行的"
+  },
+  {
+    "english": "meadow",
+    "chinese": "草地"
+  },
+  {
+    "english": "manifest",
+    "chinese": "表明、顯現"
+  },
+  {
+    "english": "legitimate",
+    "chinese": "合理的、合法的"
+  },
+  {
+    "english": "latent",
+    "chinese": "潛在的"
+  },
+  {
+    "english": "intricate",
+    "chinese": "複雜的"
+  },
+  {
+    "english": "integral",
+    "chinese": "完整的、不可或缺的"
+  },
+  {
+    "english": "herb",
+    "chinese": "藥草"
+  },
+  {
+    "english": "gull",
+    "chinese": "海鷗"
+  },
+  {
+    "english": "ease",
+    "chinese": "放鬆"
+  },
+  {
+    "english": "deplete",
+    "chinese": "消耗、耗盡"
+  },
+  {
+    "english": "decipher",
+    "chinese": "解碼"
+  },
+  {
+    "english": "bureau",
+    "chinese": "局、辦公室"
+  },
+  {
+    "english": "aristocrat",
+    "chinese": "貴族"
+  },
+  {
+    "english": "analogy",
+    "chinese": "類比"
+  },
+  {
+    "english": "alpine",
+    "chinese": "高山"
+  },
+  {
+    "english": "trample",
+    "chinese": "踐踏、無視"
+  },
+  {
+    "english": "thrust",
+    "chinese": "推力、插入"
+  },
+  {
+    "english": "resolution",
+    "chinese": "解決、決心"
+  },
+  {
+    "english": "proponent",
+    "chinese": "支持者"
+  },
+  {
+    "english": "prolific",
+    "chinese": "多產的"
+  },
+  {
+    "english": "precipitation",
+    "chinese": "凝結、沈澱"
+  },
+  {
+    "english": "precious",
+    "chinese": "珍貴的"
+  },
+  {
+    "english": "prairie",
+    "chinese": "草原、牧場"
+  },
+  {
+    "english": "ornament",
+    "chinese": "裝飾品"
+  },
+  {
+    "english": "incise",
+    "chinese": "裁、切"
+  },
+  {
+    "english": "impose",
+    "chinese": "施於、強加於"
+  },
+  {
+    "english": "foster",
+    "chinese": "養育"
+  },
+  {
+    "english": "deliberate",
+    "chinese": "深思熟慮的、商榷"
+  },
+  {
+    "english": "translucent",
+    "chinese": "半透明"
+  },
+  {
+    "english": "peripheral",
+    "chinese": "周邊的"
+  },
+  {
+    "english": "disseminate",
+    "chinese": "散播"
+  },
+  {
+    "english": "diminish",
+    "chinese": "減少"
+  },
+  {
+    "english": "compensate",
+    "chinese": "補償"
+  },
+  {
+    "english": "commodity",
+    "chinese": "商品"
+  },
+  {
+    "english": "cohesive",
+    "chinese": "黏著的、團結的"
+  },
+  {
+    "english": "supplant",
+    "chinese": "取代、代替"
+  },
+  {
+    "english": "prone",
+    "chinese": "傾向於"
+  },
+  {
+    "english": "metabolism",
+    "chinese": "新陳代謝"
+  },
+  {
+    "english": "merchandise",
+    "chinese": "商品"
+  },
+  {
+    "english": "immense",
+    "chinese": "巨大的"
+  },
+  {
+    "english": "facilitate",
+    "chinese": "促進"
+  },
+  {
+    "english": "amplify",
+    "chinese": "放大"
+  },
+  {
+    "english": "allocate",
+    "chinese": "分配"
+  },
+  {
+    "english": "adept",
+    "chinese": "熟練的"
+  },
+  {
+    "english": "vigor",
+    "chinese": "活力"
+  },
+  {
+    "english": "suppress",
+    "chinese": "壓制、廢止"
+  },
+  {
+    "english": "stagnant",
+    "chinese": "停滯的、蕭條的"
+  },
+  {
+    "english": "revere",
+    "chinese": "尊敬"
+  },
+  {
+    "english": "peninsula",
+    "chinese": "半島"
+  },
+  {
+    "english": "pasture",
+    "chinese": "牧場、放牧"
+  },
+  {
+    "english": "nomadic",
+    "chinese": "遊牧的"
+  },
+  {
+    "english": "medieval",
+    "chinese": "中世紀"
+  },
+  {
+    "english": "conspicuous",
+    "chinese": "顯眼的"
+  },
+  {
+    "english": "demise",
+    "chinese": "滅亡、死亡"
   }
 ]
