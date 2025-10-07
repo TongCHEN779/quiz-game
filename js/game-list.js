@@ -29,7 +29,7 @@ loadJson('docs/toefl.json').then((data) => {
             wordCell.textContent = item.english;
       
             let meaningCell = document.createElement("td");
-            meaningCell.textContent = item.chinese;
+            meaningCell.textContent = item.danish;
       
             row.appendChild(indexCell);
             row.appendChild(wordCell);

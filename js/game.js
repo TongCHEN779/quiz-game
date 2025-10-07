@@ -10,7 +10,7 @@ const SWITCH_QUESTION = localStorage.getItem('switchQuestion')
 
 // variables
 var typeQuestion = "english";
-var typeChoice = "chinese";
+var typeChoice = "danish";
 
 
 class QuizGame {
@@ -88,10 +88,10 @@ const generateQuiz = (data, numQuestions, switchQuestion) => {
 
   if (switchQuestion === "switchEnglish") {
     typeQuestion = "english";
-    typeChoice = "chinese";
+    typeChoice = "danish";
   } 
-  if (switchQuestion === "switchChinese") {
-    typeQuestion = "chinese";
+  if (switchQuestion === "switchDanish") {
+    typeQuestion = "danish";
     typeChoice = "english";
   }
 
