@@ -1,5 +1,5 @@
 # Quiz game
 
-https://dgbshien.com/quiz-game/
+https://tongchen779.github.io/quiz-game/
 
 ![image](docs/images/banner.png)
