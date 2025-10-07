@@ -5,7 +5,7 @@ const progressText = document.querySelector('#progressText');
 const scoreText = document.querySelector('#score');
 
 // constants
-const NUM_QUESTION = 10;
+const NUM_QUESTION = 20;
 const SWITCH_QUESTION = localStorage.getItem('switchQuestion')
 
 // variables
