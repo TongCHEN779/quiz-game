@@ -71,7 +71,7 @@ class QuizGame {
 
     if (isCorrect) {
         this.score ++;
-        scoreText.innerText = ((this.score / this.maxQuestions) * 100);
+        scoreText.innerText = Math.round((this.score / this.maxQuestions) * 100);
     }
 
     return isCorrect ? 'correct' : 'incorrect';
