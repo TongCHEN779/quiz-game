@@ -15,7 +15,7 @@ const loadJson = async (url) => {
 let table = document.querySelector("#wordListTable");
 let tableBody = table.querySelector("tbody");
 
-const QUIZ_JSON = localStorage.getItem('quizJson') || 'da-en.json';
+const QUIZ_JSON = localStorage.getItem('quizJson') || 'da-cn.json';
 loadJson(`docs/${QUIZ_JSON}`).then((data) => {
     if (data.length === 0) {
         table.style.display = "none";
