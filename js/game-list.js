@@ -15,7 +15,7 @@ const loadJson = async (url) => {
 let table = document.querySelector("#wordListTable");
 let tableBody = table.querySelector("tbody");
 
-loadJson('docs/da-cn.json').then((data) => {
+loadJson('docs/da-en.json').then((data) => {
     if (data.length === 0) {
         table.style.display = "none";
     } else {

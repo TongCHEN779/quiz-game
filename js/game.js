@@ -142,7 +142,7 @@ const loadJson = async (url) => {
 };
 
 
-loadJson('docs/da-cn.json').then((data) => {
+loadJson('docs/da-en.json').then((data) => {
   const questionList = generateQuiz(data, NUM_QUESTION, SWITCH_QUESTION);
   const quizGame = new QuizGame(questionList, NUM_QUESTION);
 
