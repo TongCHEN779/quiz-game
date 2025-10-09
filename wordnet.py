@@ -1,9 +1,9 @@
 import json
 from wn import Wordnet
 
-# Load the Danish and English wordnets
+# Load the Danish and Chinese wordnets
 wn_da = Wordnet(lang='da')
-wn_en = Wordnet(lang='en')
+wn_en = Wordnet(lang='cn')
 
 # Prepare the list to store word pairs
 word_pairs = []
@@ -27,5 +27,5 @@ for synset_da in wn_da.synsets():
                 })
 
 # Save to JSON file
-with open('toefl.json', 'w', encoding='utf-8') as f:
+with open('da-cn.json', 'w', encoding='utf-8') as f:
     json.dump(word_pairs, f, ensure_ascii=False, indent=2)

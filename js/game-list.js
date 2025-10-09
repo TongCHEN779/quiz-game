@@ -15,7 +15,8 @@ const loadJson = async (url) => {
 let table = document.querySelector("#wordListTable");
 let tableBody = table.querySelector("tbody");
 
-loadJson('docs/toefl.json').then((data) => {
+const QUIZ_JSON = localStorage.getItem('quizJson') || 'da-en.json';
+loadJson(`docs/${QUIZ_JSON}`).then((data) => {
     if (data.length === 0) {
         table.style.display = "none";
     } else {

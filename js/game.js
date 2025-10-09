@@ -5,8 +5,18 @@ const progressText = document.querySelector('#progressText');
 const scoreText = document.querySelector('#score');
 
 // constants
+// const NUM_QUESTION = 20;
+// const SWITCH_QUESTION = localStorage.getItem('switchQuestion')
 const NUM_QUESTION = 20;
-const SWITCH_QUESTION = localStorage.getItem('switchQuestion')
+// Load which quiz to play (default to da-en.json if none)
+const QUIZ_JSON = localStorage.getItem('quizJson') || 'da-en.json';
+// Determine which direction was chosen
+let SWITCH_QUESTION;
+if (QUIZ_JSON === 'da-en.json') {
+  SWITCH_QUESTION = localStorage.getItem('switch-da-en') || 'switchEnglish';
+} else if (QUIZ_JSON === 'da-cn.json') {
+  SWITCH_QUESTION = localStorage.getItem('switch-da-cn') || 'switchChinese';
+}
 
 // variables
 var typeQuestion = "english";
@@ -142,7 +152,7 @@ const loadJson = async (url) => {
 };
 
 
-loadJson('docs/toefl.json').then((data) => {
+loadJson(`docs/${QUIZ_JSON}`).then((data) => {
   const questionList = generateQuiz(data, NUM_QUESTION, SWITCH_QUESTION);
   const quizGame = new QuizGame(questionList, NUM_QUESTION);
 
