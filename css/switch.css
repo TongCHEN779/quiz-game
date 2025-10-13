@@ -48,3 +48,9 @@
 .switcher input:nth-of-type(2):checked ~ .slider {
     transform: translateX(100%);
 }
+.switcher input:nth-of-type(3):checked ~ .slider {
+    transform: translateX(200%);
+}
+.switcher input:nth-of-type(4):checked ~ .slider {
+    transform: translateX(300%);
+}
