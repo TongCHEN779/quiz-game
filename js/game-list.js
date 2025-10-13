@@ -26,16 +26,20 @@ loadJson("docs/word-list.json").then((data) => {
             let indexCell = document.createElement("td");
             indexCell.textContent = index + 1; // Start index from 1
 
-            let wordCell = document.createElement("td");
-            wordCell.textContent = item.english;
-      
-            let meaningCell = document.createElement("td");
-            meaningCell.textContent = item.danish;
-      
+            let englishCell = document.createElement("td");
+            englishCell.textContent = item.english;
+
+            let chineseCell = document.createElement("td");
+            chineseCell.textContent = item.chinese;
+
+            let danishCell = document.createElement("td");
+            danishCell.textContent = item.danish;
+
             row.appendChild(indexCell);
-            row.appendChild(wordCell);
-            row.appendChild(meaningCell);
-    
+            row.appendChild(englishCell);
+            row.appendChild(chineseCell);
+            row.appendChild(danishCell);
+
             tableBody.appendChild(row);
         });
     }
