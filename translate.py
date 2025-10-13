@@ -55,43 +55,81 @@
 #     main()
 
 
+# import json
+# import unicodedata
+
+# def normalize(text):
+#     if not isinstance(text, str):
+#         return text
+#     # Normalize unicode and strip spaces/lowercase for matching
+#     return unicodedata.normalize("NFKC", text).strip().lower()
+
+# # Load both files
+# with open("docs/da-en.json", "r", encoding="utf-8") as f1:
+#     da_en = json.load(f1)
+# with open("docs/da-cn.json", "r", encoding="utf-8") as f2:
+#     da_cn = json.load(f2)
+
+# # Build a fast lookup from normalized Danish → Chinese
+# cn_dict = {normalize(e["danish"]): e["chinese"] for e in da_cn}
+
+# # Merge in same order as da-en.json
+# merged = []
+# missing = 0
+
+# for entry in da_en:
+#     danish = entry["danish"]
+#     english = entry["english"]
+#     chinese = cn_dict.get(normalize(danish))
+#     if chinese is None:
+#         missing += 1
+#     merged.append({
+#         "english": english,
+#         "chinese": chinese,
+#         "danish": danish
+#     })
+
+# # Save merged file
+# with open("merged.json", "w", encoding="utf-8") as f:
+#     json.dump(merged, f, ensure_ascii=False, indent=2)
+
+# print(f"✅ Merged {len(merged)} entries.")
+# print(f"⚠️ Missing Chinese translations for {missing} words.")
+
+
 import json
+import unicodedata
+from googletrans import Translator
 
-# Load both JSON files
-with open("docs/da-en.json", "r", encoding="utf-8") as f1:
-    da_en = json.load(f1)
-with open("docs/da-cn.json", "r", encoding="utf-8") as f2:
-    da_cn = json.load(f2)
+def normalize(text):
+    if not isinstance(text, str):
+        return text
+    return unicodedata.normalize("NFKC", text).strip().lower()
 
-# Use Danish as the key
-merged = {}
+# Load merged file
+with open("merged.json", "r", encoding="utf-8") as f:
+    merged = json.load(f)
 
-# Add English–Danish pairs
-for entry in da_en:
-    danish = entry["danish"]
-    merged[danish] = {
-        "english": entry.get("english"),
-        "chinese": None,
-        "danish": danish
-    }
+translator = Translator()
 
-# Add Chinese–Danish pairs
-for entry in da_cn:
-    danish = entry["danish"]
-    if danish in merged:
-        merged[danish]["chinese"] = entry.get("chinese")
-    else:
-        merged[danish] = {
-            "english": None,
-            "chinese": entry.get("chinese"),
-            "danish": danish
-        }
+filled = 0
+still_missing = 0
 
-# Convert dictionary to list
-merged_list = list(merged.values())
+for entry in merged:
+    if not entry.get("chinese"):
+        danish_word = entry["danish"]
+        try:
+            # Translate Danish → Chinese
+            result = translator.translate(danish_word, src="da", dest="zh-cn")
+            entry["chinese"] = result.text
+            filled += 1
+        except Exception as e:
+            still_missing += 1
+            print(f"⚠️ Could not translate '{danish_word}': {e}")
 
-# Save merged file
-with open("merged.json", "w", encoding="utf-8") as f:
-    json.dump(merged_list, f, ensure_ascii=False, indent=2)
+print(f"✅ Filled {filled} missing translations with Google Translate.")
+print(f"⚠️ Still missing {still_missing} entries.")
 
-print("✅ Merged file saved as merged.json")
+# Save updated file
+with open("merged_completed.json", "w", encoding="utf-8") as f:
+    json.dump(merged, f, ensure_ascii=False, indent=2)
