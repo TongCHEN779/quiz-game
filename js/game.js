@@ -86,11 +86,11 @@ const shuffleArray = (array) => array.sort(() => Math.random() - 0.5);
 // Generate Quiz
 const generateQuiz = (data, numQuestions, switchQuestion) => {
 
-  if (switchQuestion === "switchEnglish") {
+  if (switchQuestion === "English2Danish") {
     typeQuestion = "english";
     typeChoice = "danish";
   } 
-  if (switchQuestion === "switchDanish") {
+  if (switchQuestion === "Danish2English") {
     typeQuestion = "danish";
     typeChoice = "english";
   }
