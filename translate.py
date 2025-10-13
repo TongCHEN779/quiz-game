@@ -53,3 +53,45 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# import json
+
+# # Load both JSON files
+# with open("docs/da-en.json", "r", encoding="utf-8") as f1:
+#     da_en = json.load(f1)
+# with open("docs/da-cn.json", "r", encoding="utf-8") as f2:
+#     da_cn = json.load(f2)
+
+# # Use Danish as the key
+# merged = {}
+
+# # Add English–Danish pairs
+# for entry in da_en:
+#     danish = entry["danish"]
+#     merged[danish] = {
+#         "danish": danish,
+#         "english": entry.get("english"),
+#         "chinese": None
+#     }
+
+# # Add Chinese–Danish pairs
+# for entry in da_cn:
+#     danish = entry["danish"]
+#     if danish in merged:
+#         merged[danish]["chinese"] = entry.get("chinese")
+#     else:
+#         merged[danish] = {
+#             "danish": danish,
+#             "english": None,
+#             "chinese": entry.get("chinese")
+#         }
+
+# # Convert dictionary to list
+# merged_list = list(merged.values())
+
+# # Save merged file
+# with open("merged.json", "w", encoding="utf-8") as f:
+#     json.dump(merged_list, f, ensure_ascii=False, indent=2)
+
+# print("✅ Merged file saved as merged.json")

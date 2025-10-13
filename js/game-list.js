@@ -15,16 +15,8 @@ const loadJson = async (url) => {
 let table = document.querySelector("#wordListTable");
 let tableBody = table.querySelector("tbody");
 
-const SWITCH_QUESTION = localStorage.getItem('switchQuestion')
-var wordSource = "docs/da-en.json";
-if (SWITCH_QUESTION === "English2Danish" || SWITCH_QUESTION === "Danish2English") {
-  wordSource = "docs/da-en.json";
-}
-if (SWITCH_QUESTION === "Chinese2Danish" || SWITCH_QUESTION === "Danish2Chinese") {
-  wordSource = "docs/da-cn.json";
-}
 
-loadJson(wordSource).then((data) => {
+loadJson("docs/da-en-cn.json").then((data) => {
     if (data.length === 0) {
         table.style.display = "none";
     } else {
