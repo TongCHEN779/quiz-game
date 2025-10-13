@@ -11,7 +11,6 @@ const SWITCH_QUESTION = localStorage.getItem('switchQuestion')
 // variables
 var typeQuestion = "english";
 var typeChoice = "danish";
-var wordSource = "docs/da-en.json";
 
 class QuizGame {
   constructor(questions, maxQuestions) {
@@ -149,14 +148,7 @@ const loadJson = async (url) => {
   }
 };
 
-if (SWITCH_QUESTION === "English2Danish" || SWITCH_QUESTION === "Danish2English") {
-  wordSource = "docs/da-en.json";
-}
-if (SWITCH_QUESTION === "Chinese2Danish" || SWITCH_QUESTION === "Danish2Chinese") {
-  wordSource = "docs/da-cn.json";
-}
-
-loadJson(wordSource).then((data) => {
+loadJson("docs/word-list.json").then((data) => {
   const questionList = generateQuiz(data, NUM_QUESTION, SWITCH_QUESTION);
   const quizGame = new QuizGame(questionList, NUM_QUESTION);
 

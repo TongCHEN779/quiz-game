@@ -16,7 +16,7 @@ let table = document.querySelector("#wordListTable");
 let tableBody = table.querySelector("tbody");
 
 
-loadJson("docs/da-en-cn.json").then((data) => {
+loadJson("docs/word-list.json").then((data) => {
     if (data.length === 0) {
         table.style.display = "none";
     } else {
