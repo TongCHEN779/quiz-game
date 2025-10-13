@@ -11,7 +11,7 @@ const SWITCH_QUESTION = localStorage.getItem('switchQuestion')
 // variables
 var typeQuestion = "english";
 var typeChoice = "danish";
-
+var wordSource = "docs/da-en.json";
 
 class QuizGame {
   constructor(questions, maxQuestions) {
@@ -94,6 +94,14 @@ const generateQuiz = (data, numQuestions, switchQuestion) => {
     typeQuestion = "danish";
     typeChoice = "english";
   }
+  if (switchQuestion === "Chinese2Danish") {
+    typeQuestion = "chinese";
+    typeChoice = "danish";
+  }
+  if (switchQuestion === "Danish2Chinese") {
+    typeQuestion = "danish";
+    typeChoice = "chinese";
+  }
 
   if (data.length < numQuestions) {
     throw new Error('Not enough data to generate the quiz');
@@ -141,8 +149,14 @@ const loadJson = async (url) => {
   }
 };
 
+if (SWITCH_QUESTION === "English2Danish" || SWITCH_QUESTION === "Danish2English") {
+  wordSource = "docs/da-en.json";
+}
+if (SWITCH_QUESTION === "Chinese2Danish" || SWITCH_QUESTION === "Danish2Chinese") {
+  wordSource = "docs/da-cn.json";
+}
 
-loadJson('docs/da-en.json').then((data) => {
+loadJson(wordSource).then((data) => {
   const questionList = generateQuiz(data, NUM_QUESTION, SWITCH_QUESTION);
   const quizGame = new QuizGame(questionList, NUM_QUESTION);
 
