@@ -98,38 +98,59 @@
 
 
 import json
-import unicodedata
+import time
 from googletrans import Translator
 
-def normalize(text):
-    if not isinstance(text, str):
-        return text
-    return unicodedata.normalize("NFKC", text).strip().lower()
+# Files
+INPUT_FILE = "docs/word-list.json"
+OUTPUT_FILE = "docs/new-word-list.json"
 
-# Load merged file
-with open("merged.json", "r", encoding="utf-8") as f:
-    merged = json.load(f)
-
+# Parameters
+SLEEP = 0.12  # seconds between requests to avoid being blocked
 translator = Translator()
 
-filled = 0
-still_missing = 0
+def bilingual_prompt(english, danish):
+    """Combine English and Danish to give translator full context."""
+    return f"{danish}"
 
-for entry in merged:
-    if not entry.get("chinese"):
-        danish_word = entry["danish"]
-        try:
-            # Translate Danish → Chinese
-            result = translator.translate(danish_word, src="da", dest="zh-cn")
-            entry["chinese"] = result.text
-            filled += 1
-        except Exception as e:
-            still_missing += 1
-            print(f"⚠️ Could not translate '{danish_word}': {e}")
+# Load merged data
+with open(INPUT_FILE, "r", encoding="utf-8") as f:
+    data = json.load(f)
 
-print(f"✅ Filled {filled} missing translations with Google Translate.")
-print(f"⚠️ Still missing {still_missing} entries.")
+updated = 0
+total = len(data)
 
-# Save updated file
-with open("merged_completed.json", "w", encoding="utf-8") as f:
-    json.dump(merged, f, ensure_ascii=False, indent=2)
+for i, entry in enumerate(data):
+    english = entry.get("english", "").strip()
+    danish = entry.get("danish", "").strip()
+    chinese = entry.get("chinese", "").strip()
+
+    # Skip if translation seems valid (non-empty and not weird placeholder)
+    if chinese and len(chinese) > 1:
+        continue
+
+    # Build bilingual text to translate
+    query = bilingual_prompt(english, danish)
+
+    try:
+        result = translator.translate(query, src="en", dest="zh-cn")
+        new_chinese = result.text.strip()
+        if new_chinese and new_chinese != chinese:
+            entry["chinese"] = new_chinese
+            updated += 1
+    except Exception as e:
+        print(f"[{i}] Error translating '{query}': {e}")
+        continue
+
+    if i % 100 == 0:
+        print(f"Progress: {i}/{total} ({updated} updated)")
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+    time.sleep(SLEEP)
+
+# Save final file
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+print(f"✅ Done. Updated {updated} translations out of {total}.")
+

@@ -331,7 +331,7 @@
   },
   {
     "english": "acid",
-    "chinese": "酸",
+    "chinese": "赛雷",
     "danish": "syre"
   },
   {
@@ -591,22 +591,22 @@
   },
   {
     "english": "adopt",
-    "chinese": "占",
+    "chinese": "采纳",
     "danish": "tage 'til sig"
   },
   {
     "english": "borrow",
-    "chinese": "占",
+    "chinese": "塔格直到西格",
     "danish": "tage 'til sig"
   },
   {
     "english": "take over",
-    "chinese": "占",
+    "chinese": "接管",
     "danish": "tage 'til sig"
   },
   {
     "english": "take up",
-    "chinese": "占",
+    "chinese": "塔格直到西格",
     "danish": "tage 'til sig"
   },
   {
@@ -1421,7 +1421,7 @@
   },
   {
     "english": "altar",
-    "chinese": "坛",
+    "chinese": "改变",
     "danish": "alter"
   },
   {
@@ -1866,32 +1866,32 @@
   },
   {
     "english": "ant",
-    "chinese": "蚂",
+    "chinese": "蚂蚁",
     "danish": "myre"
   },
   {
     "english": "emmet",
-    "chinese": "蚂",
+    "chinese": "埃米特",
     "danish": "myre"
   },
   {
     "english": "pismire",
-    "chinese": "蚂",
+    "chinese": "迈尔",
     "danish": "myre"
   },
   {
     "english": "ant",
-    "chinese": "蚂",
+    "chinese": "蚂蚁",
     "danish": "tissemyre"
   },
   {
     "english": "emmet",
-    "chinese": "蚂",
+    "chinese": "埃米特",
     "danish": "tissemyre"
   },
   {
     "english": "pismire",
-    "chinese": "蚂",
+    "chinese": "蒂瑟迈尔",
     "danish": "tissemyre"
   },
   {
@@ -2191,12 +2191,12 @@
   },
   {
     "english": "arch",
-    "chinese": "弓",
+    "chinese": "布埃",
     "danish": "bue"
   },
   {
     "english": "archway",
-    "chinese": "弓",
+    "chinese": "拱道",
     "danish": "bue"
   },
   {
@@ -2376,7 +2376,7 @@
   },
   {
     "english": "article",
-    "chinese": "纸",
+    "chinese": "文章",
     "danish": "artikel"
   },
   {
@@ -2426,7 +2426,7 @@
   },
   {
     "english": "ash",
-    "chinese": "灰",
+    "chinese": "阿斯克",
     "danish": "aske"
   },
   {
@@ -2546,7 +2546,7 @@
   },
   {
     "english": "association",
-    "chinese": "队",
+    "chinese": "协会",
     "danish": "hold"
   },
   {
@@ -2886,7 +2886,7 @@
   },
   {
     "english": "awake",
-    "chinese": "醒",
+    "chinese": "沃根",
     "danish": "vågen"
   },
   {
@@ -2966,62 +2966,62 @@
   },
   {
     "english": "spinal column",
-    "chinese": "轴",
+    "chinese": "脊柱",
     "danish": "hvirvelsøjle"
   },
   {
     "english": "vertebral column",
-    "chinese": "轴",
+    "chinese": "脊柱",
     "danish": "hvirvelsøjle"
   },
   {
     "english": "spine",
-    "chinese": "轴",
+    "chinese": "脊柱",
     "danish": "hvirvelsøjle"
   },
   {
     "english": "backbone",
-    "chinese": "轴",
+    "chinese": "骨干",
     "danish": "hvirvelsøjle"
   },
   {
     "english": "back",
-    "chinese": "轴",
+    "chinese": "后退",
     "danish": "hvirvelsøjle"
   },
   {
     "english": "rachis",
-    "chinese": "轴",
+    "chinese": "赫维尔韦尔瑟伊勒",
     "danish": "hvirvelsøjle"
   },
   {
     "english": "spinal column",
-    "chinese": "轴",
+    "chinese": "脊柱",
     "danish": "rygrad"
   },
   {
     "english": "vertebral column",
-    "chinese": "轴",
+    "chinese": "脊柱",
     "danish": "rygrad"
   },
   {
     "english": "spine",
-    "chinese": "轴",
+    "chinese": "脊柱",
     "danish": "rygrad"
   },
   {
     "english": "backbone",
-    "chinese": "轴",
+    "chinese": "骨干",
     "danish": "rygrad"
   },
   {
     "english": "back",
-    "chinese": "轴",
+    "chinese": "后退",
     "danish": "rygrad"
   },
   {
     "english": "rachis",
-    "chinese": "轴",
+    "chinese": "里格勒",
     "danish": "rygrad"
   },
   {
@@ -3151,7 +3151,7 @@
   },
   {
     "english": "bake",
-    "chinese": "烤",
+    "chinese": "巴格",
     "danish": "bage"
   },
   {
@@ -3231,12 +3231,12 @@
   },
   {
     "english": "ball",
-    "chinese": "球",
+    "chinese": "克拉特",
     "danish": "klat"
   },
   {
     "english": "ball",
-    "chinese": "球",
+    "chinese": "巴尔",
     "danish": "bal"
   },
   {
@@ -3471,22 +3471,22 @@
   },
   {
     "english": "bark",
-    "chinese": "吠",
+    "chinese": "比耶夫",
     "danish": "bjæffe"
   },
   {
     "english": "bark",
-    "chinese": "吠",
+    "chinese": "去",
     "danish": "gø"
   },
   {
     "english": "barrel",
-    "chinese": "鼓",
+    "chinese": "通德",
     "danish": "tønde"
   },
   {
     "english": "cask",
-    "chinese": "鼓",
+    "chinese": "木桶",
     "danish": "tønde"
   },
   {
@@ -3541,27 +3541,27 @@
   },
   {
     "english": "washbasin",
-    "chinese": "厕",
+    "chinese": "脸盆",
     "danish": "kumme"
   },
   {
     "english": "basin",
-    "chinese": "厕",
+    "chinese": "盆地",
     "danish": "kumme"
   },
   {
     "english": "washbowl",
-    "chinese": "厕",
+    "chinese": "洗脸盆",
     "danish": "kumme"
   },
   {
     "english": "washstand",
-    "chinese": "厕",
+    "chinese": "盥洗台",
     "danish": "kumme"
   },
   {
     "english": "lavatory",
-    "chinese": "厕",
+    "chinese": "库梅",
     "danish": "kumme"
   },
   {
@@ -3921,7 +3921,7 @@
   },
   {
     "english": "bear",
-    "chinese": "熊",
+    "chinese": "比约恩",
     "danish": "bjørn"
   },
   {
@@ -4011,12 +4011,12 @@
   },
   {
     "english": "bed",
-    "chinese": "床",
+    "chinese": "凯恩",
     "danish": "kane"
   },
   {
     "english": "bed",
-    "chinese": "床",
+    "chinese": "生",
     "danish": "seng"
   },
   {
@@ -4096,7 +4096,7 @@
   },
   {
     "english": "beg",
-    "chinese": "求",
+    "chinese": "甲虫",
     "danish": "betle"
   },
   {
@@ -4156,77 +4156,77 @@
   },
   {
     "english": "act",
-    "chinese": "做",
+    "chinese": "行为",
     "danish": "opføre sig"
   },
   {
     "english": "behave",
-    "chinese": "做",
+    "chinese": "表现",
     "danish": "opføre sig"
   },
   {
     "english": "do",
-    "chinese": "做",
+    "chinese": "奥弗雷西格",
     "danish": "opføre sig"
   },
   {
     "english": "behavior",
-    "chinese": "面",
+    "chinese": "行为",
     "danish": "adfærd"
   },
   {
     "english": "behaviour",
-    "chinese": "面",
+    "chinese": "行为",
     "danish": "adfærd"
   },
   {
     "english": "conduct",
-    "chinese": "面",
+    "chinese": "执行",
     "danish": "adfærd"
   },
   {
     "english": "doings",
-    "chinese": "面",
+    "chinese": "行为",
     "danish": "adfærd"
   },
   {
     "english": "behavior",
-    "chinese": "面",
+    "chinese": "行为",
     "danish": "fremtræden"
   },
   {
     "english": "behaviour",
-    "chinese": "面",
+    "chinese": "行为",
     "danish": "fremtræden"
   },
   {
     "english": "conduct",
-    "chinese": "面",
+    "chinese": "执行",
     "danish": "fremtræden"
   },
   {
     "english": "doings",
-    "chinese": "面",
+    "chinese": "行为",
     "danish": "fremtræden"
   },
   {
     "english": "behavior",
-    "chinese": "面",
+    "chinese": "行为",
     "danish": "opførsel"
   },
   {
     "english": "behaviour",
-    "chinese": "面",
+    "chinese": "行为",
     "danish": "opførsel"
   },
   {
     "english": "conduct",
-    "chinese": "面",
+    "chinese": "执行",
     "danish": "opførsel"
   },
   {
     "english": "doings",
-    "chinese": "面",
+    "chinese": "行为",
     "danish": "opførsel"
   },
   {
@@ -4471,17 +4471,17 @@
   },
   {
     "english": "bird",
-    "chinese": "鸟",
+    "chinese": "富格尔",
     "danish": "fugl"
   },
   {
     "english": "bird",
-    "chinese": "鸟",
+    "chinese": "皮普富格尔",
     "danish": "pipfugl"
   },
   {
     "english": "bird",
-    "chinese": "鸟",
+    "chinese": "皮凡斯",
     "danish": "piphans"
   },
   {
@@ -4781,7 +4781,7 @@
   },
   {
     "english": "blood",
-    "chinese": "血",
+    "chinese": "血腥",
     "danish": "blod"
   },
   {
@@ -4866,32 +4866,32 @@
   },
   {
     "english": "board",
-    "chinese": "板",
+    "chinese": "木板",
     "danish": "planke"
   },
   {
     "english": "plank",
-    "chinese": "板",
+    "chinese": "普朗克",
     "danish": "planke"
   },
   {
     "english": "boat",
-    "chinese": "船",
+    "chinese": "坏的",
     "danish": "båd"
   },
   {
     "english": "body",
-    "chinese": "肉",
+    "chinese": "身体",
     "danish": "krop"
   },
   {
     "english": "organic structure",
-    "chinese": "肉",
+    "chinese": "有机结构",
     "danish": "krop"
   },
   {
     "english": "physical structure",
-    "chinese": "肉",
+    "chinese": "物理结构",
     "danish": "krop"
   },
   {
@@ -4926,17 +4926,17 @@
   },
   {
     "english": "torso",
-    "chinese": "肉",
+    "chinese": "躯干",
     "danish": "krop"
   },
   {
     "english": "trunk",
-    "chinese": "肉",
+    "chinese": "树干",
     "danish": "krop"
   },
   {
     "english": "body",
-    "chinese": "肉",
+    "chinese": "身体",
     "danish": "krop"
   },
   {
@@ -4951,7 +4951,7 @@
   },
   {
     "english": "boil",
-    "chinese": "熬",
+    "chinese": "科格",
     "danish": "kog"
   },
   {
@@ -5046,17 +5046,17 @@
   },
   {
     "english": "book",
-    "chinese": "书",
+    "chinese": "沼泽",
     "danish": "bog"
   },
   {
     "english": "volume",
-    "chinese": "书",
+    "chinese": "体积",
     "danish": "bog"
   },
   {
     "english": "book",
-    "chinese": "书",
+    "chinese": "沼泽",
     "danish": "bog"
   },
   {
@@ -5236,17 +5236,17 @@
   },
   {
     "english": "bow",
-    "chinese": "弓",
+    "chinese": "布埃",
     "danish": "bue"
   },
   {
     "english": "bow",
-    "chinese": "弓",
+    "chinese": "斯洛伊夫",
     "danish": "sløjfe"
   },
   {
     "english": "bow",
-    "chinese": "弓",
+    "chinese": "布克",
     "danish": "bukke"
   },
   {
@@ -5266,7 +5266,7 @@
   },
   {
     "english": "bowl",
-    "chinese": "碗",
+    "chinese": "斯卡尔",
     "danish": "skål"
   },
   {
@@ -5386,22 +5386,22 @@
   },
   {
     "english": "brain",
-    "chinese": "脑",
+    "chinese": "登厄沃斯特埃塔奇",
     "danish": "den øverste etage"
   },
   {
     "english": "encephalon",
-    "chinese": "脑",
+    "chinese": "登厄沃斯特埃塔奇",
     "danish": "den øverste etage"
   },
   {
     "english": "brain",
-    "chinese": "脑",
+    "chinese": "哈埃特",
     "danish": "hætte"
   },
   {
     "english": "encephalon",
-    "chinese": "脑",
+    "chinese": "哈埃特",
     "danish": "hætte"
   },
   {
@@ -5426,12 +5426,12 @@
   },
   {
     "english": "brain",
-    "chinese": "脑",
+    "chinese": "因德赛登阿夫霍维代特",
     "danish": "indersiden af hovedet"
   },
   {
     "english": "encephalon",
-    "chinese": "脑",
+    "chinese": "因德赛登阿夫霍维代特",
     "danish": "indersiden af hovedet"
   },
   {
@@ -5446,12 +5446,12 @@
   },
   {
     "english": "brain",
-    "chinese": "灯",
+    "chinese": "兰佩",
     "danish": "lampe"
   },
   {
     "english": "encephalon",
-    "chinese": "灯",
+    "chinese": "兰佩",
     "danish": "lampe"
   },
   {
@@ -6021,7 +6021,7 @@
   },
   {
     "english": "brick",
-    "chinese": "砖",
+    "chinese": "默斯滕",
     "danish": "mursten"
   },
   {
@@ -6271,12 +6271,12 @@
   },
   {
     "english": "bundle",
-    "chinese": "捆",
+    "chinese": "邦特",
     "danish": "bundt"
   },
   {
     "english": "sheaf",
-    "chinese": "捆",
+    "chinese": "邦特",
     "danish": "bundt"
   },
   {
@@ -6916,47 +6916,47 @@
   },
   {
     "english": "shout",
-    "chinese": "喊",
+    "chinese": "拉贝",
     "danish": "råbe"
   },
   {
     "english": "shout out",
-    "chinese": "喊",
+    "chinese": "喊出来",
     "danish": "råbe"
   },
   {
     "english": "cry",
-    "chinese": "喊",
+    "chinese": "拉贝",
     "danish": "råbe"
   },
   {
     "english": "call",
-    "chinese": "喊",
+    "chinese": "称呼",
     "danish": "råbe"
   },
   {
     "english": "yell",
-    "chinese": "喊",
+    "chinese": "叫喊",
     "danish": "råbe"
   },
   {
     "english": "scream",
-    "chinese": "喊",
+    "chinese": "尖叫",
     "danish": "råbe"
   },
   {
     "english": "holler",
-    "chinese": "喊",
+    "chinese": "抱怨",
     "danish": "råbe"
   },
   {
     "english": "hollo",
-    "chinese": "喊",
+    "chinese": "你好",
     "danish": "råbe"
   },
   {
     "english": "squall",
-    "chinese": "喊",
+    "chinese": "拉贝",
     "danish": "råbe"
   },
   {
@@ -7146,32 +7146,32 @@
   },
   {
     "english": "clique",
-    "chinese": "营",
+    "chinese": "集团",
     "danish": "klike"
   },
   {
     "english": "coterie",
-    "chinese": "营",
+    "chinese": "小圈子",
     "danish": "klike"
   },
   {
     "english": "ingroup",
-    "chinese": "营",
+    "chinese": "内组",
     "danish": "klike"
   },
   {
     "english": "inner circle",
-    "chinese": "营",
+    "chinese": "内圈",
     "danish": "klike"
   },
   {
     "english": "pack",
-    "chinese": "营",
+    "chinese": "克利克",
     "danish": "klike"
   },
   {
     "english": "camp",
-    "chinese": "营",
+    "chinese": "克利克",
     "danish": "klike"
   },
   {
@@ -7266,17 +7266,17 @@
   },
   {
     "english": "candle",
-    "chinese": "光",
+    "chinese": "蜡烛",
     "danish": "lys"
   },
   {
     "english": "taper",
-    "chinese": "光",
+    "chinese": "锥度",
     "danish": "lys"
   },
   {
     "english": "wax light",
-    "chinese": "光",
+    "chinese": "蜡光",
     "danish": "lys"
   },
   {
@@ -7311,12 +7311,12 @@
   },
   {
     "english": "cap",
-    "chinese": "帽",
+    "chinese": "色调",
     "danish": "hue"
   },
   {
     "english": "cap",
-    "chinese": "帽",
+    "chinese": "卡普塞尔",
     "danish": "kapsel"
   },
   {
@@ -8361,22 +8361,22 @@
   },
   {
     "english": "ceiling",
-    "chinese": "帽",
+    "chinese": "天花板",
     "danish": "loft"
   },
   {
     "english": "ceiling",
-    "chinese": "帽",
+    "chinese": "天花板",
     "danish": "loft"
   },
   {
     "english": "roof",
-    "chinese": "帽",
+    "chinese": "屋顶",
     "danish": "loft"
   },
   {
     "english": "cap",
-    "chinese": "帽",
+    "chinese": "阁楼",
     "danish": "loft"
   },
   {
@@ -8721,32 +8721,32 @@
   },
   {
     "english": "chain",
-    "chinese": "链",
+    "chinese": "凯德",
     "danish": "kæde"
   },
   {
     "english": "chain",
-    "chinese": "股",
+    "chinese": "哈尔斯凯德",
     "danish": "halskæde"
   },
   {
     "english": "string",
-    "chinese": "股",
+    "chinese": "细绳",
     "danish": "halskæde"
   },
   {
     "english": "strand",
-    "chinese": "股",
+    "chinese": "哈尔斯凯德",
     "danish": "halskæde"
   },
   {
     "english": "chain",
-    "chinese": "链",
+    "chinese": "孝顺网",
     "danish": "filialnet"
   },
   {
     "english": "chain",
-    "chinese": "链",
+    "chinese": "凯德",
     "danish": "kæde"
   },
   {
@@ -9031,7 +9031,7 @@
   },
   {
     "english": "chapter",
-    "chinese": "章",
+    "chinese": "卡皮特尔",
     "danish": "kapitel"
   },
   {
@@ -9116,12 +9116,12 @@
   },
   {
     "english": "accusation",
-    "chinese": "欠",
+    "chinese": "指控",
     "danish": "anklage"
   },
   {
     "english": "charge",
-    "chinese": "欠",
+    "chinese": "收费",
     "danish": "anklage"
   },
   {
@@ -9146,7 +9146,7 @@
   },
   {
     "english": "charge",
-    "chinese": "欠",
+    "chinese": "收费",
     "danish": "anklage"
   },
   {
@@ -9646,7 +9646,7 @@
   },
   {
     "english": "chord",
-    "chinese": "弦",
+    "chinese": "阿科德",
     "danish": "akkord"
   },
   {
@@ -9896,17 +9896,17 @@
   },
   {
     "english": "city",
-    "chinese": "镇",
+    "chinese": "城市",
     "danish": "by"
   },
   {
     "english": "metropolis",
-    "chinese": "镇",
+    "chinese": "都会",
     "danish": "by"
   },
   {
     "english": "urban center",
-    "chinese": "镇",
+    "chinese": "城市中心",
     "danish": "by"
   },
   {
@@ -10301,7 +10301,7 @@
   },
   {
     "english": "club",
-    "chinese": "腿",
+    "chinese": "俱乐部",
     "danish": "kølle"
   },
   {
@@ -10481,12 +10481,12 @@
   },
   {
     "english": "coating",
-    "chinese": "层",
+    "chinese": "涂层",
     "danish": "lag"
   },
   {
     "english": "coat",
-    "chinese": "层",
+    "chinese": "外套",
     "danish": "lag"
   },
   {
@@ -10726,22 +10726,22 @@
   },
   {
     "english": "collection",
-    "chinese": "队",
+    "chinese": "收藏",
     "danish": "gruppe"
   },
   {
     "english": "aggregation",
-    "chinese": "队",
+    "chinese": "聚合",
     "danish": "gruppe"
   },
   {
     "english": "accumulation",
-    "chinese": "队",
+    "chinese": "积累",
     "danish": "gruppe"
   },
   {
     "english": "assemblage",
-    "chinese": "队",
+    "chinese": "装配",
     "danish": "gruppe"
   },
   {
@@ -11696,7 +11696,7 @@
   },
   {
     "english": "conference",
-    "chinese": "看",
+    "chinese": "会议",
     "danish": "møde"
   },
   {
@@ -12601,7 +12601,7 @@
   },
   {
     "english": "core",
-    "chinese": "核",
+    "chinese": "内核",
     "danish": "kerne"
   },
   {
@@ -13511,22 +13511,22 @@
   },
   {
     "english": "hybrid",
-    "chinese": "叉",
+    "chinese": "杂交种",
     "danish": "krydsning"
   },
   {
     "english": "crossbreed",
-    "chinese": "叉",
+    "chinese": "杂交",
     "danish": "krydsning"
   },
   {
     "english": "cross",
-    "chinese": "叉",
+    "chinese": "克里斯宁",
     "danish": "krydsning"
   },
   {
     "english": "cross",
-    "chinese": "叉",
+    "chinese": "科尔斯",
     "danish": "kors"
   },
   {
@@ -13871,22 +13871,22 @@
   },
   {
     "english": "coil",
-    "chinese": "捻",
+    "chinese": "线圈",
     "danish": "vikle"
   },
   {
     "english": "loop",
-    "chinese": "捻",
+    "chinese": "环形",
     "danish": "vikle"
   },
   {
     "english": "curl",
-    "chinese": "捻",
+    "chinese": "卷曲",
     "danish": "vikle"
   },
   {
     "english": "currency",
-    "chinese": "钱",
+    "chinese": "货币",
     "danish": "valuta"
   },
   {
@@ -13901,12 +13901,12 @@
   },
   {
     "english": "current",
-    "chinese": "电",
+    "chinese": "当前的",
     "danish": "strøm"
   },
   {
     "english": "electric current",
-    "chinese": "电",
+    "chinese": "电流",
     "danish": "strøm"
   },
   {
@@ -14211,7 +14211,7 @@
   },
   {
     "english": "dare",
-    "chinese": "敢",
+    "chinese": "图尔德",
     "danish": "turde"
   },
   {
@@ -14371,7 +14371,7 @@
   },
   {
     "english": "deaf",
-    "chinese": "聋",
+    "chinese": "døv",
     "danish": "døv"
   },
   {
@@ -14671,17 +14671,17 @@
   },
   {
     "english": "describe",
-    "chinese": "画",
+    "chinese": "描述",
     "danish": "beskrive"
   },
   {
     "english": "depict",
-    "chinese": "画",
+    "chinese": "描绘",
     "danish": "beskrive"
   },
   {
     "english": "draw",
-    "chinese": "画",
+    "chinese": "贝斯克里夫",
     "danish": "beskrive"
   },
   {
@@ -14741,7 +14741,7 @@
   },
   {
     "english": "desire",
-    "chinese": "想",
+    "chinese": "欲望",
     "danish": "ønske"
   },
   {
@@ -15316,22 +15316,22 @@
   },
   {
     "english": "dig",
-    "chinese": "翻",
+    "chinese": "严重",
     "danish": "grave"
   },
   {
     "english": "delve",
-    "chinese": "翻",
+    "chinese": "钻研",
     "danish": "grave"
   },
   {
     "english": "cut into",
-    "chinese": "翻",
+    "chinese": "切入",
     "danish": "grave"
   },
   {
     "english": "turn over",
-    "chinese": "翻",
+    "chinese": "严重",
     "danish": "grave"
   },
   {
@@ -15411,27 +15411,27 @@
   },
   {
     "english": "dilute",
-    "chinese": "切",
+    "chinese": "四十丁德",
     "danish": "fortynde"
   },
   {
     "english": "thin",
-    "chinese": "切",
+    "chinese": "薄的",
     "danish": "fortynde"
   },
   {
     "english": "thin out",
-    "chinese": "切",
+    "chinese": "变薄",
     "danish": "fortynde"
   },
   {
     "english": "reduce",
-    "chinese": "切",
+    "chinese": "减少",
     "danish": "fortynde"
   },
   {
     "english": "cut",
-    "chinese": "切",
+    "chinese": "四十丁德",
     "danish": "fortynde"
   },
   {
@@ -15456,7 +15456,7 @@
   },
   {
     "english": "dip",
-    "chinese": "蘸",
+    "chinese": "斯克拉内",
     "danish": "skråne"
   },
   {
@@ -15896,12 +15896,12 @@
   },
   {
     "english": "disk",
-    "chinese": "片",
+    "chinese": "磁盘",
     "danish": "skive"
   },
   {
     "english": "disc",
-    "chinese": "片",
+    "chinese": "光盘",
     "danish": "skive"
   },
   {
@@ -16596,27 +16596,27 @@
   },
   {
     "english": "dollar",
-    "chinese": "蛤",
+    "chinese": "美元",
     "danish": "dollarseddel"
   },
   {
     "english": "dollar bill",
-    "chinese": "蛤",
+    "chinese": "美元钞票",
     "danish": "dollarseddel"
   },
   {
     "english": "one dollar bill",
-    "chinese": "蛤",
+    "chinese": "一美元钞票",
     "danish": "dollarseddel"
   },
   {
     "english": "buck",
-    "chinese": "蛤",
+    "chinese": "巴克",
     "danish": "dollarseddel"
   },
   {
     "english": "clam",
-    "chinese": "蛤",
+    "chinese": "美元塞德尔",
     "danish": "dollarseddel"
   },
   {
@@ -16646,12 +16646,12 @@
   },
   {
     "english": "donate",
-    "chinese": "捐",
+    "chinese": "多内雷",
     "danish": "donere"
   },
   {
     "english": "donate",
-    "chinese": "捐",
+    "chinese": "多泰雷",
     "danish": "dotere"
   },
   {
@@ -16661,12 +16661,12 @@
   },
   {
     "english": "door",
-    "chinese": "门",
+    "chinese": "多尔",
     "danish": "dør"
   },
   {
     "english": "door",
-    "chinese": "门",
+    "chinese": "德普拉德",
     "danish": "dørplade"
   },
   {
@@ -16756,22 +16756,22 @@
   },
   {
     "english": "twelve",
-    "chinese": "打",
+    "chinese": "十二",
     "danish": "dusin"
   },
   {
     "english": "12",
-    "chinese": "打",
+    "chinese": "12",
     "danish": "dusin"
   },
   {
     "english": "XII",
-    "chinese": "打",
+    "chinese": "十二",
     "danish": "dusin"
   },
   {
     "english": "dozen",
-    "chinese": "打",
+    "chinese": "杜辛",
     "danish": "dusin"
   },
   {
@@ -16826,7 +16826,7 @@
   },
   {
     "english": "drag",
-    "chinese": "拖",
+    "chinese": "斯莱贝",
     "danish": "slæbe"
   },
   {
@@ -16956,7 +16956,7 @@
   },
   {
     "english": "draw",
-    "chinese": "画",
+    "chinese": "泰涅",
     "danish": "tegne"
   },
   {
@@ -17001,27 +17001,27 @@
   },
   {
     "english": "dream",
-    "chinese": "梦",
+    "chinese": "德罗姆",
     "danish": "drøm"
   },
   {
     "english": "dreaming",
-    "chinese": "梦",
+    "chinese": "做梦",
     "danish": "drøm"
   },
   {
     "english": "ambition",
-    "chinese": "梦",
+    "chinese": "志向",
     "danish": "drøm"
   },
   {
     "english": "aspiration",
-    "chinese": "梦",
+    "chinese": "愿望",
     "danish": "drøm"
   },
   {
     "english": "dream",
-    "chinese": "梦",
+    "chinese": "德罗姆",
     "danish": "drøm"
   },
   {
@@ -17166,12 +17166,12 @@
   },
   {
     "english": "drive",
-    "chinese": "骑",
+    "chinese": "驾驶",
     "danish": "køretur"
   },
   {
     "english": "ride",
-    "chinese": "骑",
+    "chinese": "科雷图尔",
     "danish": "køretur"
   },
   {
@@ -17261,17 +17261,17 @@
   },
   {
     "english": "drum",
-    "chinese": "鼓",
+    "chinese": "通德",
     "danish": "tønde"
   },
   {
     "english": "membranophone",
-    "chinese": "鼓",
+    "chinese": "薄膜电话",
     "danish": "tønde"
   },
   {
     "english": "tympan",
-    "chinese": "鼓",
+    "chinese": "鼓膜",
     "danish": "tønde"
   },
   {
@@ -17291,12 +17291,12 @@
   },
   {
     "english": "barrel",
-    "chinese": "鼓",
+    "chinese": "通德",
     "danish": "tønde"
   },
   {
     "english": "drum",
-    "chinese": "鼓",
+    "chinese": "通德",
     "danish": "tønde"
   },
   {
@@ -17331,12 +17331,12 @@
   },
   {
     "english": "dump",
-    "chinese": "沟",
+    "chinese": "倾倒",
     "danish": "droppe"
   },
   {
     "english": "ditch",
-    "chinese": "沟",
+    "chinese": "滴水",
     "danish": "droppe"
   },
   {
@@ -17466,27 +17466,27 @@
   },
   {
     "english": "east",
-    "chinese": "乙",
+    "chinese": "东方",
     "danish": "øst"
   },
   {
     "english": "due east",
-    "chinese": "乙",
+    "chinese": "正东",
     "danish": "øst"
   },
   {
     "english": "eastward",
-    "chinese": "乙",
+    "chinese": "向东",
     "danish": "øst"
   },
   {
     "english": "E",
-    "chinese": "乙",
+    "chinese": "东",
     "danish": "øst"
   },
   {
     "english": "easy",
-    "chinese": "光",
+    "chinese": "简单的",
     "danish": "let"
   },
   {
@@ -17496,7 +17496,7 @@
   },
   {
     "english": "eat",
-    "chinese": "吃",
+    "chinese": "斯皮斯",
     "danish": "spise"
   },
   {
@@ -17581,7 +17581,7 @@
   },
   {
     "english": "edition",
-    "chinese": "版",
+    "chinese": "乌德加韦",
     "danish": "udgave"
   },
   {
@@ -17721,17 +17721,17 @@
   },
   {
     "english": "electricity",
-    "chinese": "电",
+    "chinese": "埃尔",
     "danish": "el"
   },
   {
     "english": "electricity",
-    "chinese": "电",
+    "chinese": "电石",
     "danish": "elektricitet"
   },
   {
     "english": "electricity",
-    "chinese": "电",
+    "chinese": "斯特罗姆",
     "danish": "strøm"
   },
   {
@@ -17901,17 +17901,17 @@
   },
   {
     "english": "emergency",
-    "chinese": "捏",
+    "chinese": "紧急情况",
     "danish": "nødsituation"
   },
   {
     "english": "exigency",
-    "chinese": "捏",
+    "chinese": "紧急情况",
     "danish": "nødsituation"
   },
   {
     "english": "pinch",
-    "chinese": "捏",
+    "chinese": "情况",
     "danish": "nødsituation"
   },
   {
@@ -18311,12 +18311,12 @@
   },
   {
     "english": "roll",
-    "chinese": "碗",
+    "chinese": "鲁伦",
     "danish": "rullen"
   },
   {
     "english": "bowl",
-    "chinese": "碗",
+    "chinese": "鲁伦",
     "danish": "rullen"
   },
   {
@@ -18351,7 +18351,7 @@
   },
   {
     "english": "twist",
-    "chinese": "捻",
+    "chinese": "维克勒",
     "danish": "vikle"
   },
   {
@@ -18466,7 +18466,7 @@
   },
   {
     "english": "ripen",
-    "chinese": "熟",
+    "chinese": "莫德内",
     "danish": "modne"
   },
   {
@@ -18786,12 +18786,12 @@
   },
   {
     "english": "rowing",
-    "chinese": "排",
+    "chinese": "划船",
     "danish": "roning"
   },
   {
     "english": "row",
-    "chinese": "排",
+    "chinese": "熨烫",
     "danish": "roning"
   },
   {
@@ -18811,17 +18811,17 @@
   },
   {
     "english": "maneuver",
-    "chinese": "玩",
+    "chinese": "演习",
     "danish": "manøvre"
   },
   {
     "english": "manoeuvre",
-    "chinese": "玩",
+    "chinese": "演习",
     "danish": "manøvre"
   },
   {
     "english": "play",
-    "chinese": "玩",
+    "chinese": "马勒夫尔",
     "danish": "manøvre"
   },
   {
@@ -18936,7 +18936,7 @@
   },
   {
     "english": "read",
-    "chinese": "读",
+    "chinese": "莱斯",
     "danish": "læse"
   },
   {
@@ -19081,12 +19081,12 @@
   },
   {
     "english": "smell",
-    "chinese": "闻",
+    "chinese": "卢格特",
     "danish": "lugte"
   },
   {
     "english": "smelling",
-    "chinese": "闻",
+    "chinese": "卢格特",
     "danish": "lugte"
   },
   {
@@ -19111,12 +19111,12 @@
   },
   {
     "english": "wish",
-    "chinese": "想",
+    "chinese": "希望",
     "danish": "ønske"
   },
   {
     "english": "shout",
-    "chinese": "喊",
+    "chinese": "拉贝",
     "danish": "råbe"
   },
   {
@@ -19246,7 +19246,7 @@
   },
   {
     "english": "write",
-    "chinese": "写",
+    "chinese": "斯克里夫",
     "danish": "skrive"
   },
   {
@@ -19396,7 +19396,7 @@
   },
   {
     "english": "roll",
-    "chinese": "翻",
+    "chinese": "鲁尔",
     "danish": "rulle"
   },
   {
@@ -19551,7 +19551,7 @@
   },
   {
     "english": "suck",
-    "chinese": "吸",
+    "chinese": "苏格",
     "danish": "suge"
   },
   {
@@ -19636,7 +19636,7 @@
   },
   {
     "english": "rub",
-    "chinese": "擦",
+    "chinese": "格尼德",
     "danish": "gnide"
   },
   {
@@ -19726,12 +19726,12 @@
   },
   {
     "english": "pup",
-    "chinese": "仔",
+    "chinese": "小狗",
     "danish": "hvalp"
   },
   {
     "english": "whelp",
-    "chinese": "仔",
+    "chinese": "瓦尔普",
     "danish": "hvalp"
   },
   {
@@ -19816,22 +19816,22 @@
   },
   {
     "english": "sew",
-    "chinese": "缝",
+    "chinese": "西",
     "danish": "sy"
   },
   {
     "english": "run up",
-    "chinese": "缝",
+    "chinese": "跑起来",
     "danish": "sy"
   },
   {
     "english": "sew together",
-    "chinese": "缝",
+    "chinese": "缝在一起",
     "danish": "sy"
   },
   {
     "english": "stitch",
-    "chinese": "缝",
+    "chinese": "西",
     "danish": "sy"
   },
   {
@@ -19946,7 +19946,7 @@
   },
   {
     "english": "saw",
-    "chinese": "锯",
+    "chinese": "节省",
     "danish": "save"
   },
   {
@@ -19976,7 +19976,7 @@
   },
   {
     "english": "young bird",
-    "chinese": "雏",
+    "chinese": "富格伦格",
     "danish": "fugleunge"
   },
   {
@@ -20121,12 +20121,12 @@
   },
   {
     "english": "wish",
-    "chinese": "想",
+    "chinese": "希望",
     "danish": "ønske"
   },
   {
     "english": "wish well",
-    "chinese": "想",
+    "chinese": "祝愿",
     "danish": "ønske"
   },
   {
@@ -20151,72 +20151,72 @@
   },
   {
     "english": "roll",
-    "chinese": "翻",
+    "chinese": "鲁尔",
     "danish": "rulle"
   },
   {
     "english": "revolve",
-    "chinese": "翻",
+    "chinese": "围绕",
     "danish": "rulle"
   },
   {
     "english": "writhe",
-    "chinese": "捻",
+    "chinese": "翻腾",
     "danish": "vriste"
   },
   {
     "english": "wrestle",
-    "chinese": "捻",
+    "chinese": "搏斗",
     "danish": "vriste"
   },
   {
     "english": "wriggle",
-    "chinese": "捻",
+    "chinese": "蠕动",
     "danish": "vriste"
   },
   {
     "english": "worm",
-    "chinese": "捻",
+    "chinese": "蠕虫",
     "danish": "vriste"
   },
   {
     "english": "squirm",
-    "chinese": "捻",
+    "chinese": "蠕动",
     "danish": "vriste"
   },
   {
     "english": "twist",
-    "chinese": "捻",
+    "chinese": "弗里斯特",
     "danish": "vriste"
   },
   {
     "english": "writhe",
-    "chinese": "捻",
+    "chinese": "翻腾",
     "danish": "vride sig"
   },
   {
     "english": "wrestle",
-    "chinese": "捻",
+    "chinese": "搏斗",
     "danish": "vride sig"
   },
   {
     "english": "wriggle",
-    "chinese": "捻",
+    "chinese": "蠕动",
     "danish": "vride sig"
   },
   {
     "english": "worm",
-    "chinese": "捻",
+    "chinese": "弗里德西格",
     "danish": "vride sig"
   },
   {
     "english": "squirm",
-    "chinese": "捻",
+    "chinese": "蠕动",
     "danish": "vride sig"
   },
   {
     "english": "twist",
-    "chinese": "捻",
+    "chinese": "弗里德西格",
     "danish": "vride sig"
   },
   {
@@ -20236,17 +20236,17 @@
   },
   {
     "english": "rock",
-    "chinese": "摇",
+    "chinese": "岩石",
     "danish": "vugge"
   },
   {
     "english": "sway",
-    "chinese": "摇",
+    "chinese": "摇摆",
     "danish": "vugge"
   },
   {
     "english": "shake",
-    "chinese": "摇",
+    "chinese": "武格",
     "danish": "vugge"
   },
   {
@@ -20256,22 +20256,22 @@
   },
   {
     "english": "shell",
-    "chinese": "壳",
+    "chinese": "斯卡尔",
     "danish": "skal"
   },
   {
     "english": "pulsate",
-    "chinese": "敲",
+    "chinese": "搏动",
     "danish": "banke"
   },
   {
     "english": "throb",
-    "chinese": "敲",
+    "chinese": "搏动",
     "danish": "banke"
   },
   {
     "english": "pulse",
-    "chinese": "敲",
+    "chinese": "脉冲",
     "danish": "banke"
   },
   {
@@ -20326,22 +20326,22 @@
   },
   {
     "english": "wheel",
-    "chinese": "翻",
+    "chinese": "鲁尔",
     "danish": "rulle"
   },
   {
     "english": "roll",
-    "chinese": "翻",
+    "chinese": "鲁尔",
     "danish": "rulle"
   },
   {
     "english": "steal",
-    "chinese": "滑",
+    "chinese": "斯穆特",
     "danish": "smutte"
   },
   {
     "english": "slip",
-    "chinese": "滑",
+    "chinese": "斯穆特",
     "danish": "smutte"
   },
   {
@@ -20401,22 +20401,22 @@
   },
   {
     "english": "scurry",
-    "chinese": "翼",
+    "chinese": "飞夫",
     "danish": "flyve"
   },
   {
     "english": "scamper",
-    "chinese": "翼",
+    "chinese": "飞夫",
     "danish": "flyve"
   },
   {
     "english": "skitter",
-    "chinese": "翼",
+    "chinese": "掠夺者",
     "danish": "flyve"
   },
   {
     "english": "scuttle",
-    "chinese": "翼",
+    "chinese": "天窗",
     "danish": "flyve"
   },
   {
@@ -20521,12 +20521,12 @@
   },
   {
     "english": "ride",
-    "chinese": "坐",
+    "chinese": "骑",
     "danish": "ride"
   },
   {
     "english": "sit",
-    "chinese": "坐",
+    "chinese": "骑",
     "danish": "ride"
   },
   {
@@ -20621,7 +20621,7 @@
   },
   {
     "english": "pour",
-    "chinese": "倒",
+    "chinese": "海尔德",
     "danish": "hælde"
   },
   {
@@ -20686,27 +20686,27 @@
   },
   {
     "english": "smell",
-    "chinese": "闻",
+    "chinese": "卢格特",
     "danish": "lugte"
   },
   {
     "english": "smell",
-    "chinese": "闻",
+    "chinese": "卢格特",
     "danish": "lugte"
   },
   {
     "english": "smell",
-    "chinese": "闻",
+    "chinese": "卢格特",
     "danish": "lugte"
   },
   {
     "english": "wing",
-    "chinese": "翼",
+    "chinese": "文格",
     "danish": "vinge"
   },
   {
     "english": "see",
-    "chinese": "看",
+    "chinese": "硒",
     "danish": "se"
   },
   {
@@ -20731,7 +20731,7 @@
   },
   {
     "english": "look",
-    "chinese": "看",
+    "chinese": "基格",
     "danish": "kigge"
   },
   {
@@ -20831,7 +20831,7 @@
   },
   {
     "english": "sell",
-    "chinese": "卖",
+    "chinese": "塞尔格",
     "danish": "sælge"
   },
   {
@@ -20911,12 +20911,12 @@
   },
   {
     "english": "rat",
-    "chinese": "鼠",
+    "chinese": "罗特",
     "danish": "rotte"
   },
   {
     "english": "pour",
-    "chinese": "倒",
+    "chinese": "海尔德",
     "danish": "hælde"
   },
   {
@@ -20936,7 +20936,7 @@
   },
   {
     "english": "sheep",
-    "chinese": "羊",
+    "chinese": "远的",
     "danish": "får"
   },
   {
@@ -21056,7 +21056,7 @@
   },
   {
     "english": "sell",
-    "chinese": "卖",
+    "chinese": "塞尔格",
     "danish": "sælge"
   },
   {
@@ -21066,12 +21066,12 @@
   },
   {
     "english": "rain",
-    "chinese": "奖",
+    "chinese": "雷涅",
     "danish": "regne"
   },
   {
     "english": "rain down",
-    "chinese": "奖",
+    "chinese": "下雨了",
     "danish": "regne"
   },
   {
@@ -21291,7 +21291,7 @@
   },
   {
     "english": "pole",
-    "chinese": "杆",
+    "chinese": "斯坦",
     "danish": "stang"
   },
   {
@@ -21336,7 +21336,7 @@
   },
   {
     "english": "raft",
-    "chinese": "筏",
+    "chinese": "托默弗拉德",
     "danish": "tømmerflåde"
   },
   {
@@ -21371,7 +21371,7 @@
   },
   {
     "english": "rod",
-    "chinese": "杆",
+    "chinese": "斯坦",
     "danish": "stang"
   },
   {
@@ -21426,12 +21426,12 @@
   },
   {
     "english": "section",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
     "english": "segment",
-    "chinese": "片",
+    "chinese": "部分",
     "danish": "del"
   },
   {
@@ -21451,7 +21451,7 @@
   },
   {
     "english": "shield",
-    "chinese": "盾",
+    "chinese": "舍尔德",
     "danish": "skjold"
   },
   {
@@ -21496,7 +21496,7 @@
   },
   {
     "english": "side",
-    "chinese": "脸",
+    "chinese": "边",
     "danish": "side"
   },
   {
@@ -21586,7 +21586,7 @@
   },
   {
     "english": "stick",
-    "chinese": "戳",
+    "chinese": "品德",
     "danish": "pind"
   },
   {
@@ -21596,12 +21596,12 @@
   },
   {
     "english": "strip",
-    "chinese": "条",
+    "chinese": "斯特里梅尔",
     "danish": "strimmel"
   },
   {
     "english": "slip",
-    "chinese": "条",
+    "chinese": "斯特里梅尔",
     "danish": "strimmel"
   },
   {
@@ -21671,27 +21671,27 @@
   },
   {
     "english": "thread",
-    "chinese": "纱",
+    "chinese": "特拉德",
     "danish": "tråd"
   },
   {
     "english": "yarn",
-    "chinese": "纱",
+    "chinese": "特拉德",
     "danish": "tråd"
   },
   {
     "english": "timepiece",
-    "chinese": "钟",
+    "chinese": "时计",
     "danish": "tidsmåler"
   },
   {
     "english": "timekeeper",
-    "chinese": "钟",
+    "chinese": "计时员",
     "danish": "tidsmåler"
   },
   {
     "english": "horologe",
-    "chinese": "钟",
+    "chinese": "蒂兹莫勒",
     "danish": "tidsmåler"
   },
   {
@@ -21741,7 +21741,7 @@
   },
   {
     "english": "tower",
-    "chinese": "塔",
+    "chinese": "塔恩",
     "danish": "tårn"
   },
   {
@@ -21851,17 +21851,17 @@
   },
   {
     "english": "water system",
-    "chinese": "水",
+    "chinese": "范德福西宁",
     "danish": "vandforsyning"
   },
   {
     "english": "water supply",
-    "chinese": "水",
+    "chinese": "范德福西宁",
     "danish": "vandforsyning"
   },
   {
     "english": "water",
-    "chinese": "水",
+    "chinese": "范德福西宁",
     "danish": "vandforsyning"
   },
   {
@@ -21901,7 +21901,7 @@
   },
   {
     "english": "whip",
-    "chinese": "鞭",
+    "chinese": "皮斯克",
     "danish": "pisk"
   },
   {
@@ -21916,22 +21916,22 @@
   },
   {
     "english": "wind instrument",
-    "chinese": "风",
+    "chinese": "管乐器",
     "danish": "blæseinstrument"
   },
   {
     "english": "wind",
-    "chinese": "风",
+    "chinese": "布莱森仪器",
     "danish": "blæseinstrument"
   },
   {
     "english": "wind instrument",
-    "chinese": "风",
+    "chinese": "管乐器",
     "danish": "blæser"
   },
   {
     "english": "wind",
-    "chinese": "风",
+    "chinese": "布莱瑟",
     "danish": "blæser"
   },
   {
@@ -22051,7 +22051,7 @@
   },
   {
     "english": "thing",
-    "chinese": "脸",
+    "chinese": "事物",
     "danish": "side"
   },
   {
@@ -22096,7 +22096,7 @@
   },
   {
     "english": "quality",
-    "chinese": "脸",
+    "chinese": "质量",
     "danish": "side"
   },
   {
@@ -22121,7 +22121,7 @@
   },
   {
     "english": "righteousness",
-    "chinese": "义",
+    "chinese": "雷茨卡芬赫德",
     "danish": "retskaffenhed"
   },
   {
@@ -22166,7 +22166,7 @@
   },
   {
     "english": "property",
-    "chinese": "脸",
+    "chinese": "财产",
     "danish": "side"
   },
   {
@@ -22276,7 +22276,7 @@
   },
   {
     "english": "physical property",
-    "chinese": "脸",
+    "chinese": "物理性质",
     "danish": "side"
   },
   {
@@ -22461,17 +22461,17 @@
   },
   {
     "english": "tooth",
-    "chinese": "齿",
+    "chinese": "比塞",
     "danish": "bisse"
   },
   {
     "english": "tooth",
-    "chinese": "齿",
+    "chinese": "普勒克",
     "danish": "pløk"
   },
   {
     "english": "tooth",
-    "chinese": "齿",
+    "chinese": "坦德",
     "danish": "tand"
   },
   {
@@ -22601,7 +22601,7 @@
   },
   {
     "english": "shin",
-    "chinese": "胫",
+    "chinese": "斯金内本",
     "danish": "skinneben"
   },
   {
@@ -23276,12 +23276,12 @@
   },
   {
     "english": "newspaper",
-    "chinese": "纸",
+    "chinese": "报纸",
     "danish": "avis"
   },
   {
     "english": "paper",
-    "chinese": "纸",
+    "chinese": "安飞士",
     "danish": "avis"
   },
   {
@@ -23736,7 +23736,7 @@
   },
   {
     "english": "thanks",
-    "chinese": "齿",
+    "chinese": "谢谢",
     "danish": "tak"
   },
   {
@@ -23896,7 +23896,7 @@
   },
   {
     "english": "squeak",
-    "chinese": "吱",
+    "chinese": "尼尔肯",
     "danish": "knirken"
   },
   {
@@ -24081,7 +24081,7 @@
   },
   {
     "english": "soup",
-    "chinese": "汤",
+    "chinese": "苏佩",
     "danish": "suppe"
   },
   {
@@ -24101,12 +24101,12 @@
   },
   {
     "english": "meat",
-    "chinese": "肉",
+    "chinese": "科德",
     "danish": "kød"
   },
   {
     "english": "meat",
-    "chinese": "肉",
+    "chinese": "科德瓦雷",
     "danish": "kødvare"
   },
   {
@@ -24156,7 +24156,7 @@
   },
   {
     "english": "sauce",
-    "chinese": "酱",
+    "chinese": "索夫",
     "danish": "sovs"
   },
   {
@@ -24201,12 +24201,12 @@
   },
   {
     "english": "wine",
-    "chinese": "藤",
+    "chinese": "葡萄酒",
     "danish": "vin"
   },
   {
     "english": "vino",
-    "chinese": "藤",
+    "chinese": "维诺",
     "danish": "vin"
   },
   {
@@ -24221,12 +24221,12 @@
   },
   {
     "english": "tea",
-    "chinese": "茶",
+    "chinese": "特",
     "danish": "te"
   },
   {
     "english": "tea",
-    "chinese": "茶",
+    "chinese": "特万德",
     "danish": "tevand"
   },
   {
@@ -24321,7 +24321,7 @@
   },
   {
     "english": "population",
-    "chinese": "罐",
+    "chinese": "人口",
     "danish": "krukke"
   },
   {
@@ -24511,12 +24511,12 @@
   },
   {
     "english": "row",
-    "chinese": "排",
+    "chinese": "胶凝的",
     "danish": "geled"
   },
   {
     "english": "row",
-    "chinese": "线",
+    "chinese": "雷克",
     "danish": "række"
   },
   {
@@ -24576,7 +24576,7 @@
   },
   {
     "english": "series",
-    "chinese": "线",
+    "chinese": "系列",
     "danish": "række"
   },
   {
@@ -24626,7 +24626,7 @@
   },
   {
     "english": "point",
-    "chinese": "点",
+    "chinese": "庞克特",
     "danish": "punkt"
   },
   {
@@ -24696,7 +24696,7 @@
   },
   {
     "english": "section",
-    "chinese": "队",
+    "chinese": "集团",
     "danish": "gruppe"
   },
   {
@@ -24706,7 +24706,7 @@
   },
   {
     "english": "side",
-    "chinese": "脸",
+    "chinese": "边",
     "danish": "side"
   },
   {
@@ -24726,52 +24726,52 @@
   },
   {
     "english": "state",
-    "chinese": "省",
+    "chinese": "状态",
     "danish": "provins"
   },
   {
     "english": "province",
-    "chinese": "省",
+    "chinese": "普罗万斯",
     "danish": "provins"
   },
   {
     "english": "state",
-    "chinese": "省",
+    "chinese": "状态",
     "danish": "delstat"
   },
   {
     "english": "province",
-    "chinese": "省",
+    "chinese": "德尔斯塔",
     "danish": "delstat"
   },
   {
     "english": "state",
-    "chinese": "省",
+    "chinese": "状态",
     "danish": "enkeltstat"
   },
   {
     "english": "province",
-    "chinese": "省",
+    "chinese": "恩克尔特斯塔",
     "danish": "enkeltstat"
   },
   {
     "english": "state",
-    "chinese": "省",
+    "chinese": "状态",
     "danish": "forbundsland"
   },
   {
     "english": "province",
-    "chinese": "省",
+    "chinese": "福本斯兰",
     "danish": "forbundsland"
   },
   {
     "english": "state",
-    "chinese": "省",
+    "chinese": "状态",
     "danish": "forbundsstat"
   },
   {
     "english": "province",
-    "chinese": "省",
+    "chinese": "外汇统计局",
     "danish": "forbundsstat"
   },
   {
@@ -24856,12 +24856,12 @@
   },
   {
     "english": "mountain",
-    "chinese": "山",
+    "chinese": "比约格",
     "danish": "bjerg"
   },
   {
     "english": "mount",
-    "chinese": "山",
+    "chinese": "比约格",
     "danish": "bjerg"
   },
   {
@@ -24906,12 +24906,12 @@
   },
   {
     "english": "pool",
-    "chinese": "走",
+    "chinese": "水池",
     "danish": "vandpyt"
   },
   {
     "english": "puddle",
-    "chinese": "走",
+    "chinese": "水坑",
     "danish": "vandpyt"
   },
   {
@@ -24951,32 +24951,32 @@
   },
   {
     "english": "river",
-    "chinese": "河",
+    "chinese": "洪水",
     "danish": "flod"
   },
   {
     "english": "rivulet",
-    "chinese": "溪",
+    "chinese": "拜克",
     "danish": "bæk"
   },
   {
     "english": "rill",
-    "chinese": "溪",
+    "chinese": "拜克",
     "danish": "bæk"
   },
   {
     "english": "run",
-    "chinese": "溪",
+    "chinese": "跑步",
     "danish": "bæk"
   },
   {
     "english": "runnel",
-    "chinese": "溪",
+    "chinese": "漏斗",
     "danish": "bæk"
   },
   {
     "english": "streamlet",
-    "chinese": "溪",
+    "chinese": "溪流",
     "danish": "bæk"
   },
   {
@@ -24991,17 +24991,17 @@
   },
   {
     "english": "row",
-    "chinese": "链",
+    "chinese": "凯德",
     "danish": "kæde"
   },
   {
     "english": "row",
-    "chinese": "线",
+    "chinese": "雷克",
     "danish": "række"
   },
   {
     "english": "sea",
-    "chinese": "海",
+    "chinese": "哈夫",
     "danish": "hav"
   },
   {
@@ -25011,7 +25011,7 @@
   },
   {
     "english": "section",
-    "chinese": "切",
+    "chinese": "发怒",
     "danish": "snit"
   },
   {
@@ -25031,7 +25031,7 @@
   },
   {
     "english": "slice",
-    "chinese": "片",
+    "chinese": "斯基沃",
     "danish": "skive"
   },
   {
@@ -25046,12 +25046,12 @@
   },
   {
     "english": "valley",
-    "chinese": "谷",
+    "chinese": "达尔",
     "danish": "dal"
   },
   {
     "english": "vale",
-    "chinese": "谷",
+    "chinese": "达尔",
     "danish": "dal"
   },
   {
@@ -25146,12 +25146,12 @@
   },
   {
     "english": "progenitor",
-    "chinese": "根",
+    "chinese": "祖先",
     "danish": "forfader"
   },
   {
     "english": "primogenitor",
-    "chinese": "根",
+    "chinese": "始祖",
     "danish": "forfader"
   },
   {
@@ -25356,7 +25356,7 @@
   },
   {
     "english": "saint",
-    "chinese": "圣",
+    "chinese": "赫尔根",
     "danish": "helgen"
   },
   {
@@ -25626,12 +25626,12 @@
   },
   {
     "english": "rain",
-    "chinese": "雨",
+    "chinese": "统治",
     "danish": "regn"
   },
   {
     "english": "rainfall",
-    "chinese": "雨",
+    "chinese": "统治",
     "danish": "regn"
   },
   {
@@ -25646,12 +25646,12 @@
   },
   {
     "english": "snow",
-    "chinese": "雪",
+    "chinese": "斯内",
     "danish": "sne"
   },
   {
     "english": "snowfall",
-    "chinese": "雪",
+    "chinese": "降雪",
     "danish": "sne"
   },
   {
@@ -25706,12 +25706,12 @@
   },
   {
     "english": "vine",
-    "chinese": "藤",
+    "chinese": "文",
     "danish": "vin"
   },
   {
     "english": "vine",
-    "chinese": "藤",
+    "chinese": "万普兰特",
     "danish": "vinplante"
   },
   {
@@ -25721,7 +25721,7 @@
   },
   {
     "english": "tree",
-    "chinese": "树",
+    "chinese": "特雷瓦克斯特",
     "danish": "trævækst"
   },
   {
@@ -25731,17 +25731,17 @@
   },
   {
     "english": "root",
-    "chinese": "根",
+    "chinese": "杆",
     "danish": "rod"
   },
   {
     "english": "stalk",
-    "chinese": "干",
+    "chinese": "茎",
     "danish": "stilk"
   },
   {
     "english": "stem",
-    "chinese": "干",
+    "chinese": "茎",
     "danish": "stilk"
   },
   {
@@ -25891,7 +25891,7 @@
   },
   {
     "english": "money",
-    "chinese": "钱",
+    "chinese": "彭格",
     "danish": "penge"
   },
   {
@@ -25936,7 +25936,7 @@
   },
   {
     "english": "score",
-    "chinese": "切",
+    "chinese": "分数",
     "danish": "skår"
   },
   {
@@ -25996,12 +25996,12 @@
   },
   {
     "english": "pot",
-    "chinese": "罐",
+    "chinese": "克鲁克",
     "danish": "krukke"
   },
   {
     "english": "potful",
-    "chinese": "罐",
+    "chinese": "一盆",
     "danish": "krukke"
   },
   {
@@ -26031,7 +26031,7 @@
   },
   {
     "english": "straight line",
-    "chinese": "线",
+    "chinese": "直线",
     "danish": "linje"
   },
   {
@@ -26136,22 +26136,22 @@
   },
   {
     "english": "social station",
-    "chinese": "秩",
+    "chinese": "社交站",
     "danish": "rang"
   },
   {
     "english": "social status",
-    "chinese": "秩",
+    "chinese": "社会地位",
     "danish": "rang"
   },
   {
     "english": "social rank",
-    "chinese": "秩",
+    "chinese": "社会等级",
     "danish": "rang"
   },
   {
     "english": "rank",
-    "chinese": "秩",
+    "chinese": "响",
     "danish": "rang"
   },
   {
@@ -26456,12 +26456,12 @@
   },
   {
     "english": "orderliness",
-    "chinese": "巢",
+    "chinese": "秩序",
     "danish": "rede"
   },
   {
     "english": "order",
-    "chinese": "巢",
+    "chinese": "命令",
     "danish": "rede"
   },
   {
@@ -26556,17 +26556,17 @@
   },
   {
     "english": "hide",
-    "chinese": "壳",
+    "chinese": "隐藏",
     "danish": "skal"
   },
   {
     "english": "pelt",
-    "chinese": "壳",
+    "chinese": "毛皮",
     "danish": "skal"
   },
   {
     "english": "skin",
-    "chinese": "壳",
+    "chinese": "皮肤",
     "danish": "skal"
   },
   {
@@ -26601,7 +26601,7 @@
   },
   {
     "english": "steel",
-    "chinese": "钢",
+    "chinese": "斯塔尔",
     "danish": "stål"
   },
   {
@@ -26931,27 +26931,27 @@
   },
   {
     "english": "year",
-    "chinese": "年",
+    "chinese": "阿尔",
     "danish": "år"
   },
   {
     "english": "twelvemonth",
-    "chinese": "年",
+    "chinese": "十二月",
     "danish": "år"
   },
   {
     "english": "yr",
-    "chinese": "年",
+    "chinese": "阿尔",
     "danish": "år"
   },
   {
     "english": "year",
-    "chinese": "年",
+    "chinese": "阿尔",
     "danish": "år"
   },
   {
     "english": "month",
-    "chinese": "月",
+    "chinese": "莫内德",
     "danish": "måned"
   },
   {
@@ -26961,17 +26961,17 @@
   },
   {
     "english": "second",
-    "chinese": "s",
+    "chinese": "第二",
     "danish": "sekund"
   },
   {
     "english": "sec",
-    "chinese": "s",
+    "chinese": "塞昆德",
     "danish": "sekund"
   },
   {
     "english": "s",
-    "chinese": "s",
+    "chinese": "塞昆德",
     "danish": "sekund"
   },
   {
@@ -27046,22 +27046,22 @@
   },
   {
     "english": "set",
-    "chinese": "放",
+    "chinese": "萨特",
     "danish": "sæt"
   },
   {
     "english": "playing period",
-    "chinese": "玩",
+    "chinese": "斯普莱蒂德",
     "danish": "spilletid"
   },
   {
     "english": "period of play",
-    "chinese": "玩",
+    "chinese": "比赛时期",
     "danish": "spilletid"
   },
   {
     "english": "play",
-    "chinese": "玩",
+    "chinese": "斯普莱蒂德",
     "danish": "spilletid"
   },
   {
@@ -27156,22 +27156,22 @@
   },
   {
     "english": "locomotive",
-    "chinese": "盖",
+    "chinese": "落后",
     "danish": "låg"
   },
   {
     "english": "engine",
-    "chinese": "盖",
+    "chinese": "引擎",
     "danish": "låg"
   },
   {
     "english": "locomotive engine",
-    "chinese": "盖",
+    "chinese": "机车发动机",
     "danish": "låg"
   },
   {
     "english": "railway locomotive",
-    "chinese": "盖",
+    "chinese": "铁路机车",
     "danish": "låg"
   },
   {
@@ -28246,22 +28246,22 @@
   },
   {
     "english": "annex",
-    "chinese": "翼",
+    "chinese": "附件",
     "danish": "fløj"
   },
   {
     "english": "annexe",
-    "chinese": "翼",
+    "chinese": "附件",
     "danish": "fløj"
   },
   {
     "english": "extension",
-    "chinese": "翼",
+    "chinese": "扩大",
     "danish": "fløj"
   },
   {
     "english": "wing",
-    "chinese": "翼",
+    "chinese": "弗洛伊",
     "danish": "fløj"
   },
   {
@@ -29676,17 +29676,17 @@
   },
   {
     "english": "file",
-    "chinese": "线",
+    "chinese": "文件",
     "danish": "række"
   },
   {
     "english": "single file",
-    "chinese": "线",
+    "chinese": "单个文件",
     "danish": "række"
   },
   {
     "english": "Indian file",
-    "chinese": "线",
+    "chinese": "印度档案",
     "danish": "række"
   },
   {
@@ -29706,7 +29706,7 @@
   },
   {
     "english": "film",
-    "chinese": "层",
+    "chinese": "电影",
     "danish": "lag"
   },
   {
@@ -29826,12 +29826,12 @@
   },
   {
     "english": "fire",
-    "chinese": "火",
+    "chinese": "卡明",
     "danish": "kamin"
   },
   {
     "english": "fire",
-    "chinese": "火",
+    "chinese": "佩斯",
     "danish": "pejs"
   },
   {
@@ -30016,27 +30016,27 @@
   },
   {
     "english": "fish",
-    "chinese": "鱼",
+    "chinese": "菲斯克",
     "danish": "fisk"
   },
   {
     "english": "fish",
-    "chinese": "鱼",
+    "chinese": "菲斯克",
     "danish": "fisk"
   },
   {
     "english": "fish",
-    "chinese": "鱼",
+    "chinese": "菲斯克德",
     "danish": "fiskekød"
   },
   {
     "english": "fish",
-    "chinese": "鱼",
+    "chinese": "孔苏姆菲斯克",
     "danish": "konsumfisk"
   },
   {
     "english": "fish",
-    "chinese": "鱼",
+    "chinese": "斯皮塞菲斯克",
     "danish": "spisefisk"
   },
   {
@@ -30391,37 +30391,37 @@
   },
   {
     "english": "flesh",
-    "chinese": "肉",
+    "chinese": "科德",
     "danish": "kød"
   },
   {
     "english": "flesh",
-    "chinese": "肉",
+    "chinese": "克罗普",
     "danish": "krop"
   },
   {
     "english": "flesh",
-    "chinese": "肉",
+    "chinese": "莱赫梅",
     "danish": "legeme"
   },
   {
     "english": "pulp",
-    "chinese": "肉",
+    "chinese": "纸浆",
     "danish": "frugtkød"
   },
   {
     "english": "flesh",
-    "chinese": "肉",
+    "chinese": "弗鲁特克德",
     "danish": "frugtkød"
   },
   {
     "english": "pulp",
-    "chinese": "肉",
+    "chinese": "纸浆",
     "danish": "kød"
   },
   {
     "english": "flesh",
-    "chinese": "肉",
+    "chinese": "科德",
     "danish": "kød"
   },
   {
@@ -30546,7 +30546,7 @@
   },
   {
     "english": "flower",
-    "chinese": "花",
+    "chinese": "布洛姆斯特",
     "danish": "blomst"
   },
   {
@@ -30606,17 +30606,17 @@
   },
   {
     "english": "fly",
-    "chinese": "飞",
+    "chinese": "烟道",
     "danish": "flue"
   },
   {
     "english": "fly",
-    "chinese": "翼",
+    "chinese": "飞夫",
     "danish": "flyve"
   },
   {
     "english": "wing",
-    "chinese": "翼",
+    "chinese": "飞夫",
     "danish": "flyve"
   },
   {
@@ -31171,7 +31171,7 @@
   },
   {
     "english": "fork",
-    "chinese": "叉",
+    "chinese": "加菲尔",
     "danish": "gaffel"
   },
   {
@@ -31391,7 +31391,7 @@
   },
   {
     "english": "fortune",
-    "chinese": "钱",
+    "chinese": "财富",
     "danish": "formue"
   },
   {
@@ -31506,7 +31506,7 @@
   },
   {
     "english": "fragrant",
-    "chinese": "香",
+    "chinese": "费尔杜夫滕德",
     "danish": "velduftende"
   },
   {
@@ -32351,62 +32351,62 @@
   },
   {
     "english": "accelerator",
-    "chinese": "枪",
+    "chinese": "加速器",
     "danish": "gaspedal"
   },
   {
     "english": "accelerator pedal",
-    "chinese": "枪",
+    "chinese": "油门踏板",
     "danish": "gaspedal"
   },
   {
     "english": "gas pedal",
-    "chinese": "枪",
+    "chinese": "油门踏板",
     "danish": "gaspedal"
   },
   {
     "english": "gas",
-    "chinese": "枪",
+    "chinese": "气体",
     "danish": "gaspedal"
   },
   {
     "english": "throttle",
-    "chinese": "枪",
+    "chinese": "风门",
     "danish": "gaspedal"
   },
   {
     "english": "gun",
-    "chinese": "枪",
+    "chinese": "油门踏板",
     "danish": "gaspedal"
   },
   {
     "english": "accelerator",
-    "chinese": "枪",
+    "chinese": "加速器",
     "danish": "speeder"
   },
   {
     "english": "accelerator pedal",
-    "chinese": "枪",
+    "chinese": "油门踏板",
     "danish": "speeder"
   },
   {
     "english": "gas pedal",
-    "chinese": "枪",
+    "chinese": "油门踏板",
     "danish": "speeder"
   },
   {
     "english": "gas",
-    "chinese": "枪",
+    "chinese": "气体",
     "danish": "speeder"
   },
   {
     "english": "throttle",
-    "chinese": "枪",
+    "chinese": "风门",
     "danish": "speeder"
   },
   {
     "english": "gun",
-    "chinese": "枪",
+    "chinese": "调速器",
     "danish": "speeder"
   },
   {
@@ -32481,7 +32481,7 @@
   },
   {
     "english": "gate",
-    "chinese": "门",
+    "chinese": "港口",
     "danish": "port"
   },
   {
@@ -32676,32 +32676,32 @@
   },
   {
     "english": "ghost",
-    "chinese": "鬼",
+    "chinese": "根费尔德",
     "danish": "genfærd"
   },
   {
     "english": "ghost",
-    "chinese": "鬼",
+    "chinese": "更根格尔",
     "danish": "genganger"
   },
   {
     "english": "ghost",
-    "chinese": "鬼",
+    "chinese": "盖斯彭斯特",
     "danish": "gespenst"
   },
   {
     "english": "ghost",
-    "chinese": "鬼",
+    "chinese": "斯普格尔瑟",
     "danish": "spøgelse"
   },
   {
     "english": "ghostwriter",
-    "chinese": "鬼",
+    "chinese": "代笔作家",
     "danish": "neger"
   },
   {
     "english": "ghost",
-    "chinese": "鬼",
+    "chinese": "内格尔",
     "danish": "neger"
   },
   {
@@ -32816,17 +32816,17 @@
   },
   {
     "english": "gift",
-    "chinese": "给",
+    "chinese": "礼物",
     "danish": "give"
   },
   {
     "english": "present",
-    "chinese": "给",
+    "chinese": "展示",
     "danish": "give"
   },
   {
     "english": "pass",
-    "chinese": "给",
+    "chinese": "经过",
     "danish": "give"
   },
   {
@@ -32836,12 +32836,12 @@
   },
   {
     "english": "reach",
-    "chinese": "给",
+    "chinese": "抵达",
     "danish": "give"
   },
   {
     "english": "pass on",
-    "chinese": "给",
+    "chinese": "传递",
     "danish": "give"
   },
   {
@@ -33516,72 +33516,72 @@
   },
   {
     "english": "pot",
-    "chinese": "草",
+    "chinese": "格雷斯",
     "danish": "græs"
   },
   {
     "english": "grass",
-    "chinese": "草",
+    "chinese": "格雷斯",
     "danish": "græs"
   },
   {
     "english": "green goddess",
-    "chinese": "草",
+    "chinese": "绿色女神",
     "danish": "græs"
   },
   {
     "english": "dope",
-    "chinese": "草",
+    "chinese": "涂料",
     "danish": "græs"
   },
   {
     "english": "weed",
-    "chinese": "草",
+    "chinese": "杂草",
     "danish": "græs"
   },
   {
     "english": "gage",
-    "chinese": "草",
+    "chinese": "量具",
     "danish": "græs"
   },
   {
     "english": "sess",
-    "chinese": "草",
+    "chinese": "赛斯",
     "danish": "græs"
   },
   {
     "english": "sens",
-    "chinese": "草",
+    "chinese": "感性",
     "danish": "græs"
   },
   {
     "english": "smoke",
-    "chinese": "草",
+    "chinese": "抽烟",
     "danish": "græs"
   },
   {
     "english": "skunk",
-    "chinese": "草",
+    "chinese": "臭鼬",
     "danish": "græs"
   },
   {
     "english": "locoweed",
-    "chinese": "草",
+    "chinese": "疯草",
     "danish": "græs"
   },
   {
     "english": "Mary Jane",
-    "chinese": "草",
+    "chinese": "玛丽·简",
     "danish": "græs"
   },
   {
     "english": "grass",
-    "chinese": "草",
+    "chinese": "格雷斯",
     "danish": "græs"
   },
   {
     "english": "grass",
-    "chinese": "草",
+    "chinese": "格雷斯韦克斯特",
     "danish": "græsvækst"
   },
   {
@@ -33596,12 +33596,12 @@
   },
   {
     "english": "grave",
-    "chinese": "墓",
+    "chinese": "严重",
     "danish": "grav"
   },
   {
     "english": "tomb",
-    "chinese": "墓",
+    "chinese": "重力",
     "danish": "grav"
   },
   {
@@ -33791,12 +33791,12 @@
   },
   {
     "english": "grimace",
-    "chinese": "脸",
+    "chinese": "鬼脸",
     "danish": "grimasse"
   },
   {
     "english": "face",
-    "chinese": "脸",
+    "chinese": "格里马斯",
     "danish": "grimasse"
   },
   {
@@ -34156,17 +34156,17 @@
   },
   {
     "english": "gun",
-    "chinese": "枪",
+    "chinese": "天空德文",
     "danish": "skydevåben"
   },
   {
     "english": "gutter",
-    "chinese": "槽",
+    "chinese": "排水沟",
     "danish": "rendesten"
   },
   {
     "english": "trough",
-    "chinese": "槽",
+    "chinese": "伦德斯滕",
     "danish": "rendesten"
   },
   {
@@ -34376,7 +34376,7 @@
   },
   {
     "english": "hand",
-    "chinese": "手",
+    "chinese": "比法尔德",
     "danish": "bifald"
   },
   {
@@ -34586,17 +34586,17 @@
   },
   {
     "english": "hat",
-    "chinese": "盖",
+    "chinese": "帽子",
     "danish": "hat"
   },
   {
     "english": "chapeau",
-    "chinese": "盖",
+    "chinese": "起首部分",
     "danish": "hat"
   },
   {
     "english": "lid",
-    "chinese": "盖",
+    "chinese": "帽子",
     "danish": "hat"
   },
   {
@@ -34876,12 +34876,12 @@
   },
   {
     "english": "hear",
-    "chinese": "听",
+    "chinese": "听到",
     "danish": "høre"
   },
   {
     "english": "heart",
-    "chinese": "心",
+    "chinese": "耶尔特",
     "danish": "hjerter"
   },
   {
@@ -34901,47 +34901,47 @@
   },
   {
     "english": "heart",
-    "chinese": "心",
+    "chinese": "耶尔特",
     "danish": "hjerte"
   },
   {
     "english": "heating system",
-    "chinese": "热",
+    "chinese": "供暖系统",
     "danish": "opvarmningsanlæg"
   },
   {
     "english": "heating plant",
-    "chinese": "热",
+    "chinese": "供热厂",
     "danish": "opvarmningsanlæg"
   },
   {
     "english": "heating",
-    "chinese": "热",
+    "chinese": "加热",
     "danish": "opvarmningsanlæg"
   },
   {
     "english": "heat",
-    "chinese": "热",
+    "chinese": "奥普瓦尔宁桑莱格",
     "danish": "opvarmningsanlæg"
   },
   {
     "english": "heating system",
-    "chinese": "热",
+    "chinese": "供暖系统",
     "danish": "varmeanlæg"
   },
   {
     "english": "heating plant",
-    "chinese": "热",
+    "chinese": "供热厂",
     "danish": "varmeanlæg"
   },
   {
     "english": "heating",
-    "chinese": "热",
+    "chinese": "加热",
     "danish": "varmeanlæg"
   },
   {
     "english": "heat",
-    "chinese": "热",
+    "chinese": "瓦尔梅莱格",
     "danish": "varmeanlæg"
   },
   {
@@ -35611,7 +35611,7 @@
   },
   {
     "english": "hole",
-    "chinese": "洞",
+    "chinese": "胡尔",
     "danish": "hul"
   },
   {
@@ -36066,7 +36066,7 @@
   },
   {
     "english": "hook",
-    "chinese": "钩",
+    "chinese": "克罗格",
     "danish": "krog"
   },
   {
@@ -36306,12 +36306,12 @@
   },
   {
     "english": "horse",
-    "chinese": "马",
+    "chinese": "赫斯特",
     "danish": "hest"
   },
   {
     "english": "Equus caballus",
-    "chinese": "马",
+    "chinese": "马属马",
     "danish": "hest"
   },
   {
@@ -36336,12 +36336,12 @@
   },
   {
     "english": "knight",
-    "chinese": "马",
+    "chinese": "骑士",
     "danish": "hest"
   },
   {
     "english": "horse",
-    "chinese": "马",
+    "chinese": "赫斯特",
     "danish": "hest"
   },
   {
@@ -36431,17 +36431,17 @@
   },
   {
     "english": "hour",
-    "chinese": "课",
+    "chinese": "小时",
     "danish": "time"
   },
   {
     "english": "hr",
-    "chinese": "课",
+    "chinese": "小时",
     "danish": "time"
   },
   {
     "english": "60 minutes",
-    "chinese": "课",
+    "chinese": "60分钟",
     "danish": "time"
   },
   {
@@ -37456,12 +37456,12 @@
   },
   {
     "english": "inch",
-    "chinese": "在",
+    "chinese": "英寸",
     "danish": "tomme"
   },
   {
     "english": "in",
-    "chinese": "在",
+    "chinese": "托梅",
     "danish": "tomme"
   },
   {
@@ -37796,12 +37796,12 @@
   },
   {
     "english": "inject",
-    "chinese": "喷",
+    "chinese": "注入",
     "danish": "sprøjte"
   },
   {
     "english": "injection",
-    "chinese": "喷",
+    "chinese": "注射",
     "danish": "sprøjte"
   },
   {
@@ -37861,7 +37861,7 @@
   },
   {
     "english": "inner",
-    "chinese": "内",
+    "chinese": "安德尔",
     "danish": "indre"
   },
   {
@@ -38416,7 +38416,7 @@
   },
   {
     "english": "island",
-    "chinese": "岛",
+    "chinese": "Ø",
     "danish": "ø"
   },
   {
@@ -38581,17 +38581,17 @@
   },
   {
     "english": "jar",
-    "chinese": "罐",
+    "chinese": "克鲁克",
     "danish": "krukke"
   },
   {
     "english": "jaw",
-    "chinese": "颚",
+    "chinese": "卡贝",
     "danish": "kæbe"
   },
   {
     "english": "jaw",
-    "chinese": "颚",
+    "chinese": "卡耶",
     "danish": "kaje"
   },
   {
@@ -38991,7 +38991,7 @@
   },
   {
     "english": "kick",
-    "chinese": "踢",
+    "chinese": "火花",
     "danish": "sparke"
   },
   {
@@ -39001,12 +39001,12 @@
   },
   {
     "english": "kidney",
-    "chinese": "肾",
+    "chinese": "尼雷",
     "danish": "nyre"
   },
   {
     "english": "kill",
-    "chinese": "杀",
+    "chinese": "德雷贝",
     "danish": "dræbe"
   },
   {
@@ -39136,27 +39136,27 @@
   },
   {
     "english": "knee",
-    "chinese": "膝",
+    "chinese": "膝盖",
     "danish": "knæ"
   },
   {
     "english": "knee joint",
-    "chinese": "膝",
+    "chinese": "膝关节",
     "danish": "knæ"
   },
   {
     "english": "human knee",
-    "chinese": "膝",
+    "chinese": "人的膝盖",
     "danish": "knæ"
   },
   {
     "english": "articulatio genus",
-    "chinese": "膝",
+    "chinese": "关节属",
     "danish": "knæ"
   },
   {
     "english": "genu",
-    "chinese": "膝",
+    "chinese": "克奈",
     "danish": "knæ"
   },
   {
@@ -39176,12 +39176,12 @@
   },
   {
     "english": "knock",
-    "chinese": "敲",
+    "chinese": "班克",
     "danish": "banke"
   },
   {
     "english": "knot",
-    "chinese": "结",
+    "chinese": "克努德",
     "danish": "knude"
   },
   {
@@ -39341,7 +39341,7 @@
   },
   {
     "english": "ladder",
-    "chinese": "爬",
+    "chinese": "梯子",
     "danish": "stige"
   },
   {
@@ -39391,7 +39391,7 @@
   },
   {
     "english": "lamp",
-    "chinese": "灯",
+    "chinese": "兰佩",
     "danish": "lampe"
   },
   {
@@ -39736,7 +39736,7 @@
   },
   {
     "english": "layer",
-    "chinese": "层",
+    "chinese": "落后",
     "danish": "lag"
   },
   {
@@ -39931,7 +39931,7 @@
   },
   {
     "english": "lease",
-    "chinese": "租",
+    "chinese": "lejekontrakt",
     "danish": "lejekontrakt"
   },
   {
@@ -40051,7 +40051,7 @@
   },
   {
     "english": "leg",
-    "chinese": "腿",
+    "chinese": "科勒",
     "danish": "kølle"
   },
   {
@@ -40141,37 +40141,37 @@
   },
   {
     "english": "lesson",
-    "chinese": "课",
+    "chinese": "时间",
     "danish": "time"
   },
   {
     "english": "lesson",
-    "chinese": "课",
+    "chinese": "下维宁时间",
     "danish": "undervisningstime"
   },
   {
     "english": "lease",
-    "chinese": "租",
+    "chinese": "乌德莱耶",
     "danish": "udleje"
   },
   {
     "english": "let",
-    "chinese": "租",
+    "chinese": "乌德莱耶",
     "danish": "udleje"
   },
   {
     "english": "rent",
-    "chinese": "租",
+    "chinese": "乌德莱耶",
     "danish": "udleje"
   },
   {
     "english": "letter",
-    "chinese": "包",
+    "chinese": "短",
     "danish": "brev"
   },
   {
     "english": "missive",
-    "chinese": "包",
+    "chinese": "信函",
     "danish": "brev"
   },
   {
@@ -40241,62 +40241,62 @@
   },
   {
     "english": "level",
-    "chinese": "层",
+    "chinese": "等级",
     "danish": "leje"
   },
   {
     "english": "layer",
-    "chinese": "层",
+    "chinese": "莱杰",
     "danish": "leje"
   },
   {
     "english": "stratum",
-    "chinese": "层",
+    "chinese": "地层",
     "danish": "leje"
   },
   {
     "english": "level",
-    "chinese": "层",
+    "chinese": "等级",
     "danish": "niveau"
   },
   {
     "english": "layer",
-    "chinese": "层",
+    "chinese": "尼沃",
     "danish": "niveau"
   },
   {
     "english": "stratum",
-    "chinese": "层",
+    "chinese": "地层",
     "danish": "niveau"
   },
   {
     "english": "grade",
-    "chinese": "层",
+    "chinese": "年级",
     "danish": "leje"
   },
   {
     "english": "level",
-    "chinese": "层",
+    "chinese": "等级",
     "danish": "leje"
   },
   {
     "english": "tier",
-    "chinese": "层",
+    "chinese": "莱杰",
     "danish": "leje"
   },
   {
     "english": "grade",
-    "chinese": "层",
+    "chinese": "年级",
     "danish": "niveau"
   },
   {
     "english": "level",
-    "chinese": "层",
+    "chinese": "等级",
     "danish": "niveau"
   },
   {
     "english": "tier",
-    "chinese": "层",
+    "chinese": "尼沃",
     "danish": "niveau"
   },
   {
@@ -40391,7 +40391,7 @@
   },
   {
     "english": "lid",
-    "chinese": "盖",
+    "chinese": "落后",
     "danish": "låg"
   },
   {
@@ -40586,12 +40586,12 @@
   },
   {
     "english": "light",
-    "chinese": "光",
+    "chinese": "赖氨酸",
     "danish": "lys"
   },
   {
     "english": "light source",
-    "chinese": "光",
+    "chinese": "光源",
     "danish": "lys"
   },
   {
@@ -40636,32 +40636,32 @@
   },
   {
     "english": "luminosity",
-    "chinese": "光",
+    "chinese": "亮度",
     "danish": "lysstyrke"
   },
   {
     "english": "brightness",
-    "chinese": "光",
+    "chinese": "亮度",
     "danish": "lysstyrke"
   },
   {
     "english": "brightness level",
-    "chinese": "光",
+    "chinese": "亮度等级",
     "danish": "lysstyrke"
   },
   {
     "english": "luminance",
-    "chinese": "光",
+    "chinese": "亮度",
     "danish": "lysstyrke"
   },
   {
     "english": "luminousness",
-    "chinese": "光",
+    "chinese": "光度",
     "danish": "lysstyrke"
   },
   {
     "english": "light",
-    "chinese": "光",
+    "chinese": "利斯特尔克",
     "danish": "lysstyrke"
   },
   {
@@ -40691,32 +40691,32 @@
   },
   {
     "english": "ignite",
-    "chinese": "光",
+    "chinese": "点燃",
     "danish": "antænde"
   },
   {
     "english": "light",
-    "chinese": "光",
+    "chinese": "昂泰恩德",
     "danish": "antænde"
   },
   {
     "english": "light",
-    "chinese": "光",
+    "chinese": "让",
     "danish": "let"
   },
   {
     "english": "light",
-    "chinese": "光",
+    "chinese": "赖氨酸",
     "danish": "lys"
   },
   {
     "english": "light-colored",
-    "chinese": "光",
+    "chinese": "浅色的",
     "danish": "lys"
   },
   {
     "english": "light",
-    "chinese": "光",
+    "chinese": "赖氨酸",
     "danish": "lys"
   },
   {
@@ -40726,7 +40726,7 @@
   },
   {
     "english": "like",
-    "chinese": "爱",
+    "chinese": "喜欢",
     "danish": "elske"
   },
   {
@@ -40771,7 +40771,7 @@
   },
   {
     "english": "limb",
-    "chinese": "肢",
+    "chinese": "莱姆",
     "danish": "lem"
   },
   {
@@ -40841,97 +40841,97 @@
   },
   {
     "english": "line",
-    "chinese": "线",
+    "chinese": "林杰",
     "danish": "linje"
   },
   {
     "english": "railway line",
-    "chinese": "线",
+    "chinese": "铁路线",
     "danish": "linje"
   },
   {
     "english": "rail line",
-    "chinese": "线",
+    "chinese": "铁路线",
     "danish": "linje"
   },
   {
     "english": "telephone line",
-    "chinese": "线",
+    "chinese": "电话卡贝尔",
     "danish": "telefonkabel"
   },
   {
     "english": "phone line",
-    "chinese": "线",
+    "chinese": "电话卡贝尔",
     "danish": "telefonkabel"
   },
   {
     "english": "telephone circuit",
-    "chinese": "线",
+    "chinese": "电话电路",
     "danish": "telefonkabel"
   },
   {
     "english": "subscriber line",
-    "chinese": "线",
+    "chinese": "用户线",
     "danish": "telefonkabel"
   },
   {
     "english": "line",
-    "chinese": "线",
+    "chinese": "电话卡贝尔",
     "danish": "telefonkabel"
   },
   {
     "english": "production line",
-    "chinese": "线",
+    "chinese": "生产线",
     "danish": "samlebånd"
   },
   {
     "english": "assembly line",
-    "chinese": "线",
+    "chinese": "流水线",
     "danish": "samlebånd"
   },
   {
     "english": "line",
-    "chinese": "线",
+    "chinese": "萨姆勒邦德",
     "danish": "samlebånd"
   },
   {
     "english": "line",
-    "chinese": "线",
+    "chinese": "林杰",
     "danish": "linje"
   },
   {
     "english": "line",
-    "chinese": "线",
+    "chinese": "雷克",
     "danish": "række"
   },
   {
     "english": "wrinkle",
-    "chinese": "线",
+    "chinese": "皱纹",
     "danish": "rynke"
   },
   {
     "english": "furrow",
-    "chinese": "线",
+    "chinese": "林克",
     "danish": "rynke"
   },
   {
     "english": "crease",
-    "chinese": "线",
+    "chinese": "折痕",
     "danish": "rynke"
   },
   {
     "english": "crinkle",
-    "chinese": "线",
+    "chinese": "起皱",
     "danish": "rynke"
   },
   {
     "english": "seam",
-    "chinese": "线",
+    "chinese": "接缝",
     "danish": "rynke"
   },
   {
     "english": "line",
-    "chinese": "线",
+    "chinese": "林克",
     "danish": "rynke"
   },
   {
@@ -41051,22 +41051,22 @@
   },
   {
     "english": "brim",
-    "chinese": "唇",
+    "chinese": "边缘",
     "danish": "tud"
   },
   {
     "english": "rim",
-    "chinese": "唇",
+    "chinese": "轮缘",
     "danish": "tud"
   },
   {
     "english": "lip",
-    "chinese": "唇",
+    "chinese": "突德",
     "danish": "tud"
   },
   {
     "english": "lip",
-    "chinese": "唇",
+    "chinese": "拉贝",
     "danish": "læbe"
   },
   {
@@ -41116,12 +41116,12 @@
   },
   {
     "english": "listen",
-    "chinese": "听",
+    "chinese": "赫雷",
     "danish": "høre"
   },
   {
     "english": "listen",
-    "chinese": "听",
+    "chinese": "莱特",
     "danish": "lytte"
   },
   {
@@ -41151,7 +41151,7 @@
   },
   {
     "english": "liver",
-    "chinese": "肝",
+    "chinese": "杠杆",
     "danish": "lever"
   },
   {
@@ -41211,7 +41211,7 @@
   },
   {
     "english": "lock",
-    "chinese": "锁",
+    "chinese": "拉斯",
     "danish": "lås"
   },
   {
@@ -41236,7 +41236,7 @@
   },
   {
     "english": "lock",
-    "chinese": "锁",
+    "chinese": "拉塞",
     "danish": "låse"
   },
   {
@@ -41251,22 +41251,22 @@
   },
   {
     "english": "alone",
-    "chinese": "孤",
+    "chinese": "独自的",
     "danish": "alene"
   },
   {
     "english": "lone",
-    "chinese": "孤",
+    "chinese": "孤独的",
     "danish": "alene"
   },
   {
     "english": "lonely",
-    "chinese": "孤",
+    "chinese": "艾琳",
     "danish": "alene"
   },
   {
     "english": "solitary",
-    "chinese": "孤",
+    "chinese": "艾琳",
     "danish": "alene"
   },
   {
@@ -41296,7 +41296,7 @@
   },
   {
     "english": "look",
-    "chinese": "看",
+    "chinese": "乌德森德",
     "danish": "udseende"
   },
   {
@@ -41396,137 +41396,137 @@
   },
   {
     "english": "batch",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
     "english": "deal",
-    "chinese": "片",
+    "chinese": "交易",
     "danish": "del"
   },
   {
     "english": "flock",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
     "english": "good deal",
-    "chinese": "片",
+    "chinese": "很划算",
     "danish": "del"
   },
   {
     "english": "great deal",
-    "chinese": "片",
+    "chinese": "很重要",
     "danish": "del"
   },
   {
     "english": "hatful",
-    "chinese": "片",
+    "chinese": "满帽子",
     "danish": "del"
   },
   {
     "english": "heap",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
     "english": "lot",
-    "chinese": "片",
+    "chinese": "很多",
     "danish": "del"
   },
   {
     "english": "mass",
-    "chinese": "片",
+    "chinese": "大量的",
     "danish": "del"
   },
   {
     "english": "mess",
-    "chinese": "片",
+    "chinese": "混乱",
     "danish": "del"
   },
   {
     "english": "mickle",
-    "chinese": "片",
+    "chinese": "很多",
     "danish": "del"
   },
   {
     "english": "mint",
-    "chinese": "片",
+    "chinese": "薄荷",
     "danish": "del"
   },
   {
     "english": "mountain",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
     "english": "muckle",
-    "chinese": "片",
+    "chinese": "马克尔",
     "danish": "del"
   },
   {
     "english": "passel",
-    "chinese": "片",
+    "chinese": "帕塞尔",
     "danish": "del"
   },
   {
     "english": "peck",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
     "english": "pile",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
     "english": "plenty",
-    "chinese": "片",
+    "chinese": "足够",
     "danish": "del"
   },
   {
     "english": "pot",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
     "english": "quite a little",
-    "chinese": "片",
+    "chinese": "相当多",
     "danish": "del"
   },
   {
     "english": "raft",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
     "english": "sight",
-    "chinese": "片",
+    "chinese": "视线",
     "danish": "del"
   },
   {
     "english": "slew",
-    "chinese": "片",
+    "chinese": "屠杀",
     "danish": "del"
   },
   {
     "english": "spate",
-    "chinese": "片",
+    "chinese": "大量",
     "danish": "del"
   },
   {
     "english": "stack",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
     "english": "tidy sum",
-    "chinese": "片",
+    "chinese": "整齐的总和",
     "danish": "del"
   },
   {
     "english": "wad",
-    "chinese": "片",
+    "chinese": "沃德",
     "danish": "del"
   },
   {
@@ -41601,7 +41601,7 @@
   },
   {
     "english": "love",
-    "chinese": "爱",
+    "chinese": "埃尔斯克",
     "danish": "elske"
   },
   {
@@ -41706,32 +41706,32 @@
   },
   {
     "english": "ball",
-    "chinese": "块",
+    "chinese": "克伦普",
     "danish": "klump"
   },
   {
     "english": "clod",
-    "chinese": "块",
+    "chinese": "土块",
     "danish": "klump"
   },
   {
     "english": "glob",
-    "chinese": "块",
+    "chinese": "全局",
     "danish": "klump"
   },
   {
     "english": "lump",
-    "chinese": "块",
+    "chinese": "克伦普",
     "danish": "klump"
   },
   {
     "english": "clump",
-    "chinese": "块",
+    "chinese": "克伦普",
     "danish": "klump"
   },
   {
     "english": "chunk",
-    "chinese": "块",
+    "chinese": "克伦普",
     "danish": "klump"
   },
   {
@@ -41776,7 +41776,7 @@
   },
   {
     "english": "lung",
-    "chinese": "肺",
+    "chinese": "弓步",
     "danish": "lunge"
   },
   {
@@ -42266,12 +42266,12 @@
   },
   {
     "english": "manner",
-    "chinese": "面",
+    "chinese": "方式",
     "danish": "væremåde"
   },
   {
     "english": "personal manner",
-    "chinese": "面",
+    "chinese": "个人态度",
     "danish": "væremåde"
   },
   {
@@ -42716,12 +42716,12 @@
   },
   {
     "english": "hayfield",
-    "chinese": "莱",
+    "chinese": "海菲尔德",
     "danish": "eng"
   },
   {
     "english": "meadow",
-    "chinese": "莱",
+    "chinese": "草地",
     "danish": "eng"
   },
   {
@@ -42996,27 +42996,27 @@
   },
   {
     "english": "meet",
-    "chinese": "看",
+    "chinese": "见面",
     "danish": "møde"
   },
   {
     "english": "meeting",
-    "chinese": "看",
+    "chinese": "会议",
     "danish": "møde"
   },
   {
     "english": "coming together",
-    "chinese": "看",
+    "chinese": "走到一起",
     "danish": "møde"
   },
   {
     "english": "meeting",
-    "chinese": "看",
+    "chinese": "会议",
     "danish": "møde"
   },
   {
     "english": "encounter",
-    "chinese": "看",
+    "chinese": "遇到",
     "danish": "møde"
   },
   {
@@ -43216,7 +43216,7 @@
   },
   {
     "english": "mine",
-    "chinese": "矿",
+    "chinese": "格鲁贝",
     "danish": "grube"
   },
   {
@@ -43526,22 +43526,22 @@
   },
   {
     "english": "mole",
-    "chinese": "痣",
+    "chinese": "马尔德瓦普",
     "danish": "muldvarp"
   },
   {
     "english": "mole",
-    "chinese": "痣",
+    "chinese": "斯肯赫德斯普莱特",
     "danish": "skønhedsplet"
   },
   {
     "english": "counterspy",
-    "chinese": "痣",
+    "chinese": "反间谍",
     "danish": "muldvarp"
   },
   {
     "english": "mole",
-    "chinese": "痣",
+    "chinese": "马尔德瓦普",
     "danish": "muldvarp"
   },
   {
@@ -43566,12 +43566,12 @@
   },
   {
     "english": "money",
-    "chinese": "钱",
+    "chinese": "瓦瓦塔",
     "danish": "valuta"
   },
   {
     "english": "money",
-    "chinese": "钱",
+    "chinese": "公式",
     "danish": "formue"
   },
   {
@@ -43666,12 +43666,12 @@
   },
   {
     "english": "calendar month",
-    "chinese": "月",
+    "chinese": "日历月",
     "danish": "måned"
   },
   {
     "english": "month",
-    "chinese": "月",
+    "chinese": "莫内德",
     "danish": "måned"
   },
   {
@@ -44411,7 +44411,7 @@
   },
   {
     "english": "multiply",
-    "chinese": "乘",
+    "chinese": "多重性",
     "danish": "multiplicere"
   },
   {
@@ -44626,12 +44626,12 @@
   },
   {
     "english": "neck",
-    "chinese": "咽",
+    "chinese": "脖子",
     "danish": "hals"
   },
   {
     "english": "cervix",
-    "chinese": "咽",
+    "chinese": "宫颈",
     "danish": "hals"
   },
   {
@@ -44646,12 +44646,12 @@
   },
   {
     "english": "need",
-    "chinese": "痒",
+    "chinese": "需要",
     "danish": "trang"
   },
   {
     "english": "demand",
-    "chinese": "痒",
+    "chinese": "要求",
     "danish": "trang"
   },
   {
@@ -44681,7 +44681,7 @@
   },
   {
     "english": "needle",
-    "chinese": "针",
+    "chinese": "纳尔",
     "danish": "nål"
   },
   {
@@ -44826,7 +44826,7 @@
   },
   {
     "english": "nest",
-    "chinese": "巢",
+    "chinese": "雷德",
     "danish": "rede"
   },
   {
@@ -45086,22 +45086,22 @@
   },
   {
     "english": "north",
-    "chinese": "氮",
+    "chinese": "北",
     "danish": "nord"
   },
   {
     "english": "due north",
-    "chinese": "氮",
+    "chinese": "正北",
     "danish": "nord"
   },
   {
     "english": "northward",
-    "chinese": "氮",
+    "chinese": "向北",
     "danish": "nord"
   },
   {
     "english": "N",
-    "chinese": "氮",
+    "chinese": "北",
     "danish": "nord"
   },
   {
@@ -45756,7 +45756,7 @@
   },
   {
     "english": "ocean",
-    "chinese": "海",
+    "chinese": "海洋",
     "danish": "hav"
   },
   {
@@ -45926,132 +45926,132 @@
   },
   {
     "english": "policeman",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "betjent"
   },
   {
     "english": "police officer",
-    "chinese": "猪",
+    "chinese": "警官",
     "danish": "betjent"
   },
   {
     "english": "officer",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "betjent"
   },
   {
     "english": "policeman",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "funktionær"
   },
   {
     "english": "police officer",
-    "chinese": "猪",
+    "chinese": "警官",
     "danish": "funktionær"
   },
   {
     "english": "officer",
-    "chinese": "猪",
+    "chinese": "官员",
     "danish": "funktionær"
   },
   {
     "english": "policeman",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "ordenshåndhæver"
   },
   {
     "english": "police officer",
-    "chinese": "猪",
+    "chinese": "警官",
     "danish": "ordenshåndhæver"
   },
   {
     "english": "officer",
-    "chinese": "猪",
+    "chinese": "官员",
     "danish": "ordenshåndhæver"
   },
   {
     "english": "policeman",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "panser"
   },
   {
     "english": "police officer",
-    "chinese": "猪",
+    "chinese": "警官",
     "danish": "panser"
   },
   {
     "english": "officer",
-    "chinese": "猪",
+    "chinese": "潘瑟",
     "danish": "panser"
   },
   {
     "english": "policeman",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "politibetjent"
   },
   {
     "english": "police officer",
-    "chinese": "猪",
+    "chinese": "警官",
     "danish": "politibetjent"
   },
   {
     "english": "officer",
-    "chinese": "猪",
+    "chinese": "官员",
     "danish": "politibetjent"
   },
   {
     "english": "policeman",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "strisser"
   },
   {
     "english": "police officer",
-    "chinese": "猪",
+    "chinese": "警官",
     "danish": "strisser"
   },
   {
     "english": "officer",
-    "chinese": "猪",
+    "chinese": "官员",
     "danish": "strisser"
   },
   {
     "english": "policeman",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "strømer"
   },
   {
     "english": "police officer",
-    "chinese": "猪",
+    "chinese": "警官",
     "danish": "strømer"
   },
   {
     "english": "officer",
-    "chinese": "猪",
+    "chinese": "官员",
     "danish": "strømer"
   },
   {
     "english": "policeman",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "tjenestemand"
   },
   {
     "english": "police officer",
-    "chinese": "猪",
+    "chinese": "警官",
     "danish": "tjenestemand"
   },
   {
     "english": "officer",
-    "chinese": "猪",
+    "chinese": "官员",
     "danish": "tjenestemand"
   },
   {
     "english": "official",
-    "chinese": "猪",
+    "chinese": "官方的",
     "danish": "funktionær"
   },
   {
     "english": "functionary",
-    "chinese": "猪",
+    "chinese": "官员",
     "danish": "funktionær"
   },
   {
@@ -46071,32 +46071,32 @@
   },
   {
     "english": "vegetable oil",
-    "chinese": "油",
+    "chinese": "植物油",
     "danish": "madolie"
   },
   {
     "english": "oil",
-    "chinese": "油",
+    "chinese": "马多列",
     "danish": "madolie"
   },
   {
     "english": "vegetable oil",
-    "chinese": "油",
+    "chinese": "植物油",
     "danish": "olie"
   },
   {
     "english": "oil",
-    "chinese": "油",
+    "chinese": "奥利耶",
     "danish": "olie"
   },
   {
     "english": "vegetable oil",
-    "chinese": "油",
+    "chinese": "植物油",
     "danish": "spiseolie"
   },
   {
     "english": "oil",
-    "chinese": "油",
+    "chinese": "斯皮塞奥利耶",
     "danish": "spiseolie"
   },
   {
@@ -46456,7 +46456,7 @@
   },
   {
     "english": "outer",
-    "chinese": "外",
+    "chinese": "伊德雷",
     "danish": "ydre"
   },
   {
@@ -46766,12 +46766,12 @@
   },
   {
     "english": "owe",
-    "chinese": "欠",
+    "chinese": "安克拉格",
     "danish": "anklage"
   },
   {
     "english": "owe",
-    "chinese": "欠",
+    "chinese": "斯凯尔德",
     "danish": "skylde"
   },
   {
@@ -46836,7 +46836,7 @@
   },
   {
     "english": "pack",
-    "chinese": "盒",
+    "chinese": "拜尔特",
     "danish": "bylt"
   },
   {
@@ -46866,7 +46866,7 @@
   },
   {
     "english": "packet",
-    "chinese": "包",
+    "chinese": "短",
     "danish": "brev"
   },
   {
@@ -46921,12 +46921,12 @@
   },
   {
     "english": "paint",
-    "chinese": "画",
+    "chinese": "男性",
     "danish": "male"
   },
   {
     "english": "paint",
-    "chinese": "画",
+    "chinese": "男性",
     "danish": "male"
   },
   {
@@ -47036,7 +47036,7 @@
   },
   {
     "english": "paper",
-    "chinese": "纸",
+    "chinese": "艺术",
     "danish": "artikel"
   },
   {
@@ -47096,27 +47096,27 @@
   },
   {
     "english": "part",
-    "chinese": "片",
+    "chinese": "部分",
     "danish": "del"
   },
   {
     "english": "portion",
-    "chinese": "片",
+    "chinese": "部分",
     "danish": "del"
   },
   {
     "english": "component part",
-    "chinese": "片",
+    "chinese": "组成部分",
     "danish": "del"
   },
   {
     "english": "component",
-    "chinese": "片",
+    "chinese": "成分",
     "danish": "del"
   },
   {
     "english": "constituent",
-    "chinese": "片",
+    "chinese": "组分",
     "danish": "del"
   },
   {
@@ -47436,37 +47436,37 @@
   },
   {
     "english": "pasture",
-    "chinese": "莱",
+    "chinese": "牧场",
     "danish": "eng"
   },
   {
     "english": "pastureland",
-    "chinese": "莱",
+    "chinese": "牧场",
     "danish": "eng"
   },
   {
     "english": "grazing land",
-    "chinese": "莱",
+    "chinese": "牧场",
     "danish": "eng"
   },
   {
     "english": "lea",
-    "chinese": "莱",
+    "chinese": "莱亚",
     "danish": "eng"
   },
   {
     "english": "ley",
-    "chinese": "莱",
+    "chinese": "英语",
     "danish": "eng"
   },
   {
     "english": "dab",
-    "chinese": "拍",
+    "chinese": "轻拍",
     "danish": "klappe"
   },
   {
     "english": "pat",
-    "chinese": "拍",
+    "chinese": "克拉佩",
     "danish": "klappe"
   },
   {
@@ -47721,7 +47721,7 @@
   },
   {
     "english": "pen",
-    "chinese": "笔",
+    "chinese": "库格勒彭",
     "danish": "kuglepen"
   },
   {
@@ -47731,12 +47731,12 @@
   },
   {
     "english": "playpen",
-    "chinese": "笔",
+    "chinese": "克拉夫勒加德",
     "danish": "kravlegård"
   },
   {
     "english": "pen",
-    "chinese": "笔",
+    "chinese": "克拉夫勒加德",
     "danish": "kravlegård"
   },
   {
@@ -48096,102 +48096,102 @@
   },
   {
     "english": "pest",
-    "chinese": "虻",
+    "chinese": "害虫",
     "danish": "idiot"
   },
   {
     "english": "blighter",
-    "chinese": "虻",
+    "chinese": "枯萎者",
     "danish": "idiot"
   },
   {
     "english": "cuss",
-    "chinese": "虻",
+    "chinese": "坏话",
     "danish": "idiot"
   },
   {
     "english": "pesterer",
-    "chinese": "虻",
+    "chinese": "纠缠者",
     "danish": "idiot"
   },
   {
     "english": "gadfly",
-    "chinese": "虻",
+    "chinese": "笨蛋",
     "danish": "idiot"
   },
   {
     "english": "pest",
-    "chinese": "虻",
+    "chinese": "害虫",
     "danish": "kvaj"
   },
   {
     "english": "blighter",
-    "chinese": "虻",
+    "chinese": "枯萎者",
     "danish": "kvaj"
   },
   {
     "english": "cuss",
-    "chinese": "虻",
+    "chinese": "坏话",
     "danish": "kvaj"
   },
   {
     "english": "pesterer",
-    "chinese": "虻",
+    "chinese": "克瓦伊",
     "danish": "kvaj"
   },
   {
     "english": "gadfly",
-    "chinese": "虻",
+    "chinese": "克瓦伊",
     "danish": "kvaj"
   },
   {
     "english": "pest",
-    "chinese": "虻",
+    "chinese": "害虫",
     "danish": "kvajpande"
   },
   {
     "english": "blighter",
-    "chinese": "虻",
+    "chinese": "枯萎者",
     "danish": "kvajpande"
   },
   {
     "english": "cuss",
-    "chinese": "虻",
+    "chinese": "坏话",
     "danish": "kvajpande"
   },
   {
     "english": "pesterer",
-    "chinese": "虻",
+    "chinese": "纠缠者",
     "danish": "kvajpande"
   },
   {
     "english": "gadfly",
-    "chinese": "虻",
+    "chinese": "克瓦伊潘德",
     "danish": "kvajpande"
   },
   {
     "english": "pest",
-    "chinese": "虻",
+    "chinese": "害虫",
     "danish": "spasser"
   },
   {
     "english": "blighter",
-    "chinese": "虻",
+    "chinese": "枯萎者",
     "danish": "spasser"
   },
   {
     "english": "cuss",
-    "chinese": "虻",
+    "chinese": "斯帕瑟",
     "danish": "spasser"
   },
   {
     "english": "pesterer",
-    "chinese": "虻",
+    "chinese": "纠缠者",
     "danish": "spasser"
   },
   {
     "english": "gadfly",
-    "chinese": "虻",
+    "chinese": "斯帕瑟",
     "danish": "spasser"
   },
   {
@@ -48531,7 +48531,7 @@
   },
   {
     "english": "piece",
-    "chinese": "片",
+    "chinese": "德尔",
     "danish": "del"
   },
   {
@@ -48641,212 +48641,212 @@
   },
   {
     "english": "hog",
-    "chinese": "猪",
+    "chinese": "弗罗瑟",
     "danish": "fråser"
   },
   {
     "english": "pig",
-    "chinese": "猪",
+    "chinese": "弗罗瑟",
     "danish": "fråser"
   },
   {
     "english": "bull",
-    "chinese": "猪",
+    "chinese": "公牛",
     "danish": "betjent"
   },
   {
     "english": "cop",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "betjent"
   },
   {
     "english": "copper",
-    "chinese": "猪",
+    "chinese": "贝特延特",
     "danish": "betjent"
   },
   {
     "english": "fuzz",
-    "chinese": "猪",
+    "chinese": "模糊",
     "danish": "betjent"
   },
   {
     "english": "pig",
-    "chinese": "猪",
+    "chinese": "贝特延特",
     "danish": "betjent"
   },
   {
     "english": "bull",
-    "chinese": "猪",
+    "chinese": "公牛",
     "danish": "funktionær"
   },
   {
     "english": "cop",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "funktionær"
   },
   {
     "english": "copper",
-    "chinese": "猪",
+    "chinese": "功能",
     "danish": "funktionær"
   },
   {
     "english": "fuzz",
-    "chinese": "猪",
+    "chinese": "模糊",
     "danish": "funktionær"
   },
   {
     "english": "pig",
-    "chinese": "猪",
+    "chinese": "功能",
     "danish": "funktionær"
   },
   {
     "english": "bull",
-    "chinese": "猪",
+    "chinese": "公牛",
     "danish": "ordenshåndhæver"
   },
   {
     "english": "cop",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "ordenshåndhæver"
   },
   {
     "english": "copper",
-    "chinese": "猪",
+    "chinese": "奥登山德哈弗",
     "danish": "ordenshåndhæver"
   },
   {
     "english": "fuzz",
-    "chinese": "猪",
+    "chinese": "奥登山德哈弗",
     "danish": "ordenshåndhæver"
   },
   {
     "english": "pig",
-    "chinese": "猪",
+    "chinese": "奥登山德哈弗",
     "danish": "ordenshåndhæver"
   },
   {
     "english": "bull",
-    "chinese": "猪",
+    "chinese": "公牛",
     "danish": "panser"
   },
   {
     "english": "cop",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "panser"
   },
   {
     "english": "copper",
-    "chinese": "猪",
+    "chinese": "潘瑟",
     "danish": "panser"
   },
   {
     "english": "fuzz",
-    "chinese": "猪",
+    "chinese": "潘瑟",
     "danish": "panser"
   },
   {
     "english": "pig",
-    "chinese": "猪",
+    "chinese": "潘瑟",
     "danish": "panser"
   },
   {
     "english": "bull",
-    "chinese": "猪",
+    "chinese": "政治经济学",
     "danish": "politibetjent"
   },
   {
     "english": "cop",
-    "chinese": "猪",
+    "chinese": "政治经济学",
     "danish": "politibetjent"
   },
   {
     "english": "copper",
-    "chinese": "猪",
+    "chinese": "政治经济学",
     "danish": "politibetjent"
   },
   {
     "english": "fuzz",
-    "chinese": "猪",
+    "chinese": "政治经济学",
     "danish": "politibetjent"
   },
   {
     "english": "pig",
-    "chinese": "猪",
+    "chinese": "政治经济学",
     "danish": "politibetjent"
   },
   {
     "english": "bull",
-    "chinese": "猪",
+    "chinese": "公牛",
     "danish": "strisser"
   },
   {
     "english": "cop",
-    "chinese": "猪",
+    "chinese": "警察",
     "danish": "strisser"
   },
   {
     "english": "copper",
-    "chinese": "猪",
+    "chinese": "施特里瑟",
     "danish": "strisser"
   },
   {
     "english": "fuzz",
-    "chinese": "猪",
+    "chinese": "模糊",
     "danish": "strisser"
   },
   {
     "english": "pig",
-    "chinese": "猪",
+    "chinese": "施特里瑟",
     "danish": "strisser"
   },
   {
     "english": "bull",
-    "chinese": "猪",
+    "chinese": "公牛",
     "danish": "strømer"
   },
   {
     "english": "cop",
-    "chinese": "猪",
+    "chinese": "斯特罗默",
     "danish": "strømer"
   },
   {
     "english": "copper",
-    "chinese": "猪",
+    "chinese": "斯特罗默",
     "danish": "strømer"
   },
   {
     "english": "fuzz",
-    "chinese": "猪",
+    "chinese": "模糊",
     "danish": "strømer"
   },
   {
     "english": "pig",
-    "chinese": "猪",
+    "chinese": "斯特罗默",
     "danish": "strømer"
   },
   {
     "english": "bull",
-    "chinese": "猪",
+    "chinese": "公牛",
     "danish": "tjenestemand"
   },
   {
     "english": "cop",
-    "chinese": "猪",
+    "chinese": "杰内斯特曼德",
     "danish": "tjenestemand"
   },
   {
     "english": "copper",
-    "chinese": "猪",
+    "chinese": "杰内斯特曼德",
     "danish": "tjenestemand"
   },
   {
     "english": "fuzz",
-    "chinese": "猪",
+    "chinese": "模糊",
     "danish": "tjenestemand"
   },
   {
     "english": "pig",
-    "chinese": "猪",
+    "chinese": "杰内斯特曼德",
     "danish": "tjenestemand"
   },
   {
@@ -49151,17 +49151,17 @@
   },
   {
     "english": "plant",
-    "chinese": "放",
+    "chinese": "植物",
     "danish": "plante"
   },
   {
     "english": "flora",
-    "chinese": "放",
+    "chinese": "普兰特",
     "danish": "plante"
   },
   {
     "english": "plant life",
-    "chinese": "放",
+    "chinese": "普兰特",
     "danish": "plante"
   },
   {
@@ -49286,17 +49286,17 @@
   },
   {
     "english": "bet",
-    "chinese": "玩",
+    "chinese": "萨泽",
     "danish": "satse"
   },
   {
     "english": "wager",
-    "chinese": "玩",
+    "chinese": "赌注",
     "danish": "satse"
   },
   {
     "english": "play",
-    "chinese": "玩",
+    "chinese": "萨泽",
     "danish": "satse"
   },
   {
@@ -49321,12 +49321,12 @@
   },
   {
     "english": "play",
-    "chinese": "玩",
+    "chinese": "莱格",
     "danish": "lege"
   },
   {
     "english": "play",
-    "chinese": "玩",
+    "chinese": "勒莱德",
     "danish": "legende"
   },
   {
@@ -49411,32 +49411,32 @@
   },
   {
     "english": "poetry",
-    "chinese": "诗",
+    "chinese": "波埃西",
     "danish": "poesi"
   },
   {
     "english": "poesy",
-    "chinese": "诗",
+    "chinese": "波埃西",
     "danish": "poesi"
   },
   {
     "english": "verse",
-    "chinese": "诗",
+    "chinese": "波埃西",
     "danish": "poesi"
   },
   {
     "english": "detail",
-    "chinese": "点",
+    "chinese": "细节",
     "danish": "punkt"
   },
   {
     "english": "item",
-    "chinese": "点",
+    "chinese": "物品",
     "danish": "punkt"
   },
   {
     "english": "point",
-    "chinese": "点",
+    "chinese": "观点",
     "danish": "punkt"
   },
   {
@@ -49456,22 +49456,22 @@
   },
   {
     "english": "point",
-    "chinese": "点",
+    "chinese": "观点",
     "danish": "punkt"
   },
   {
     "english": "dot",
-    "chinese": "点",
+    "chinese": "庞克特",
     "danish": "punkt"
   },
   {
     "english": "poison",
-    "chinese": "毒",
+    "chinese": "福吉夫特",
     "danish": "forgifte"
   },
   {
     "english": "pole",
-    "chinese": "极",
+    "chinese": "波尔",
     "danish": "pol"
   },
   {
@@ -49956,12 +49956,12 @@
   },
   {
     "english": "pot",
-    "chinese": "锅",
+    "chinese": "格赖德",
     "danish": "gryde"
   },
   {
     "english": "pot",
-    "chinese": "锅",
+    "chinese": "-格莱德",
     "danish": "-gryde"
   },
   {
@@ -50036,12 +50036,12 @@
   },
   {
     "english": "pound",
-    "chinese": "磅",
+    "chinese": "庞德",
     "danish": "pund"
   },
   {
     "english": "lb",
-    "chinese": "磅",
+    "chinese": "庞德",
     "danish": "pund"
   },
   {
@@ -50271,7 +50271,7 @@
   },
   {
     "english": "pregnant",
-    "chinese": "孕",
+    "chinese": "怀孕",
     "danish": "gravid"
   },
   {
@@ -50301,12 +50301,12 @@
   },
   {
     "english": "premium",
-    "chinese": "奖",
+    "chinese": "优质的",
     "danish": "præmie"
   },
   {
     "english": "insurance premium",
-    "chinese": "奖",
+    "chinese": "保险费",
     "danish": "præmie"
   },
   {
@@ -50356,82 +50356,82 @@
   },
   {
     "english": "bearing",
-    "chinese": "面",
+    "chinese": "轴承",
     "danish": "adfærd"
   },
   {
     "english": "comportment",
-    "chinese": "面",
+    "chinese": "举止",
     "danish": "adfærd"
   },
   {
     "english": "presence",
-    "chinese": "面",
+    "chinese": "在场",
     "danish": "adfærd"
   },
   {
     "english": "mien",
-    "chinese": "面",
+    "chinese": "阿德费尔德",
     "danish": "adfærd"
   },
   {
     "english": "bearing",
-    "chinese": "面",
+    "chinese": "轴承",
     "danish": "fremtræden"
   },
   {
     "english": "comportment",
-    "chinese": "面",
+    "chinese": "举止",
     "danish": "fremtræden"
   },
   {
     "english": "presence",
-    "chinese": "面",
+    "chinese": "在场",
     "danish": "fremtræden"
   },
   {
     "english": "mien",
-    "chinese": "面",
+    "chinese": "弗雷姆特赖登",
     "danish": "fremtræden"
   },
   {
     "english": "bearing",
-    "chinese": "面",
+    "chinese": "轴承",
     "danish": "opførsel"
   },
   {
     "english": "comportment",
-    "chinese": "面",
+    "chinese": "举止",
     "danish": "opførsel"
   },
   {
     "english": "presence",
-    "chinese": "面",
+    "chinese": "在场",
     "danish": "opførsel"
   },
   {
     "english": "mien",
-    "chinese": "面",
+    "chinese": "奥普弗瑟尔",
     "danish": "opførsel"
   },
   {
     "english": "bearing",
-    "chinese": "面",
+    "chinese": "轴承",
     "danish": "væremåde"
   },
   {
     "english": "comportment",
-    "chinese": "面",
+    "chinese": "举止",
     "danish": "væremåde"
   },
   {
     "english": "presence",
-    "chinese": "面",
+    "chinese": "在场",
     "danish": "væremåde"
   },
   {
     "english": "mien",
-    "chinese": "面",
+    "chinese": "瓦雷马德",
     "danish": "væremåde"
   },
   {
@@ -50796,12 +50796,12 @@
   },
   {
     "english": "trophy",
-    "chinese": "奖",
+    "chinese": "普拉米",
     "danish": "præmie"
   },
   {
     "english": "prize",
-    "chinese": "奖",
+    "chinese": "普拉米",
     "danish": "præmie"
   },
   {
@@ -51201,17 +51201,17 @@
   },
   {
     "english": "property",
-    "chinese": "脸",
+    "chinese": "财产",
     "danish": "side"
   },
   {
     "english": "attribute",
-    "chinese": "脸",
+    "chinese": "边",
     "danish": "side"
   },
   {
     "english": "dimension",
-    "chinese": "脸",
+    "chinese": "方面",
     "danish": "side"
   },
   {
@@ -51651,12 +51651,12 @@
   },
   {
     "english": "pump",
-    "chinese": "泵",
+    "chinese": "泵浦",
     "danish": "pumpe"
   },
   {
     "english": "pump",
-    "chinese": "泵",
+    "chinese": "泵浦",
     "danish": "pumpe"
   },
   {
@@ -51836,22 +51836,22 @@
   },
   {
     "english": "advertise",
-    "chinese": "推",
+    "chinese": "广告",
     "danish": "reklamere"
   },
   {
     "english": "advertize",
-    "chinese": "推",
+    "chinese": "做广告",
     "danish": "reklamere"
   },
   {
     "english": "promote",
-    "chinese": "推",
+    "chinese": "推动",
     "danish": "reklamere"
   },
   {
     "english": "push",
-    "chinese": "推",
+    "chinese": "雷克拉梅尔",
     "danish": "reklamere"
   },
   {
@@ -52616,42 +52616,42 @@
   },
   {
     "english": "scab",
-    "chinese": "鼠",
+    "chinese": "斯克鲁布雷克",
     "danish": "skruebrækker"
   },
   {
     "english": "strikebreaker",
-    "chinese": "鼠",
+    "chinese": "罢工破坏者",
     "danish": "skruebrækker"
   },
   {
     "english": "blackleg",
-    "chinese": "鼠",
+    "chinese": "黑腿",
     "danish": "skruebrækker"
   },
   {
     "english": "rat",
-    "chinese": "鼠",
+    "chinese": "斯克鲁布雷克",
     "danish": "skruebrækker"
   },
   {
     "english": "scab",
-    "chinese": "鼠",
+    "chinese": "斯特雷克布赖德",
     "danish": "strejkebryder"
   },
   {
     "english": "strikebreaker",
-    "chinese": "鼠",
+    "chinese": "罢工破坏者",
     "danish": "strejkebryder"
   },
   {
     "english": "blackleg",
-    "chinese": "鼠",
+    "chinese": "黑腿",
     "danish": "strejkebryder"
   },
   {
     "english": "rat",
-    "chinese": "鼠",
+    "chinese": "斯特雷克布赖德",
     "danish": "strejkebryder"
   },
   {
@@ -53921,7 +53921,7 @@
   },
   {
     "english": "rent",
-    "chinese": "租",
+    "chinese": "胡斯莱耶",
     "danish": "husleje"
   },
   {
@@ -54436,52 +54436,52 @@
   },
   {
     "english": "respect",
-    "chinese": "奖",
+    "chinese": "尊重",
     "danish": "regne"
   },
   {
     "english": "esteem",
-    "chinese": "奖",
+    "chinese": "尊重",
     "danish": "regne"
   },
   {
     "english": "value",
-    "chinese": "奖",
+    "chinese": "价值",
     "danish": "regne"
   },
   {
     "english": "prize",
-    "chinese": "奖",
+    "chinese": "雷涅",
     "danish": "regne"
   },
   {
     "english": "prise",
-    "chinese": "奖",
+    "chinese": "雷涅",
     "danish": "regne"
   },
   {
     "english": "respect",
-    "chinese": "奖",
+    "chinese": "尊重",
     "danish": "respektere"
   },
   {
     "english": "esteem",
-    "chinese": "奖",
+    "chinese": "尊重",
     "danish": "respektere"
   },
   {
     "english": "value",
-    "chinese": "奖",
+    "chinese": "价值",
     "danish": "respektere"
   },
   {
     "english": "prize",
-    "chinese": "奖",
+    "chinese": "雷斯佩克泰雷",
     "danish": "respektere"
   },
   {
     "english": "prise",
-    "chinese": "奖",
+    "chinese": "雷斯佩克泰雷",
     "danish": "respektere"
   },
   {
@@ -54996,7 +54996,7 @@
   },
   {
     "english": "rice",
-    "chinese": "米",
+    "chinese": "里斯",
     "danish": "ris"
   },
   {
@@ -55006,57 +55006,57 @@
   },
   {
     "english": "tease",
-    "chinese": "逗",
+    "chinese": "钻头",
     "danish": "drille"
   },
   {
     "english": "razz",
-    "chinese": "逗",
+    "chinese": "非难",
     "danish": "drille"
   },
   {
     "english": "rag",
-    "chinese": "逗",
+    "chinese": "抹布",
     "danish": "drille"
   },
   {
     "english": "cod",
-    "chinese": "逗",
+    "chinese": "鳕鱼",
     "danish": "drille"
   },
   {
     "english": "tantalize",
-    "chinese": "逗",
+    "chinese": "吊胃口",
     "danish": "drille"
   },
   {
     "english": "tantalise",
-    "chinese": "逗",
+    "chinese": "诱惑",
     "danish": "drille"
   },
   {
     "english": "bait",
-    "chinese": "逗",
+    "chinese": "钻头",
     "danish": "drille"
   },
   {
     "english": "taunt",
-    "chinese": "逗",
+    "chinese": "嘲讽",
     "danish": "drille"
   },
   {
     "english": "twit",
-    "chinese": "逗",
+    "chinese": "特特",
     "danish": "drille"
   },
   {
     "english": "rally",
-    "chinese": "逗",
+    "chinese": "集会",
     "danish": "drille"
   },
   {
     "english": "ride",
-    "chinese": "逗",
+    "chinese": "钻头",
     "danish": "drille"
   },
   {
@@ -55296,17 +55296,17 @@
   },
   {
     "english": "rise",
-    "chinese": "爬",
+    "chinese": "上升",
     "danish": "stige"
   },
   {
     "english": "go up",
-    "chinese": "爬",
+    "chinese": "斯蒂杰",
     "danish": "stige"
   },
   {
     "english": "climb",
-    "chinese": "爬",
+    "chinese": "斯蒂杰",
     "danish": "stige"
   },
   {
@@ -55451,17 +55451,17 @@
   },
   {
     "english": "bellow",
-    "chinese": "吼",
+    "chinese": "吼叫",
     "danish": "brøle"
   },
   {
     "english": "roar",
-    "chinese": "吼",
+    "chinese": "布勒勒",
     "danish": "brøle"
   },
   {
     "english": "rob",
-    "chinese": "抢",
+    "chinese": "罗夫",
     "danish": "røve"
   },
   {
@@ -55586,7 +55586,7 @@
   },
   {
     "english": "roll",
-    "chinese": "翻",
+    "chinese": "鲁尔",
     "danish": "rulle"
   },
   {
@@ -55606,22 +55606,22 @@
   },
   {
     "english": "bun",
-    "chinese": "卷",
+    "chinese": "包子",
     "danish": "bolle"
   },
   {
     "english": "roll",
-    "chinese": "卷",
+    "chinese": "博勒",
     "danish": "bolle"
   },
   {
     "english": "roll",
-    "chinese": "翻",
+    "chinese": "鲁尔",
     "danish": "rulle"
   },
   {
     "english": "turn over",
-    "chinese": "翻",
+    "chinese": "鲁尔",
     "danish": "rulle"
   },
   {
@@ -55701,27 +55701,27 @@
   },
   {
     "english": "ancestor",
-    "chinese": "根",
+    "chinese": "祖先",
     "danish": "forfader"
   },
   {
     "english": "ascendant",
-    "chinese": "根",
+    "chinese": "上升的",
     "danish": "forfader"
   },
   {
     "english": "ascendent",
-    "chinese": "根",
+    "chinese": "优势",
     "danish": "forfader"
   },
   {
     "english": "antecedent",
-    "chinese": "根",
+    "chinese": "先行词",
     "danish": "forfader"
   },
   {
     "english": "root",
-    "chinese": "根",
+    "chinese": "福法德",
     "danish": "forfader"
   },
   {
@@ -55781,22 +55781,22 @@
   },
   {
     "english": "rough",
-    "chinese": "涩",
+    "chinese": "粗糙的",
     "danish": "ru"
   },
   {
     "english": "unsmooth",
-    "chinese": "涩",
+    "chinese": "茹",
     "danish": "ru"
   },
   {
     "english": "round",
-    "chinese": "圆",
+    "chinese": "圆形的",
     "danish": "rund"
   },
   {
     "english": "circular",
-    "chinese": "圆",
+    "chinese": "伦德",
     "danish": "rund"
   },
   {
@@ -56016,22 +56016,22 @@
   },
   {
     "english": "haste",
-    "chinese": "冲",
+    "chinese": "匆忙",
     "danish": "hast"
   },
   {
     "english": "hurry",
-    "chinese": "冲",
+    "chinese": "匆忙",
     "danish": "hast"
   },
   {
     "english": "rush",
-    "chinese": "冲",
+    "chinese": "匆忙",
     "danish": "hast"
   },
   {
     "english": "rushing",
-    "chinese": "冲",
+    "chinese": "哈斯特",
     "danish": "hast"
   },
   {
@@ -56061,17 +56061,17 @@
   },
   {
     "english": "cruise",
-    "chinese": "帆",
+    "chinese": "巡航",
     "danish": "krydstogt"
   },
   {
     "english": "sail",
-    "chinese": "帆",
+    "chinese": "克吕德斯托格特",
     "danish": "krydstogt"
   },
   {
     "english": "sail",
-    "chinese": "帆",
+    "chinese": "塞伊勒",
     "danish": "sejle"
   },
   {
@@ -56626,12 +56626,12 @@
   },
   {
     "english": "ocean",
-    "chinese": "海",
+    "chinese": "海洋",
     "danish": "hav"
   },
   {
     "english": "sea",
-    "chinese": "海",
+    "chinese": "哈夫",
     "danish": "hav"
   },
   {
@@ -58036,32 +58036,32 @@
   },
   {
     "english": "meet",
-    "chinese": "看",
+    "chinese": "见面",
     "danish": "møde"
   },
   {
     "english": "run into",
-    "chinese": "看",
+    "chinese": "遇到",
     "danish": "møde"
   },
   {
     "english": "encounter",
-    "chinese": "看",
+    "chinese": "遇到",
     "danish": "møde"
   },
   {
     "english": "run across",
-    "chinese": "看",
+    "chinese": "跑过",
     "danish": "møde"
   },
   {
     "english": "come across",
-    "chinese": "看",
+    "chinese": "遇到",
     "danish": "møde"
   },
   {
     "english": "see",
-    "chinese": "看",
+    "chinese": "模式",
     "danish": "møde"
   },
   {
@@ -58206,32 +58206,32 @@
   },
   {
     "english": "betray",
-    "chinese": "卖",
+    "chinese": "背叛",
     "danish": "forråde"
   },
   {
     "english": "sell",
-    "chinese": "卖",
+    "chinese": "福拉德",
     "danish": "forråde"
   },
   {
     "english": "betray",
-    "chinese": "卖",
+    "chinese": "背叛",
     "danish": "svige"
   },
   {
     "english": "sell",
-    "chinese": "卖",
+    "chinese": "斯维格",
     "danish": "svige"
   },
   {
     "english": "betray",
-    "chinese": "卖",
+    "chinese": "背叛",
     "danish": "svigte"
   },
   {
     "english": "sell",
-    "chinese": "卖",
+    "chinese": "斯维格特",
     "danish": "svigte"
   },
   {
@@ -58721,22 +58721,22 @@
   },
   {
     "english": "stage set",
-    "chinese": "放",
+    "chinese": "舞台布景",
     "danish": "dekoration"
   },
   {
     "english": "set",
-    "chinese": "放",
+    "chinese": "装饰",
     "danish": "dekoration"
   },
   {
     "english": "stage set",
-    "chinese": "放",
+    "chinese": "舞台布景",
     "danish": "kulisse"
   },
   {
     "english": "set",
-    "chinese": "放",
+    "chinese": "库利斯",
     "danish": "kulisse"
   },
   {
@@ -58786,22 +58786,22 @@
   },
   {
     "english": "plant",
-    "chinese": "放",
+    "chinese": "植物",
     "danish": "plante"
   },
   {
     "english": "set",
-    "chinese": "放",
+    "chinese": "普兰特",
     "danish": "plante"
   },
   {
     "english": "plant",
-    "chinese": "放",
+    "chinese": "植物",
     "danish": "udplante"
   },
   {
     "english": "set",
-    "chinese": "放",
+    "chinese": "乌德普兰特",
     "danish": "udplante"
   },
   {
@@ -58941,12 +58941,12 @@
   },
   {
     "english": "shaft",
-    "chinese": "轴",
+    "chinese": "斯卡夫特",
     "danish": "skaft"
   },
   {
     "english": "shaft",
-    "chinese": "轴",
+    "chinese": "斯卡克特",
     "danish": "skakt"
   },
   {
@@ -59131,7 +59131,7 @@
   },
   {
     "english": "shell",
-    "chinese": "壳",
+    "chinese": "格拉纳特",
     "danish": "granat"
   },
   {
@@ -59146,17 +59146,17 @@
   },
   {
     "english": "shell",
-    "chinese": "壳",
+    "chinese": "斯卡尔",
     "danish": "skal"
   },
   {
     "english": "eggshell",
-    "chinese": "壳",
+    "chinese": "蛋壳",
     "danish": "skal"
   },
   {
     "english": "shell",
-    "chinese": "壳",
+    "chinese": "斯卡尔",
     "danish": "skal"
   },
   {
@@ -59291,7 +59291,7 @@
   },
   {
     "english": "shoe",
-    "chinese": "鞋",
+    "chinese": "斯科",
     "danish": "sko"
   },
   {
@@ -59546,22 +59546,22 @@
   },
   {
     "english": "side",
-    "chinese": "脸",
+    "chinese": "边",
     "danish": "side"
   },
   {
     "english": "position",
-    "chinese": "脸",
+    "chinese": "位置",
     "danish": "side"
   },
   {
     "english": "side",
-    "chinese": "脸",
+    "chinese": "边",
     "danish": "side"
   },
   {
     "english": "face",
-    "chinese": "脸",
+    "chinese": "边",
     "danish": "side"
   },
   {
@@ -59826,32 +59826,32 @@
   },
   {
     "english": "flatware",
-    "chinese": "银",
+    "chinese": "餐具",
     "danish": "bestik"
   },
   {
     "english": "silver",
-    "chinese": "银",
+    "chinese": "贝斯蒂克",
     "danish": "bestik"
   },
   {
     "english": "flatware",
-    "chinese": "银",
+    "chinese": "餐具",
     "danish": "spisebestik"
   },
   {
     "english": "silver",
-    "chinese": "银",
+    "chinese": "斯皮塞贝斯蒂克",
     "danish": "spisebestik"
   },
   {
     "english": "flatware",
-    "chinese": "银",
+    "chinese": "餐具",
     "danish": "spiseredskab"
   },
   {
     "english": "silver",
-    "chinese": "银",
+    "chinese": "斯皮雷德斯卡布",
     "danish": "spiseredskab"
   },
   {
@@ -60156,12 +60156,12 @@
   },
   {
     "english": "slam",
-    "chinese": "砰",
+    "chinese": "满贯",
     "danish": "smække"
   },
   {
     "english": "bang",
-    "chinese": "砰",
+    "chinese": "斯麦克",
     "danish": "smække"
   },
   {
@@ -60256,12 +60256,12 @@
   },
   {
     "english": "slump",
-    "chinese": "伛",
+    "chinese": "暴跌",
     "danish": "synke 'sammen"
   },
   {
     "english": "slouch",
-    "chinese": "伛",
+    "chinese": "辛克萨门",
     "danish": "synke 'sammen"
   },
   {
@@ -60391,12 +60391,12 @@
   },
   {
     "english": "smoke",
-    "chinese": "烟",
+    "chinese": "抽烟",
     "danish": "røg"
   },
   {
     "english": "fume",
-    "chinese": "烟",
+    "chinese": "罗格",
     "danish": "røg"
   },
   {
@@ -60726,22 +60726,22 @@
   },
   {
     "english": "south",
-    "chinese": "S",
+    "chinese": "西德",
     "danish": "syd"
   },
   {
     "english": "due south",
-    "chinese": "S",
+    "chinese": "正南",
     "danish": "syd"
   },
   {
     "english": "southward",
-    "chinese": "S",
+    "chinese": "向南",
     "danish": "syd"
   },
   {
     "english": "S",
-    "chinese": "S",
+    "chinese": "西德",
     "danish": "syd"
   },
   {
@@ -61261,12 +61261,12 @@
   },
   {
     "english": "spray",
-    "chinese": "喷",
+    "chinese": "斯普罗伊特",
     "danish": "sprøjt"
   },
   {
     "english": "spray",
-    "chinese": "喷",
+    "chinese": "斯普罗伊特",
     "danish": "sprøjte"
   },
   {
@@ -61451,7 +61451,7 @@
   },
   {
     "english": "squad",
-    "chinese": "队",
+    "chinese": "集团",
     "danish": "gruppe"
   },
   {
@@ -61471,72 +61471,72 @@
   },
   {
     "english": "embrace",
-    "chinese": "挤",
+    "chinese": "拥抱",
     "danish": "omfavne"
   },
   {
     "english": "hug",
-    "chinese": "挤",
+    "chinese": "拥抱",
     "danish": "omfavne"
   },
   {
     "english": "bosom",
-    "chinese": "挤",
+    "chinese": "翁法夫内",
     "danish": "omfavne"
   },
   {
     "english": "squeeze",
-    "chinese": "挤",
+    "chinese": "翁法夫内",
     "danish": "omfavne"
   },
   {
     "english": "squash",
-    "chinese": "挤",
+    "chinese": "壁球",
     "danish": "kvase"
   },
   {
     "english": "crush",
-    "chinese": "挤",
+    "chinese": "压碎",
     "danish": "kvase"
   },
   {
     "english": "squelch",
-    "chinese": "挤",
+    "chinese": "静噪",
     "danish": "kvase"
   },
   {
     "english": "mash",
-    "chinese": "挤",
+    "chinese": "捣碎",
     "danish": "kvase"
   },
   {
     "english": "squeeze",
-    "chinese": "挤",
+    "chinese": "克瓦塞",
     "danish": "kvase"
   },
   {
     "english": "extort",
-    "chinese": "拧",
+    "chinese": "勒索",
     "danish": "afpresse"
   },
   {
     "english": "squeeze",
-    "chinese": "拧",
+    "chinese": "福普莱斯",
     "danish": "afpresse"
   },
   {
     "english": "rack",
-    "chinese": "拧",
+    "chinese": "架子",
     "danish": "afpresse"
   },
   {
     "english": "gouge",
-    "chinese": "拧",
+    "chinese": "挖出",
     "danish": "afpresse"
   },
   {
     "english": "wring",
-    "chinese": "拧",
+    "chinese": "福普莱斯",
     "danish": "afpresse"
   },
   {
@@ -61621,22 +61621,22 @@
   },
   {
     "english": "booth",
-    "chinese": "亭",
+    "chinese": "摊位",
     "danish": "bås"
   },
   {
     "english": "cubicle",
-    "chinese": "亭",
+    "chinese": "小隔间",
     "danish": "bås"
   },
   {
     "english": "stall",
-    "chinese": "亭",
+    "chinese": "摊位",
     "danish": "bås"
   },
   {
     "english": "kiosk",
-    "chinese": "亭",
+    "chinese": "巴斯",
     "danish": "bås"
   },
   {
@@ -62116,7 +62116,7 @@
   },
   {
     "english": "steep",
-    "chinese": "陡",
+    "chinese": "施泰尔",
     "danish": "stejl"
   },
   {
@@ -62176,57 +62176,57 @@
   },
   {
     "english": "gluey",
-    "chinese": "黏",
+    "chinese": "克莱布里格",
     "danish": "klæbrig"
   },
   {
     "english": "glutinous",
-    "chinese": "黏",
+    "chinese": "糯的",
     "danish": "klæbrig"
   },
   {
     "english": "gummy",
-    "chinese": "黏",
+    "chinese": "软糖",
     "danish": "klæbrig"
   },
   {
     "english": "mucilaginous",
-    "chinese": "黏",
+    "chinese": "粘液质的",
     "danish": "klæbrig"
   },
   {
     "english": "pasty",
-    "chinese": "黏",
+    "chinese": "糊状的",
     "danish": "klæbrig"
   },
   {
     "english": "sticky",
-    "chinese": "黏",
+    "chinese": "克莱布里格",
     "danish": "klæbrig"
   },
   {
     "english": "viscid",
-    "chinese": "黏",
+    "chinese": "粘稠的",
     "danish": "klæbrig"
   },
   {
     "english": "viscous",
-    "chinese": "黏",
+    "chinese": "粘稠的",
     "danish": "klæbrig"
   },
   {
     "english": "muggy",
-    "chinese": "黏",
+    "chinese": "闷热",
     "danish": "klæbrig"
   },
   {
     "english": "steamy",
-    "chinese": "黏",
+    "chinese": "热气腾腾的",
     "danish": "klæbrig"
   },
   {
     "english": "sticky",
-    "chinese": "黏",
+    "chinese": "克莱布里格",
     "danish": "klæbrig"
   },
   {
@@ -62256,7 +62256,7 @@
   },
   {
     "english": "stitch",
-    "chinese": "缝",
+    "chinese": "蜇",
     "danish": "sting"
   },
   {
@@ -62711,7 +62711,7 @@
   },
   {
     "english": "strip",
-    "chinese": "条",
+    "chinese": "斯特里梅尔",
     "danish": "strimmel"
   },
   {
@@ -63736,22 +63736,22 @@
   },
   {
     "english": "sword",
-    "chinese": "钢",
+    "chinese": "斯韦德",
     "danish": "sværd"
   },
   {
     "english": "blade",
-    "chinese": "钢",
+    "chinese": "刀刃",
     "danish": "sværd"
   },
   {
     "english": "brand",
-    "chinese": "钢",
+    "chinese": "品牌",
     "danish": "sværd"
   },
   {
     "english": "steel",
-    "chinese": "钢",
+    "chinese": "斯韦德",
     "danish": "sværd"
   },
   {
@@ -63861,32 +63861,32 @@
   },
   {
     "english": "bring",
-    "chinese": "拿",
+    "chinese": "带来",
     "danish": "bringe"
   },
   {
     "english": "convey",
-    "chinese": "拿",
+    "chinese": "传达",
     "danish": "bringe"
   },
   {
     "english": "take",
-    "chinese": "拿",
+    "chinese": "布林伊",
     "danish": "bringe"
   },
   {
     "english": "bring",
-    "chinese": "拿",
+    "chinese": "带来",
     "danish": "udbringe"
   },
   {
     "english": "convey",
-    "chinese": "拿",
+    "chinese": "传达",
     "danish": "udbringe"
   },
   {
     "english": "take",
-    "chinese": "拿",
+    "chinese": "乌德布林赫",
     "danish": "udbringe"
   },
   {
@@ -64311,12 +64311,12 @@
   },
   {
     "english": "team",
-    "chinese": "队",
+    "chinese": "抓住",
     "danish": "hold"
   },
   {
     "english": "squad",
-    "chinese": "队",
+    "chinese": "抓住",
     "danish": "hold"
   },
   {
@@ -64331,7 +64331,7 @@
   },
   {
     "english": "tease",
-    "chinese": "逗",
+    "chinese": "钻头",
     "danish": "drille"
   },
   {
@@ -65211,12 +65211,12 @@
   },
   {
     "english": "theology",
-    "chinese": "神",
+    "chinese": "神学",
     "danish": "teologi"
   },
   {
     "english": "divinity",
-    "chinese": "神",
+    "chinese": "理论",
     "danish": "teologi"
   },
   {
@@ -65511,7 +65511,7 @@
   },
   {
     "english": "thirsty",
-    "chinese": "渴",
+    "chinese": "托尔斯蒂格",
     "danish": "tørstig"
   },
   {
@@ -65626,22 +65626,22 @@
   },
   {
     "english": "throat",
-    "chinese": "咽",
+    "chinese": "哈尔斯",
     "danish": "hals"
   },
   {
     "english": "pharynx",
-    "chinese": "咽",
+    "chinese": "哈尔斯",
     "danish": "hals"
   },
   {
     "english": "throat",
-    "chinese": "咽",
+    "chinese": "施特鲁布",
     "danish": "strube"
   },
   {
     "english": "pharynx",
-    "chinese": "咽",
+    "chinese": "施特鲁布",
     "danish": "strube"
   },
   {
@@ -65726,17 +65726,17 @@
   },
   {
     "english": "ticket",
-    "chinese": "票",
+    "chinese": "钢坯",
     "danish": "billet"
   },
   {
     "english": "ticket",
-    "chinese": "票",
+    "chinese": "钢坯",
     "danish": "billet"
   },
   {
     "english": "tide",
-    "chinese": "潮",
+    "chinese": "潮汐万德",
     "danish": "tidevand"
   },
   {
@@ -65756,12 +65756,12 @@
   },
   {
     "english": "tiger",
-    "chinese": "虎",
+    "chinese": "老虎",
     "danish": "tiger"
   },
   {
     "english": "Panthera tigris",
-    "chinese": "虎",
+    "chinese": "老虎",
     "danish": "tiger"
   },
   {
@@ -65771,7 +65771,7 @@
   },
   {
     "english": "tile",
-    "chinese": "瓦",
+    "chinese": "泰格尔",
     "danish": "tegl"
   },
   {
@@ -66001,7 +66001,7 @@
   },
   {
     "english": "tooth",
-    "chinese": "齿",
+    "chinese": "德",
     "danish": "tak"
   },
   {
@@ -66176,7 +66176,7 @@
   },
   {
     "english": "town",
-    "chinese": "镇",
+    "chinese": "经过",
     "danish": "by"
   },
   {
@@ -66721,7 +66721,7 @@
   },
   {
     "english": "trench",
-    "chinese": "沟",
+    "chinese": "格罗夫特",
     "danish": "grøft"
   },
   {
@@ -67276,27 +67276,27 @@
   },
   {
     "english": "twin",
-    "chinese": "双",
+    "chinese": "特维尔林",
     "danish": "tvilling"
   },
   {
     "english": "braid",
-    "chinese": "捻",
+    "chinese": "编织",
     "danish": "fletning"
   },
   {
     "english": "plait",
-    "chinese": "捻",
+    "chinese": "弗莱宁",
     "danish": "fletning"
   },
   {
     "english": "tress",
-    "chinese": "捻",
+    "chinese": "头发",
     "danish": "fletning"
   },
   {
     "english": "twist",
-    "chinese": "捻",
+    "chinese": "弗莱宁",
     "danish": "fletning"
   },
   {
@@ -67376,22 +67376,22 @@
   },
   {
     "english": "tire",
-    "chinese": "胎",
+    "chinese": "达克",
     "danish": "dæk"
   },
   {
     "english": "tyre",
-    "chinese": "胎",
+    "chinese": "达克",
     "danish": "dæk"
   },
   {
     "english": "tire",
-    "chinese": "胎",
+    "chinese": "苏特",
     "danish": "sut"
   },
   {
     "english": "tyre",
-    "chinese": "胎",
+    "chinese": "苏特",
     "danish": "sut"
   },
   {
@@ -67416,7 +67416,7 @@
   },
   {
     "english": "umbrella",
-    "chinese": "伞",
+    "chinese": "瘫痪",
     "danish": "paraply"
   },
   {
@@ -67706,12 +67706,12 @@
   },
   {
     "english": "urge",
-    "chinese": "痒",
+    "chinese": "庄",
     "danish": "trang"
   },
   {
     "english": "itch",
-    "chinese": "痒",
+    "chinese": "庄",
     "danish": "trang"
   },
   {
@@ -67841,122 +67841,122 @@
   },
   {
     "english": "urine",
-    "chinese": "水",
+    "chinese": "拉德万代",
     "danish": "lade vandet"
   },
   {
     "english": "piss",
-    "chinese": "水",
+    "chinese": "小便",
     "danish": "lade vandet"
   },
   {
     "english": "pee",
-    "chinese": "水",
+    "chinese": "撒尿",
     "danish": "lade vandet"
   },
   {
     "english": "piddle",
-    "chinese": "水",
+    "chinese": "拉德万代",
     "danish": "lade vandet"
   },
   {
     "english": "weewee",
-    "chinese": "水",
+    "chinese": "威威",
     "danish": "lade vandet"
   },
   {
     "english": "water",
-    "chinese": "水",
+    "chinese": "拉德万代",
     "danish": "lade vandet"
   },
   {
     "english": "urine",
-    "chinese": "水",
+    "chinese": "小便",
     "danish": "pisse"
   },
   {
     "english": "piss",
-    "chinese": "水",
+    "chinese": "小便",
     "danish": "pisse"
   },
   {
     "english": "pee",
-    "chinese": "水",
+    "chinese": "撒尿",
     "danish": "pisse"
   },
   {
     "english": "piddle",
-    "chinese": "水",
+    "chinese": "皮德尔",
     "danish": "pisse"
   },
   {
     "english": "weewee",
-    "chinese": "水",
+    "chinese": "威威",
     "danish": "pisse"
   },
   {
     "english": "water",
-    "chinese": "水",
+    "chinese": "小便",
     "danish": "pisse"
   },
   {
     "english": "urine",
-    "chinese": "水",
+    "chinese": "蒂塞",
     "danish": "tisse"
   },
   {
     "english": "piss",
-    "chinese": "水",
+    "chinese": "蒂塞",
     "danish": "tisse"
   },
   {
     "english": "pee",
-    "chinese": "水",
+    "chinese": "撒尿",
     "danish": "tisse"
   },
   {
     "english": "piddle",
-    "chinese": "水",
+    "chinese": "皮德尔",
     "danish": "tisse"
   },
   {
     "english": "weewee",
-    "chinese": "水",
+    "chinese": "威威",
     "danish": "tisse"
   },
   {
     "english": "water",
-    "chinese": "水",
+    "chinese": "蒂塞",
     "danish": "tisse"
   },
   {
     "english": "urine",
-    "chinese": "水",
+    "chinese": "乌拉雷",
     "danish": "urinere"
   },
   {
     "english": "piss",
-    "chinese": "水",
+    "chinese": "小便",
     "danish": "urinere"
   },
   {
     "english": "pee",
-    "chinese": "水",
+    "chinese": "乌拉雷",
     "danish": "urinere"
   },
   {
     "english": "piddle",
-    "chinese": "水",
+    "chinese": "乌拉雷",
     "danish": "urinere"
   },
   {
     "english": "weewee",
-    "chinese": "水",
+    "chinese": "威威",
     "danish": "urinere"
   },
   {
     "english": "water",
-    "chinese": "水",
+    "chinese": "乌拉雷",
     "danish": "urinere"
   },
   {
@@ -68186,22 +68186,22 @@
   },
   {
     "english": "version",
-    "chinese": "版",
+    "chinese": "版本",
     "danish": "variant"
   },
   {
     "english": "variant",
-    "chinese": "版",
+    "chinese": "变体",
     "danish": "variant"
   },
   {
     "english": "variation",
-    "chinese": "版",
+    "chinese": "变化",
     "danish": "variant"
   },
   {
     "english": "edition",
-    "chinese": "版",
+    "chinese": "变体",
     "danish": "variant"
   },
   {
@@ -68761,17 +68761,17 @@
   },
   {
     "english": "wall",
-    "chinese": "墙",
+    "chinese": "穆尔",
     "danish": "mur"
   },
   {
     "english": "desire",
-    "chinese": "想",
+    "chinese": "欲望",
     "danish": "ønske"
   },
   {
     "english": "want",
-    "chinese": "想",
+    "chinese": "恩斯克",
     "danish": "ønske"
   },
   {
@@ -68871,22 +68871,22 @@
   },
   {
     "english": "wash",
-    "chinese": "洗",
+    "chinese": "瓦斯克",
     "danish": "vaske"
   },
   {
     "english": "lave",
-    "chinese": "洗",
+    "chinese": "瓦斯克",
     "danish": "vaske"
   },
   {
     "english": "wash",
-    "chinese": "洗",
+    "chinese": "瓦斯克",
     "danish": "vaske"
   },
   {
     "english": "launder",
-    "chinese": "洗",
+    "chinese": "瓦斯克",
     "danish": "vaske"
   },
   {
@@ -69146,12 +69146,12 @@
   },
   {
     "english": "water",
-    "chinese": "水",
+    "chinese": "范德",
     "danish": "vand"
   },
   {
     "english": "H2O",
-    "chinese": "水",
+    "chinese": "范德",
     "danish": "vand"
   },
   {
@@ -69476,37 +69476,37 @@
   },
   {
     "english": "west",
-    "chinese": "瓦",
+    "chinese": "背心",
     "danish": "vest"
   },
   {
     "english": "west",
-    "chinese": "瓦",
+    "chinese": "西方",
     "danish": "vest"
   },
   {
     "english": "due west",
-    "chinese": "瓦",
+    "chinese": "正西",
     "danish": "vest"
   },
   {
     "english": "westward",
-    "chinese": "瓦",
+    "chinese": "向西",
     "danish": "vest"
   },
   {
     "english": "W",
-    "chinese": "瓦",
+    "chinese": "背心",
     "danish": "vest"
   },
   {
     "english": "whale",
-    "chinese": "鲸",
+    "chinese": "哈瓦尔",
     "danish": "hval"
   },
   {
     "english": "whale",
-    "chinese": "鲸",
+    "chinese": "赫瓦尔菲斯克",
     "danish": "hvalfisk"
   },
   {
@@ -69876,7 +69876,7 @@
   },
   {
     "english": "wing",
-    "chinese": "翼",
+    "chinese": "文格",
     "danish": "vinge"
   },
   {
@@ -70011,7 +70011,7 @@
   },
   {
     "english": "wolf",
-    "chinese": "狼",
+    "chinese": "超低电压",
     "danish": "ulv"
   },
   {
@@ -70501,32 +70501,32 @@
   },
   {
     "english": "publish",
-    "chinese": "写",
+    "chinese": "斯克里夫",
     "danish": "skrive"
   },
   {
     "english": "write",
-    "chinese": "写",
+    "chinese": "斯克里夫",
     "danish": "skrive"
   },
   {
     "english": "spell",
-    "chinese": "写",
+    "chinese": "板条",
     "danish": "stave"
   },
   {
     "english": "write",
-    "chinese": "写",
+    "chinese": "板条",
     "danish": "stave"
   },
   {
     "english": "compose",
-    "chinese": "写",
+    "chinese": "撰写",
     "danish": "komponere"
   },
   {
     "english": "write",
-    "chinese": "写",
+    "chinese": "孔波内雷",
     "danish": "komponere"
   },
   {
