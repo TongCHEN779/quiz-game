@@ -93,12 +93,20 @@ const generateQuiz = (data, numQuestions, switchQuestion) => {
     typeQuestion = "danish";
     typeChoice = "english";
   }
+  if (switchQuestion === "Chinese2English") {
+    typeQuestion = "chinese";
+    typeChoice = "english";
+  }
   if (switchQuestion === "Chinese2Danish") {
     typeQuestion = "chinese";
     typeChoice = "danish";
   }
   if (switchQuestion === "Danish2Chinese") {
     typeQuestion = "danish";
+    typeChoice = "chinese";
+  }
+  if (switchQuestion === "English2Chinese") {
+    typeQuestion = "english";
     typeChoice = "chinese";
   }
 

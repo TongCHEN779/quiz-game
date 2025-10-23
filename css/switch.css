@@ -7,7 +7,7 @@
     background-color: rgb(36, 113, 163);
     border-radius: 8px;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     padding: 0 3px;
     margin-bottom: 24px;
 }
@@ -17,7 +17,7 @@
     position: relative;
     display: flex;
     z-index: 2;
-    width: calc(100% / 2);
+    width: calc(100% / 3);
     color: white;
 }
 
@@ -35,8 +35,8 @@
 .switcher .slider {
     position: absolute;
     z-index: 1;
-    width: calc((100% - 6px) / 2);
-    height: calc((100% - 6px) / 2);
+    width: calc((100% - 6px) / 3);
+    height: calc((100% - 6px) / 3);
     top: 3px;
     transform: translatex(-110%);
     bottom: 3px;
@@ -52,8 +52,14 @@
     transform: translate(100%, 0);
 }
 .switcher input:nth-of-type(3):checked ~ .slider {
-    transform: translate(0, 100%);
+    transform: translate(200%, 0);
 }
 .switcher input:nth-of-type(4):checked ~ .slider {
-    transform: translate(300%, 0);
+    transform: translate(0, 100%);
+}
+.switcher input:nth-of-type(5):checked ~ .slider {
+    transform: translate(100%, 100%);
+}
+.switcher input:nth-of-type(6):checked ~ .slider {
+    transform: translate(200%, 100%);
 }
