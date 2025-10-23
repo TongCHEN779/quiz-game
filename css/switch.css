@@ -24,6 +24,7 @@
     z-index: 2;
     width: calc(100% / 2);
     color: white;
+    border-radius: 8px;
 }
 
 .switcher label span {
@@ -35,6 +36,7 @@
 
 .switcher label span:hover {
     cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.1);
 }
   
 .switcher .slider {
@@ -43,22 +45,25 @@
     width: calc((100% - 6px) / 2);
     height: calc((100% - 6px) / 2);
     top: 3px;
+    border-radius: 8px;
     transform: translatex(-110%);
     bottom: 3px;
+    left: 3px;
     border-radius: 8px;
-    transition: .30s ease, transform 0.25s ease-out;
+    /* transition: .30s ease, transform 0.25s ease-out; */
+    transition: transform 0.3s ease;
     background-color: rgb(84, 153, 199);
 }
 
 .switcher input:nth-of-type(1):checked ~ .slider {
-    transform: translateX(0, 0);
+    transform: translate(0, 0);
 }
 .switcher input:nth-of-type(2):checked ~ .slider {
-    transform: translateX(100%, 0);
+    transform: translate(100%, 0);
 }
 .switcher input:nth-of-type(3):checked ~ .slider {
-    transform: translateX(0, 100%);
+    transform: translate(0, 100%);
 }
 .switcher input:nth-of-type(4):checked ~ .slider {
-    transform: translateX(100%, 100%);
+    transform: translate(100%, 100%);
 }
